@@ -3,8 +3,8 @@
   "source_generated_at": "2026-11-03T11:48:02Z",
   "language": "de-DE",
   "count": 392,
-  "matched_count": 377,
-  "review_count": 15,
+  "matched_count": 388,
+  "review_count": 4,
   "movies": [
     {
       "title": "10 Cloverfield Lane",
@@ -4793,26 +4793,73 @@
       "store_id": null,
       "year": 2003,
       "genre": "Action & Adventure",
-      "description": "Die letzte Schlacht um Mittelerde beginnt. Von Gollum geführt, setzen Frodo und Sam ihren Weg zu den Feuern des Schicksalsbergs fort, um ihren Auftrag zu erfüllen und den Einen Ring zu zerstören. Aragorn ist bemüht, seiner Bestimmung gerecht zu werden: Er",
+      "description": "Saurons Heer will Minas Tirith angreifen, die in Felsen errichtete Hauptstadt von Gondor. Angesichts der Bedrohlichkeit des feindlichen Heeres wiegt es umso schwerer, dass Gondors König fehlt und nur der schwächliche Truchsess Denethor über das einst mächtige Königreich wacht. Wird Aragorn die Kraft aufbringen, jene Aufgabe zu übernehmen, für die sein Schicksal ihn bestimmt hat? Während Gandalf verzweifelt versucht, die mutlosen Kämpfer von Gondor zu motivieren, sammelt Théoden die Krieger von Rohan, um am Kampf teilzunehmen. Aber obwohl sie tapfer und leidenschaftlich Widerstand leisten, haben die Streitkräfte der Menschen dem überwältigenden Ansturm der feindlichen Legionen gegen das Königreich kaum etwas entgegenzusetzen. Jeder Sieg fordert große Opfer. Trotz der starken Verluste stellen sich die Gefährten der größten Schlacht ihres Lebens - vereint durch ein einziges Ziel: Sauron muss so lange abgelenkt werden, bis Frodo den Ring vernichtet hat...",
       "director": "Peter Jackson",
       "source_key": "47dcd368421f1005903a",
       "library_year": 2003,
-      "tmdb_id": null,
-      "tmdb_url": null,
-      "tmdb_checked_at": "2026-11-04T10:36:31Z",
+      "tmdb_id": 122,
+      "tmdb_url": "https://www.themoviedb.org/movie/122",
+      "tmdb_checked_at": "2026-11-04T11:32:57Z",
       "match": {
-        "status": "unmatched",
-        "method": "no_results",
-        "override_id": null
+        "status": "matched",
+        "method": "manual_override",
+        "override_id": 122
       },
+      "original_title": "The Lord of the Rings: The Return of the King",
+      "release_date": "2003-12-17",
+      "runtime_minutes": 201,
       "genres": [
-        "Action & Adventure"
+        "Abenteuer",
+        "Fantasy",
+        "Action"
       ],
       "directors": [
         "Peter Jackson"
       ],
-      "cast": [],
-      "review_candidates": []
+      "cast": [
+        {
+          "name": "Elijah Wood",
+          "character": "Frodo"
+        },
+        {
+          "name": "Ian McKellen",
+          "character": "Gandalf"
+        },
+        {
+          "name": "Viggo Mortensen",
+          "character": "Aragorn"
+        },
+        {
+          "name": "Sean Astin",
+          "character": "Sam"
+        },
+        {
+          "name": "Andy Serkis",
+          "character": "Gollum / Smeagol"
+        },
+        {
+          "name": "Dominic Monaghan",
+          "character": "Merry"
+        },
+        {
+          "name": "Billy Boyd",
+          "character": "Pippin"
+        },
+        {
+          "name": "John Noble",
+          "character": "Denethor"
+        },
+        {
+          "name": "David Wenham",
+          "character": "Faramir"
+        },
+        {
+          "name": "Miranda Otto",
+          "character": "Éowyn"
+        }
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/uFjlP9U9UOZAzGB25HUtmlEpXbc.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ctiw6FZK4N36LmkjSklWEbuvlq9.jpg"
     },
     {
       "title": "Der Herr der Ringe: Die zwei Türme (Special Extended Edition)",
@@ -5512,26 +5559,73 @@
       "store_id": null,
       "year": 1980,
       "genre": "Comedy",
-      "description": "Ein verrückter Bombenleger ist an Bord des ersten öffentlichen Mondfluges. Das Shuttle droht sich selbst zu zerstören, die Motoren fallen aus und das Allerschlimmste – die Crew entdeckt, daß sie keinen Kaffee mehr hat! Mit an Bord bei diesem verrückten Mo",
+      "description": "Die komplette Besatzung eines Flugzeugs wird durch den Genuss verdorbenen Fischs flugunfähig gemacht. Glücklicherweise ist ein des Fliegens leidlich mächtiger Passagier, der ehemalige und geschockte Vietnam-Pilot Ted, an Bord. Der hat den übel riechenden Fisch verschmäht und versucht, seinen Ängsten und den gut gemeinten, aber falschen Funk-Tipps zum Trotz, das Flugzeug heil zu landen.",
       "director": "Jerry Zucker, David Zucker & Jim Abrahams",
       "source_key": "53c7ef9dad6069360444",
       "library_year": 1980,
-      "tmdb_id": null,
-      "tmdb_url": null,
-      "tmdb_checked_at": "2026-11-04T10:36:31Z",
+      "tmdb_id": 813,
+      "tmdb_url": "https://www.themoviedb.org/movie/813",
+      "tmdb_checked_at": "2026-11-04T11:32:57Z",
       "match": {
-        "status": "unmatched",
-        "method": "no_results",
-        "override_id": null
+        "status": "matched",
+        "method": "manual_override",
+        "override_id": 813
       },
+      "original_title": "Airplane!",
+      "release_date": "1980-06-27",
+      "runtime_minutes": 88,
       "genres": [
-        "Comedy"
+        "Komödie"
       ],
       "directors": [
-        "Jerry Zucker, David Zucker & Jim Abrahams"
+        "Jim Abrahams",
+        "David Zucker",
+        "Jerry Zucker"
       ],
-      "cast": [],
-      "review_candidates": []
+      "cast": [
+        {
+          "name": "Robert Hays",
+          "character": "Ted Striker"
+        },
+        {
+          "name": "Julie Hagerty",
+          "character": "Elaine Dickinson"
+        },
+        {
+          "name": "Leslie Nielsen",
+          "character": "Dr. Rumack"
+        },
+        {
+          "name": "Kareem Abdul-Jabbar",
+          "character": "Roger Murdock"
+        },
+        {
+          "name": "Lloyd Bridges",
+          "character": "Steve McCroskey"
+        },
+        {
+          "name": "Peter Graves",
+          "character": "Capt. Clarence Oveur"
+        },
+        {
+          "name": "Robert Stack",
+          "character": "Captain Rex Kramer"
+        },
+        {
+          "name": "Lorna Patterson",
+          "character": "Randy"
+        },
+        {
+          "name": "Jill Whelan",
+          "character": "Lisa Davis"
+        },
+        {
+          "name": "Ann Nelson",
+          "character": "Hanging Lady"
+        }
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/h8ly6xf2DUbipJgmzmpBLq4QpAm.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/wQyvrsNSTzFVEGgarZbFkFyIciy.jpg"
     },
     {
       "title": "Dirty Harry",
@@ -7784,49 +7878,75 @@
     {
       "title": "Garden State",
       "store_id": null,
-      "year": 2011,
+      "year": 2004,
       "genre": "Comedy",
-      "description": "Der in Los Angeles lebende, erfolglose Schauspieler Andrew \"Large\" Largeman hat es in den letzten neun Jahren immer wieder geschafft, Besuche in seiner Heimatstadt New Jersey zu vermeiden - hauptsächlich um den zwangsläufigen Konfrontationen mit seinem Va",
+      "description": "Als seine Mutter stirbt, kehrt der in New York lebende Schauspieler Andrew Largeman zurück an den Ort seiner Jugend. Zu seinem Vater Gideon hat er ein schwieriges Verhältnis. Da ist er froh, dass er einige alte Schulfreunde wiedertrifft. Kenny ist wider Erwarten Polizist geworden. Mark schlägt sich mit verschiedenen kleinen Jobs durch. Und Jessy hat durch den millionenschweren Verkauf einer Erfindung finanzielle Unabhängigkeit erreicht. Als sich Andrew wegen seiner psychischen Probleme zum örtlichen Arzt begibt, trifft er dort Sam. Er freundet sich mit ihr an. Dabei lässt er sich nicht nur durch seine Freunde und die Umgebung von der Vergangenheit einholen, sondern wagt sich gemeinsam mit Sam auch langsam in Richtung Zukunft.",
       "director": "Unknown",
       "source_key": "9ecfb4c1ff23eb3ba2a8",
       "library_year": 2011,
-      "tmdb_id": null,
-      "tmdb_url": null,
-      "tmdb_checked_at": "2026-11-04T10:36:31Z",
+      "tmdb_id": 401,
+      "tmdb_url": "https://www.themoviedb.org/movie/401",
+      "tmdb_checked_at": "2026-11-04T11:32:57Z",
       "match": {
-        "status": "unmatched",
-        "method": "no_safe_match",
-        "override_id": null
+        "status": "matched",
+        "method": "manual_override",
+        "override_id": 401
       },
+      "original_title": "Garden State",
+      "release_date": "2004-07-28",
+      "runtime_minutes": 102,
       "genres": [
-        "Comedy"
+        "Komödie",
+        "Drama",
+        "Liebesfilm"
       ],
-      "directors": [],
-      "cast": [],
-      "review_candidates": [
+      "directors": [
+        "Zach Braff"
+      ],
+      "cast": [
         {
-          "tmdb_id": 401,
-          "title": "Garden State",
-          "year": 2004,
-          "directors": [
-            "Zach Braff"
-          ],
-          "title_agrees": true,
-          "year_gap": 7,
-          "director_agrees": false
+          "name": "Zach Braff",
+          "character": "Andrew Largeman"
         },
         {
-          "tmdb_id": 1295069,
-          "title": "Garden State",
-          "year": 2024,
-          "directors": [
-            "Julie Langsam"
-          ],
-          "title_agrees": true,
-          "year_gap": 13,
-          "director_agrees": false
+          "name": "Natalie Portman",
+          "character": "Sam"
+        },
+        {
+          "name": "Ian Holm",
+          "character": "Gideon Largeman"
+        },
+        {
+          "name": "Peter Sarsgaard",
+          "character": "Mark"
+        },
+        {
+          "name": "Jean Smart",
+          "character": "Carol"
+        },
+        {
+          "name": "Armando Riesco",
+          "character": "Jesse"
+        },
+        {
+          "name": "Jackie Hoffman",
+          "character": "Aunt Sylvia Largeman"
+        },
+        {
+          "name": "Method Man",
+          "character": "Diego"
+        },
+        {
+          "name": "Alex Burns",
+          "character": "Dave"
+        },
+        {
+          "name": "Ron Leibman",
+          "character": "Dr. Cohen"
         }
-      ]
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/h3iqYiGS6F3y7GxaS4AT8nFxZ2i.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2mu6XkJE0B6nK5jeOvXOyWPVmhw.jpg"
     },
     {
       "title": "Gattaca",
@@ -7978,38 +8098,72 @@
       "store_id": null,
       "year": 2004,
       "genre": "Comedy",
-      "description": "Cady (Lindsay Lohan) glaubt, sie wüsste bereits alles über das „Gesetz des Stärkeren“, schließlich ist sie im afrikanischen Busch aufgewachsen mit Zoologen als Eltern. Aber das Gesetz des Dschungels bekommt eine völlig neue Bedeutung, als die 15-jährige P",
+      "description": "In Afrika aufgewachsen ist Cady Heron und erhielt bis dato Heimunterricht. Jetzt muss sie erstmals eine öffentliche Schule besuchen, eckt zunächst überall an und freundet sich mit den Aussenseiter-Freaks Jan und Damien an. Die beiden überzeugen Cady, die elitäre Mädchenclique der \"Plastics\" zu infiltrieren und Bericht über deren miese Machenschaften zu erstatten. Doch dann findet Cady Gefallen an ihrer neuen Rolle als cooles Chick.",
       "director": "Mark S. Waters",
       "source_key": "95cad1d0600e2f7c7fde",
       "library_year": 2004,
-      "tmdb_id": null,
-      "tmdb_url": null,
-      "tmdb_checked_at": "2026-11-04T10:36:31Z",
+      "tmdb_id": 10625,
+      "tmdb_url": "https://www.themoviedb.org/movie/10625",
+      "tmdb_checked_at": "2026-11-04T11:32:57Z",
       "match": {
-        "status": "unmatched",
-        "method": "no_safe_match",
-        "override_id": null
+        "status": "matched",
+        "method": "manual_override",
+        "override_id": 10625
       },
+      "original_title": "Mean Girls",
+      "release_date": "2004-04-30",
+      "runtime_minutes": 97,
       "genres": [
-        "Comedy"
+        "Drama",
+        "Komödie"
       ],
       "directors": [
-        "Mark S. Waters"
+        "Mark Waters"
       ],
-      "cast": [],
-      "review_candidates": [
+      "cast": [
         {
-          "tmdb_id": 10625,
-          "title": "Girls Club - Vorsicht bissig!",
-          "year": 2004,
-          "directors": [
-            "Mark Waters"
-          ],
-          "title_agrees": false,
-          "year_gap": 0,
-          "director_agrees": false
+          "name": "Lindsay Lohan",
+          "character": "Cady Heron"
+        },
+        {
+          "name": "Rachel McAdams",
+          "character": "Regina George"
+        },
+        {
+          "name": "Lizzy Caplan",
+          "character": "Janis Ian"
+        },
+        {
+          "name": "Lacey Chabert",
+          "character": "Gretchen Wieners"
+        },
+        {
+          "name": "Amanda Seyfried",
+          "character": "Karen Smith"
+        },
+        {
+          "name": "Daniel Franzese",
+          "character": "Damian"
+        },
+        {
+          "name": "Jonathan Bennett",
+          "character": "Aaron Samuels"
+        },
+        {
+          "name": "Rajiv Surendra",
+          "character": "Kevin Gnapoor"
+        },
+        {
+          "name": "Tina Fey",
+          "character": "Ms. Norbury"
+        },
+        {
+          "name": "Tim Meadows",
+          "character": "Mr. Duvall"
         }
-      ]
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/9t5LVPdaWSuUvWgw5UjOgwi4UkL.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nP3y0TkR6XniFs9J53qQkg4Bnnk.jpg"
     },
     {
       "title": "Gladiator (Extended Cut)",
@@ -12003,26 +12157,71 @@
       "store_id": null,
       "year": 1991,
       "genre": "Comedy",
-      "description": "Pappa (60) ist Abteilungsdirektor in einem Industrieunternehmen. Mit seiner Frau Renate (45) und dem gemeinsamen Sohn Dieter (16) führt er ein geregeltes Leben. Niemand in der Villa Lohse ahnt, daß die Harmonie nur auf dem reibungslosen Funktionieren eine",
+      "description": "Der Einkaufsdirektor Heinrich Lohse wird überraschend in den Vorruhestand geschickt. Seiner Familie verkündet er die „freudige“ Botschaft, dass er fortan seine Erfahrungen der Familie und dem Haushalt zugute kommen lassen will. Heinrich versucht sogleich die Lebensmitteleinkäufe der Familie möglichst kostengünstig zu gestalten. Seine Gattin Renate kann dem Rabattvorteil von zwei Paletten Senf für einen Dreipersonen-Haushalt jedoch nicht viel Positives abgewinnen. Weiteres Chaos lässt nicht lange auf sich warten und im Hause Lohse droht ein Rosenkrieg auszubrechen. Und dann naht auch noch der 80. Geburtstag der Schwiegermutter.",
       "director": "Vicco von Bülow",
       "source_key": "65f07a95653374314d50",
       "library_year": 1991,
-      "tmdb_id": null,
-      "tmdb_url": null,
-      "tmdb_checked_at": "2026-11-04T10:36:31Z",
+      "tmdb_id": 4695,
+      "tmdb_url": "https://www.themoviedb.org/movie/4695",
+      "tmdb_checked_at": "2026-11-04T11:32:57Z",
       "match": {
-        "status": "unmatched",
-        "method": "no_results",
-        "override_id": null
+        "status": "matched",
+        "method": "manual_override",
+        "override_id": 4695
       },
+      "original_title": "Pappa ante Portas",
+      "release_date": "1991-02-21",
+      "runtime_minutes": 91,
       "genres": [
-        "Comedy"
+        "Komödie"
       ],
       "directors": [
-        "Vicco von Bülow"
+        "Loriot"
       ],
-      "cast": [],
-      "review_candidates": []
+      "cast": [
+        {
+          "name": "Loriot",
+          "character": "Heinrich Lohse"
+        },
+        {
+          "name": "Evelyn Hamann",
+          "character": "Renate Lohse"
+        },
+        {
+          "name": "Gerrit Schmidt-Foß",
+          "character": "Dieter Lohse"
+        },
+        {
+          "name": "Irm Hermann",
+          "character": "Hedwig"
+        },
+        {
+          "name": "Hans Peter Korff",
+          "character": "Hellmuth"
+        },
+        {
+          "name": "Inge Wolffberg",
+          "character": "Ms. Kleinert"
+        },
+        {
+          "name": "Dagmar Biener",
+          "character": "Brigitte Mielke"
+        },
+        {
+          "name": "Ortrud Beginnen",
+          "character": "Gertrud Mielke"
+        },
+        {
+          "name": "H.H. Müller",
+          "character": "Drögel"
+        },
+        {
+          "name": "Ludger Pistor",
+          "character": "Director"
+        }
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/vtJOj6mkZ8kKwDNjUgZmYwEforq.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/770r9zi6lzjDPBcvepyZv83IEeQ.jpg"
     },
     {
       "title": "Loriot: Ödipussi",
@@ -12594,83 +12793,73 @@
       "store_id": null,
       "year": 1999,
       "genre": "Sci-Fi & Fantasy",
-      "description": "Der Hacker Neo wird übers Internet von einer geheimnisvollen Untergrund-Organisation kontaktiert. Der Kopf der Gruppe - der gesuchte Terrorist Morpheus - weiht ihn in ein Geheimnis ein: Die Realität, wie wir sie erleben, ist nur eine Scheinwelt. In Wahrhe",
+      "description": "Der Hacker Neo wird übers Internet von einer geheimnisvollen Untergrund-Organisation kontaktiert. Der Kopf der Gruppe – der gesuchte Terrorist Morpheus – weiht ihn in ein entsetzliches Geheimnis ein: Die Realität, wie wir sie erleben, ist nur eine Scheinwelt. In Wahrheit werden die Menschen längst von einer unheimlichen virtuellen Macht beherrscht – der „Matrix“, deren Agenten Neo bereits im Visier haben …",
       "director": "Andy Wachowski & Larry Wachowski",
       "source_key": "1fc47f957a9f4b473af7",
       "library_year": 1999,
-      "tmdb_id": null,
-      "tmdb_url": null,
-      "tmdb_checked_at": "2026-11-04T10:36:31Z",
+      "tmdb_id": 603,
+      "tmdb_url": "https://www.themoviedb.org/movie/603",
+      "tmdb_checked_at": "2026-11-04T11:32:57Z",
       "match": {
-        "status": "unmatched",
-        "method": "no_safe_match",
-        "override_id": null
+        "status": "matched",
+        "method": "manual_override",
+        "override_id": 603
       },
+      "original_title": "The Matrix",
+      "release_date": "1999-03-31",
+      "runtime_minutes": 136,
       "genres": [
-        "Sci-Fi & Fantasy"
+        "Action",
+        "Science Fiction"
       ],
       "directors": [
-        "Andy Wachowski & Larry Wachowski"
+        "Lana Wachowski",
+        "Lilly Wachowski"
       ],
-      "cast": [],
-      "review_candidates": [
+      "cast": [
         {
-          "tmdb_id": 603,
-          "title": "Matrix",
-          "year": 1999,
-          "directors": [
-            "Lana Wachowski",
-            "Lilly Wachowski"
-          ],
-          "title_agrees": true,
-          "year_gap": 0,
-          "director_agrees": false
+          "name": "Keanu Reeves",
+          "character": "Neo"
         },
         {
-          "tmdb_id": 555879,
-          "title": "Matrix",
-          "year": 1998,
-          "directors": [
-            "Nicky Hamlyn"
-          ],
-          "title_agrees": true,
-          "year_gap": 1,
-          "director_agrees": false
+          "name": "Laurence Fishburne",
+          "character": "Morpheus"
         },
         {
-          "tmdb_id": 373223,
-          "title": "Matrix",
-          "year": 1973,
-          "directors": [
-            "Malcolm Le Grice"
-          ],
-          "title_agrees": true,
-          "year_gap": 26,
-          "director_agrees": false
+          "name": "Carrie-Anne Moss",
+          "character": "Trinity"
         },
         {
-          "tmdb_id": 411948,
-          "title": "Matrix",
-          "year": 1971,
-          "directors": [
-            "John Whitney Sr."
-          ],
-          "title_agrees": true,
-          "year_gap": 28,
-          "director_agrees": false
+          "name": "Hugo Weaving",
+          "character": "Agent Smith"
         },
         {
-          "tmdb_id": 775293,
-          "title": "Matrix",
-          "year": 1973,
-          "directors": [
-            "James Cagle"
-          ],
-          "title_agrees": true,
-          "year_gap": 26,
-          "director_agrees": false
+          "name": "Gloria Foster",
+          "character": "Oracle"
+        },
+        {
+          "name": "Joe Pantoliano",
+          "character": "Cypher"
+        },
+        {
+          "name": "Marcus Chong",
+          "character": "Tank"
+        },
+        {
+          "name": "Julian Arahanga",
+          "character": "Apoc"
+        },
+        {
+          "name": "Matt Doran",
+          "character": "Mouse"
+        },
+        {
+          "name": "Belinda McClory",
+          "character": "Switch"
         }
-      ]
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/iVmDLujHcV1zaMnaahKWn4TcCS6.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/tlm8UkiQsitc8rSuIAscQDCnP8d.jpg"
     },
     {
       "title": "Meine Braut, ihr Vater und ich",
@@ -14056,28 +14245,73 @@
     {
       "title": "Nightmare On Elm Street: Mörderische Träume",
       "store_id": null,
-      "year": 1985,
+      "year": 1984,
       "genre": "Horror",
-      "description": "\"1, 2, Freddy kommt vorbei.\" Und hier ist er, Phantom-Bösewicht Freddy Krueger in all seiner messerscharfen Infamie. Wes Craven (\"Scream\") führte bei diesem richtungsweisenden ersten Werk der Slasher-Reihe Regie. Die Voraussetzungen sind einfach: Mörderis",
+      "description": "Praktisch über Nacht hält der blanke Horror Einzug in das Leben der jungen Nancy Thompson. Eines Nachts wird der hübsche Vorstadt-Teenager von einem erschreckend realen Alptraum heimgesucht: Ein narbengesichtiger Fremder mit Rasiermessern statt Fingern jagt sie durch den Heizungskeller, um sie zu massakrieren. Schreiend und schweißgebadet wacht Nancy auf und muss feststellen, dass ihr Nachthemd zerschlitzt ist! Ihre Eltern zeigen wenig Verständnis für die Schlafparanoia der Heranwachsenden, doch...",
       "director": "Wes Craven",
       "source_key": "d645fe3d37150f364967",
       "library_year": 1985,
-      "tmdb_id": null,
-      "tmdb_url": null,
-      "tmdb_checked_at": "2026-11-04T10:36:31Z",
+      "tmdb_id": 377,
+      "tmdb_url": "https://www.themoviedb.org/movie/377",
+      "tmdb_checked_at": "2026-11-04T11:32:57Z",
       "match": {
-        "status": "unmatched",
-        "method": "no_results",
-        "override_id": null
+        "status": "matched",
+        "method": "manual_override",
+        "override_id": 377
       },
+      "original_title": "A Nightmare on Elm Street",
+      "release_date": "1984-11-09",
+      "runtime_minutes": 91,
       "genres": [
         "Horror"
       ],
       "directors": [
         "Wes Craven"
       ],
-      "cast": [],
-      "review_candidates": []
+      "cast": [
+        {
+          "name": "Heather Langenkamp",
+          "character": "Nancy Thompson"
+        },
+        {
+          "name": "Robert Englund",
+          "character": "Fred Krueger"
+        },
+        {
+          "name": "Johnny Depp",
+          "character": "Glen Lantz"
+        },
+        {
+          "name": "Amanda Wyss",
+          "character": "Tina Gray"
+        },
+        {
+          "name": "Jsu Garcia",
+          "character": "Rod Lane"
+        },
+        {
+          "name": "John Saxon",
+          "character": "Lt. Thompson"
+        },
+        {
+          "name": "Ronee Blakley",
+          "character": "Marge Thompson"
+        },
+        {
+          "name": "Charles Fleischer",
+          "character": "Dr. King"
+        },
+        {
+          "name": "Joseph Whipp",
+          "character": "Sgt. Parker"
+        },
+        {
+          "name": "Lin Shaye",
+          "character": "Teacher"
+        }
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/nQIhO6n3xmdC9k6wjtbFaTlKPeG.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nzSjTiecdosBfwMGAdpt9CxltCI.jpg"
     },
     {
       "title": "Nosferatu",
@@ -17350,80 +17584,73 @@
       "store_id": null,
       "year": 2009,
       "genre": "Action & Adventure",
-      "description": "In a dynamic new portrayal of Arthur Conan Doyle's most famous characters, \"Sherlock Holmes\" sends Holmes (Robert Downey Jr.) and his stalwart partner, Dr. Watson (Jude Law) on their latest challenge. The only woman ever to have bested Holmes, Irene Adler",
+      "description": "Sherlock Holmes und sein Partner Dr. Watson haben es geschafft, einen der kaltblütigsten Mörder des 19. Jahrhunderts festzunehmen. Lord Blackwood hat zahlreiche Menschen auf dem Gewissen und muss dafür nun selber am Galgen baumeln. Dies scheint ihm jedoch wenig auszumachen, denn er beherrscht die Kunst der schwarzen Magie und verspricht Holmes, dass er auch nach seinem Tod noch weitere Menschen ermorden wird. Holmes hält nicht viel von dieser Drohung, doch als plötzlich die Morde wieder losgehen, beschließt er, die Leiche Lord Blackwoods zu exhumieren. Dabei stellt sich erschreckenderweise heraus, dass jemand anderes in dessen Sarg liegt. Nun sind also wieder Holmes und Watson gefragt und müssen dem mysteriösen Treiben ein Ende setzen...",
       "director": "Unknown",
       "source_key": "7ec0cb8126d1a8f2d6f6",
       "library_year": 2009,
-      "tmdb_id": null,
-      "tmdb_url": null,
-      "tmdb_checked_at": "2026-11-04T10:36:31Z",
+      "tmdb_id": 10528,
+      "tmdb_url": "https://www.themoviedb.org/movie/10528",
+      "tmdb_checked_at": "2026-11-04T11:32:57Z",
       "match": {
-        "status": "unmatched",
-        "method": "ambiguous",
-        "override_id": null
+        "status": "matched",
+        "method": "manual_override",
+        "override_id": 10528
       },
+      "original_title": "Sherlock Holmes",
+      "release_date": "2009-12-23",
+      "runtime_minutes": 128,
       "genres": [
-        "Action & Adventure"
+        "Action",
+        "Mystery",
+        "Krimi"
       ],
-      "directors": [],
-      "cast": [],
-      "review_candidates": [
+      "directors": [
+        "Guy Ritchie"
+      ],
+      "cast": [
         {
-          "tmdb_id": 10528,
-          "title": "Sherlock Holmes",
-          "year": 2009,
-          "directors": [
-            "Guy Ritchie"
-          ],
-          "title_agrees": true,
-          "year_gap": 0,
-          "director_agrees": false
+          "name": "Robert Downey Jr.",
+          "character": "Sherlock Holmes"
         },
         {
-          "tmdb_id": 33555,
-          "title": "Sherlock Holmes",
-          "year": 2010,
-          "directors": [
-            "Rachel Lee Goldenberg"
-          ],
-          "title_agrees": true,
-          "year_gap": 1,
-          "director_agrees": false
+          "name": "Jude Law",
+          "character": "Dr. John Watson"
         },
         {
-          "tmdb_id": 53800,
-          "title": "Sherlock Holmes",
-          "year": 1922,
-          "directors": [
-            "Albert Parker"
-          ],
-          "title_agrees": true,
-          "year_gap": 87,
-          "director_agrees": false
+          "name": "Rachel McAdams",
+          "character": "Irene Adler"
         },
         {
-          "tmdb_id": 163171,
-          "title": "Sherlock Holmes",
-          "year": 1932,
-          "directors": [
-            "William K. Howard"
-          ],
-          "title_agrees": true,
-          "year_gap": 77,
-          "director_agrees": false
+          "name": "Mark Strong",
+          "character": "Lord Henry Blackwood"
         },
         {
-          "tmdb_id": 295301,
-          "title": "Sherlock Holmes",
-          "year": 1937,
-          "directors": [
-            "Erich Engels"
-          ],
-          "title_agrees": true,
-          "year_gap": 72,
-          "director_agrees": false
+          "name": "Eddie Marsan",
+          "character": "Inspector Lestrade"
+        },
+        {
+          "name": "Robert Maillet",
+          "character": "Dredger"
+        },
+        {
+          "name": "Geraldine James",
+          "character": "Mrs. Hudson"
+        },
+        {
+          "name": "Kelly Reilly",
+          "character": "Mary Morstan"
+        },
+        {
+          "name": "William Houston",
+          "character": "Constable Clark"
+        },
+        {
+          "name": "Hans Matheson",
+          "character": "Lord Coward"
         }
-      ]
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/e9kRhrDgboGcC5CIyXNtds4fLU0.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/85g84VtSf9tu1A9JqqruXEHspb7.jpg"
     },
     {
       "title": "Sherlock Holmes: A Game of Shadows",
@@ -17579,26 +17806,77 @@
       "store_id": null,
       "year": 2004,
       "genre": "Kids & Family",
-      "description": "Unser Lieblings-Oger ist zurück in SHREK 2 – der tollkühnsten Komödie aller Zeiten, die Zuschauer und Kritiker noch mehr lieben als den Oscar®- gekrönten Vorgänger*! CINEMA meint: „Mehr Witze, höheres Tempo und noch mehr liebenswerte Figuren.“ Glücklich b",
+      "description": "Die frisch verheirateten Shrek und Prinzessin Fiona werden in Fionas Königreich \"Weit weit weg\" eingeladen, um die Hochzeit von Fionas Eltern segnen zu lassen - was Shrek für keine gute Idee hält, und er hat Recht damit: Die Eltern sind von der Verwandlung ihrer Tochter in eine Ogerin entsetzt, eine Gute Fee möchte ihren Sohn Prinz Charming mit Fiona verkuppeln und ein Killerkater wird damit beauftragt, Shrek beiseite zu schaffen.",
       "director": "Kelly Asbury, Conrad Vernon & Andrew Adamson",
       "source_key": "4b3e39cfd0f9852c6613",
       "library_year": 2004,
-      "tmdb_id": null,
-      "tmdb_url": null,
-      "tmdb_checked_at": "2026-11-04T10:36:31Z",
+      "tmdb_id": 809,
+      "tmdb_url": "https://www.themoviedb.org/movie/809",
+      "tmdb_checked_at": "2026-11-04T11:32:57Z",
       "match": {
-        "status": "unmatched",
-        "method": "no_results",
-        "override_id": null
+        "status": "matched",
+        "method": "manual_override",
+        "override_id": 809
       },
+      "original_title": "Shrek 2",
+      "release_date": "2004-05-19",
+      "runtime_minutes": 92,
       "genres": [
-        "Kids & Family"
+        "Animation",
+        "Komödie",
+        "Familie",
+        "Fantasy",
+        "Liebesfilm"
       ],
       "directors": [
-        "Kelly Asbury, Conrad Vernon & Andrew Adamson"
+        "Andrew Adamson",
+        "Kelly Asbury",
+        "Conrad Vernon"
       ],
-      "cast": [],
-      "review_candidates": []
+      "cast": [
+        {
+          "name": "Mike Myers",
+          "character": "Shrek (voice)"
+        },
+        {
+          "name": "Eddie Murphy",
+          "character": "Donkey (voice)"
+        },
+        {
+          "name": "Cameron Diaz",
+          "character": "Princess Fiona (voice)"
+        },
+        {
+          "name": "Julie Andrews",
+          "character": "Queen Lillian (voice)"
+        },
+        {
+          "name": "Antonio Banderas",
+          "character": "Puss in Boots (voice)"
+        },
+        {
+          "name": "John Cleese",
+          "character": "King Harold (voice)"
+        },
+        {
+          "name": "Rupert Everett",
+          "character": "Prince Charming (voice)"
+        },
+        {
+          "name": "Jennifer Saunders",
+          "character": "Fairy Godmother (voice)"
+        },
+        {
+          "name": "Larry King",
+          "character": "Ugly Stepsister (voice)"
+        },
+        {
+          "name": "Aron Warner",
+          "character": "Wolf (voice)"
+        }
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/uygoHVaXQvB6BYJfca4KDkb9jmM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8ohobj5lAIbl5XWw11FywS3IRrS.jpg"
     },
     {
       "title": "Sicario",
@@ -19800,36 +20078,74 @@
       "store_id": null,
       "year": 2002,
       "genre": "Sci-Fi & Fantasy",
-      "description": "In the wake of a joyful wedding between Riker (Jonathan Frakes) and Troi (Marina Sirtis), Picard",
+      "description": "Captain Jean-Luc Picard bekommt den diplomatischen Auftrag, mit den Romulanern Frieden zu schließen. Doch auf dem fremden Planeten angekommen sieht er sich mit seinem bösen, um 30 Jahre jüngeren Klon Shinzon konfrontiert, der sich vom Arbeitssklaven zum Anführer des Kriegervolks emporgeschwungen hat. Shinzon benötigt zum Überleben eine Gen-Transplantation von Picard, ehe er mit einer Waffe von gigantischer Zerstörungskraft daran gehen kann, alles Leben auf der Erde zu vernichten und die Föderation zu zerstören.",
       "director": "Unknown",
       "source_key": "7ca06023857f4107d4ab",
       "library_year": 2002,
-      "tmdb_id": null,
-      "tmdb_url": null,
-      "tmdb_checked_at": "2026-11-04T10:36:31Z",
+      "tmdb_id": 201,
+      "tmdb_url": "https://www.themoviedb.org/movie/201",
+      "tmdb_checked_at": "2026-11-04T11:32:57Z",
       "match": {
-        "status": "unmatched",
-        "method": "no_safe_match",
-        "override_id": null
+        "status": "matched",
+        "method": "manual_override",
+        "override_id": 201
       },
+      "original_title": "Star Trek: Nemesis",
+      "release_date": "2002-12-13",
+      "runtime_minutes": 116,
       "genres": [
-        "Sci-Fi & Fantasy"
+        "Science Fiction",
+        "Action",
+        "Abenteuer",
+        "Thriller"
       ],
-      "directors": [],
-      "cast": [],
-      "review_candidates": [
+      "directors": [
+        "Stuart Baird"
+      ],
+      "cast": [
         {
-          "tmdb_id": 201,
-          "title": "Star Trek: Nemesis",
-          "year": 2002,
-          "directors": [
-            "Stuart Baird"
-          ],
-          "title_agrees": false,
-          "year_gap": 0,
-          "director_agrees": false
+          "name": "Patrick Stewart",
+          "character": "Captain Jean-Luc Picard"
+        },
+        {
+          "name": "Jonathan Frakes",
+          "character": "Commander William T. Riker"
+        },
+        {
+          "name": "Brent Spiner",
+          "character": "Lt. Commander Data"
+        },
+        {
+          "name": "LeVar Burton",
+          "character": "Lt. Commander Geordi La Forge"
+        },
+        {
+          "name": "Michael Dorn",
+          "character": "Lt. Commander Worf"
+        },
+        {
+          "name": "Gates McFadden",
+          "character": "Dr. Beverly Crusher"
+        },
+        {
+          "name": "Marina Sirtis",
+          "character": "Counselor Deanna Troi"
+        },
+        {
+          "name": "Tom Hardy",
+          "character": "Praetor Shinzon"
+        },
+        {
+          "name": "Ron Perlman",
+          "character": "Viceroy Vkruk"
+        },
+        {
+          "name": "Dina Meyer",
+          "character": "Commander Donatra"
         }
-      ]
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/jpvySyrGdnQfnKgw1sY9cgPTJuf.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/6z9w8eidKWDDXwZNSVNaRolAYEP.jpg"
     },
     {
       "title": "Star Wars: Angriff der Klonkrieger",
@@ -26954,26 +27270,73 @@
       "store_id": null,
       "year": 2008,
       "genre": "Kids & Family",
-      "description": "Nachdem die gesamte Menschheit ihren völlig verschmutzten Heimatplaneten in die Weiten des Weltalls verlassen hat, bleibt das Aufräumen der Erde den Robotern überlassen. 700 Jahre später ist nur noch der kleine Roboter WALL-E übrig und macht unermüdlich g",
+      "description": "Wall·E ist ein kleiner Haushaltsroboter, der klaglos seinen Dienst verrichtet und Müll zusammenpresst, um ihn zu Wolkenkratzern aufzustapeln. Denn der kleine rostige Kasten macht seinen Job seit nunmehr 700 Jahren! Damals verließen alle Menschen die völlig zugemüllte Erde. Nun ist Wall·E der letzte seiner Art auf einem toten Planeten. Bis Androidin Eve als Lichtgestalt vom Himmel herunterschwebt.",
       "director": "Andrew Stanton",
       "source_key": "e15533635cf10920e83f",
       "library_year": 2008,
-      "tmdb_id": null,
-      "tmdb_url": null,
-      "tmdb_checked_at": "2026-11-04T10:36:31Z",
+      "tmdb_id": 10681,
+      "tmdb_url": "https://www.themoviedb.org/movie/10681",
+      "tmdb_checked_at": "2026-11-04T11:32:57Z",
       "match": {
-        "status": "unmatched",
-        "method": "no_plausible_candidates",
-        "override_id": null
+        "status": "matched",
+        "method": "manual_override",
+        "override_id": 10681
       },
+      "original_title": "WALL·E",
+      "release_date": "2008-06-26",
+      "runtime_minutes": 98,
       "genres": [
-        "Kids & Family"
+        "Animation",
+        "Familie",
+        "Science Fiction"
       ],
       "directors": [
         "Andrew Stanton"
       ],
-      "cast": [],
-      "review_candidates": []
+      "cast": [
+        {
+          "name": "Ben Burtt",
+          "character": "WALL·E / M-O (voice)"
+        },
+        {
+          "name": "Elissa Knight",
+          "character": "EVE (voice)"
+        },
+        {
+          "name": "Jeff Garlin",
+          "character": "Captain (voice)"
+        },
+        {
+          "name": "Fred Willard",
+          "character": "Shelby Forthright, BnL CEO"
+        },
+        {
+          "name": "John Ratzenberger",
+          "character": "John (voice)"
+        },
+        {
+          "name": "Kathy Najimy",
+          "character": "Mary (voice)"
+        },
+        {
+          "name": "Sigourney Weaver",
+          "character": "Ship's Computer (voice)"
+        },
+        {
+          "name": "Lori Alan",
+          "character": "Additional Voices (voice)"
+        },
+        {
+          "name": "Bob Bergen",
+          "character": "Additional Voices (voice)"
+        },
+        {
+          "name": "John Cygan",
+          "character": "Additional Voices (voice)"
+        }
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/TPClTvyD4a8DGz7sD8si6x7QqB.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg"
     },
     {
       "title": "War of the Worlds (2005)",
