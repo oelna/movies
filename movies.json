@@ -1,0 +1,3143 @@
+{
+  "generated_at": "2026-11-03T11:48:02Z",
+  "source": "applescript",
+  "count": 392,
+  "movies": [
+    {
+      "title": "10 Cloverfield Lane",
+      "store_id": null,
+      "year": 2016,
+      "genre": "Thriller",
+      "description": "Outside is dangerous…inside is terrifying in the heart-pounding new thriller from producer J.J.",
+      "director": "Dan Trachtenberg"
+    },
+    {
+      "title": "11:14 - Elevenfourteen",
+      "store_id": null,
+      "year": 2013,
+      "genre": "Drama",
+      "description": "Ein angetrunkener Autofahrer und eine durchtriebene Teenagerin bei einem Schäferstündchen auf dem Friedhof, drei Jungs, die nichts als Blödsinn im Kopf haben, eine Tankstellenangestellte, die von ihrem besten Freund überfallen wird, und ein Vater in panis",
+      "director": "Greg Marcks"
+    },
+    {
+      "title": "11:14 Elevenfourteen",
+      "store_id": null,
+      "year": 2011,
+      "genre": "Thriller",
+      "description": "Ein angetrunkener Autofahrer (Henry Thomas) und eine durchtriebene Teenagerin (Rachael Leigh Cook) bei einem Schäferstündchen auf dem Friedhof, drei Jungs, die nichts als Blödsinn im Kopf haben, eine Tankstellenangestellte (Hilary Swank), die von ihrem be",
+      "director": "Greg Marcks"
+    },
+    {
+      "title": "12 Monkeys",
+      "store_id": null,
+      "year": 1996,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "Das Jahr 2035: In den verlassenen Städten haben die Tiere die Herrschaft übernommen. Die Erdoberfläche ist entvölkert, nachdem eine Virenkatastrophe im Jahr 1996 nahezu die gesamte Menschheit dahingerafft hat. Die wenigen Überlebenden vegetieren in einem ",
+      "director": "Terry Gilliam"
+    },
+    {
+      "title": "1917",
+      "store_id": null,
+      "year": 2020,
+      "genre": "Drama",
+      "description": "Sam Mendes, the Oscar®-winning director of Skyfall, Spectre and American Beauty, brings his singular",
+      "director": "Sam Mendes"
+    },
+    {
+      "title": "2001: A Space Odyssey",
+      "store_id": null,
+      "year": 2001,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "A pair of astronauts heads to Jupiter to investigate a radio signal sent from a mysterious monolith on the moon, but their tranquil trip is endangered when their on-board computer begins acting oddly. The simple plot of director Stanley Kubrick's inspired",
+      "director": "Stanley Kubrick"
+    },
+    {
+      "title": "28 Days Later",
+      "store_id": null,
+      "year": 2002,
+      "genre": "Horror",
+      "description": "An infirmary patient awakens from a coma to an empty room...in a vacant hospital...in a deserted city. A powerful virus, which locks victims into a permanent state of murderous rage, has transformed the world around him into a seemingly desolate wasteland",
+      "director": "Danny Boyle"
+    },
+    {
+      "title": "28 Years Later",
+      "store_id": null,
+      "year": 2025,
+      "genre": "Drama",
+      "description": "Academy Award-winning director Danny Boyle (Best Directing, Slumdog Millionaire, 2008) and Academy",
+      "director": "Danny Boyle"
+    },
+    {
+      "title": "300",
+      "store_id": null,
+      "year": 2007,
+      "genre": "Action & Adventure",
+      "description": "The epic graphic novel by Frank Miller (Sin City) assaults the screen with the blood, thunder and awe of its ferocious visual style faithfully recreated in an intense blend of live-action and CGI animation. Retelling the ancient Battle of Thermopylae, it ",
+      "director": "Zack Snyder"
+    },
+    {
+      "title": "A Clockwork Orange",
+      "store_id": null,
+      "year": 1972,
+      "genre": "Drama",
+      "description": "Being the adventures of a young man...who loved a bit of the old ultra-violence...went to jail, was",
+      "director": "Stanley Kubrick"
+    },
+    {
+      "title": "A History of Violence",
+      "store_id": null,
+      "year": 2005,
+      "genre": "Action & Adventure",
+      "description": "An average family is thrust into the spotlight after the father (Viggo Mortensen) commits a seemingly self-defense murder at his diner.",
+      "director": "David Cronenberg"
+    },
+    {
+      "title": "A Quiet Place",
+      "store_id": null,
+      "year": 2018,
+      "genre": "Thriller",
+      "description": "If they hear you, they hunt you. In this critically acclaimed, worldwide box office hit, a family",
+      "director": "John Krasinski"
+    },
+    {
+      "title": "Ace Ventura: Pet Detective",
+      "store_id": null,
+      "year": 1994,
+      "genre": "Comedy",
+      "description": "He's the best there is, in fact, he's the only one there is! He's Ace",
+      "director": "Unknown"
+    },
+    {
+      "title": "Ace Ventura: When Nature Calls",
+      "store_id": null,
+      "year": 1995,
+      "genre": "Kids & Family",
+      "description": "Africa's the place and Ace is on the case. Jim Carrey returns as Ace, the alligator wresslin', elephant calling, monkeyshining, burning coals-crossing, disguise mastering pet detective.",
+      "director": "Steve Oedekerk"
+    },
+    {
+      "title": "Alien (Director’s Cut)",
+      "store_id": null,
+      "year": 1979,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "Der Raumfrachter Nostromo befindet sich Lichtjahre von der Erde entfernt, als die Besatzung vom Steuercomputer aus dem Hyperschlaf geweckt wird. Ein unbekanntes Signal veranlasst die Mannschaft zur Landung auf einem fremden Planeten. Ein Besuch der ihnen ",
+      "director": "Ridley Scott"
+    },
+    {
+      "title": "Alien - Das unheimliche Wesen aus einer fremden Welt",
+      "store_id": null,
+      "year": 1979,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "Der Raumfrachter Nostromo befindet sich Lichtjahre von der Erde entfernt, als die Besatzung vom Steuercomputer aus dem Hyperschlaf geweckt wird. Ein unbekanntes Signal veranlasst die Mannschaft zur Landung auf einem fremden Planeten. Ein Besuch der ihnen ",
+      "director": "Ridley Scott"
+    },
+    {
+      "title": "Alien 3",
+      "store_id": null,
+      "year": 1992,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "Nach ihrer letzten Begegnung mit den Aliens strandet Ellen Ripley (Sigourney Weaver) auf einem streng bewachten Gefängnisplaneten. Die einsitzenden Männer zählen zu den brutalsten Kriminellen des Universums - eine Frau haben sie seit Jahren oder gar Jahrz",
+      "director": "David Fincher"
+    },
+    {
+      "title": "Alien 4 - Die Wiedergeburt",
+      "store_id": null,
+      "year": 1997,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "Ellen Ripley (Sigourney Weaver) starb im Kampf gegen den perfekten außerirdischen Killerorganismus. 200 Jahre später kehrt sie als Ergebnis eines grausamen Experiments zurück - halb Mensch, halb Alien. Skrupellose Wissenschaftler clonten sie - gemeinsam m",
+      "director": "Jean-Pierre Jeunet"
+    },
+    {
+      "title": "Alien vs. Predator",
+      "store_id": null,
+      "year": 2004,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "Die Entdeckung einer altertümlichen, tief im Eis der Antarktis begrabenen Pyramide durch den Industriellen Charles Bishop Weyland zieht ein Team von Wissenschaftlern und Abenteurern an den eisigen Südpol. Was sie dort unten erleben entwickelt sich jedoch ",
+      "director": "Paul W.S. Anderson"
+    },
+    {
+      "title": "Alien: Covenant",
+      "store_id": null,
+      "year": 2017,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "Die Crew des Kolonisationsraumschiffs Covenant ist unterwegs zu einem abgelegenen Planeten am Rand der Galaxie. Sie entdeckt - wie sie glaubt - ein unerforschtes Paradies, aber tatsächlich ist es eine dunkle, gefährliche Welt. Als die Crew mit einer ihre ",
+      "director": "Ridley Scott"
+    },
+    {
+      "title": "Aliens - Die Rückkehr",
+      "store_id": null,
+      "year": 1986,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "Der Schrecken setzt sich in dieser angsteinflößenden, von Kritikern gefeierten Fortsetzung fort, als Ripley (Sigourney Weaver), die einzige Überlebende der tödlichen Begegnung der Nostromo mit dem monströsen Alien, nach 57 Jahren im Hyperschlaf durch das ",
+      "director": "James Cameron"
+    },
+    {
+      "title": "Almost Famous",
+      "store_id": null,
+      "year": 2001,
+      "genre": "Drama",
+      "description": "Set in 1973, a pivotal time in the history of rock and roll, Almost Famous chronicles the funny and",
+      "director": "Cameron Crowe"
+    },
+    {
+      "title": "American Beauty",
+      "store_id": null,
+      "year": 1999,
+      "genre": "Drama",
+      "description": "Kevin Spacey plays Lester Burnham, a man in his mid-40s going through an intense midlife crisis; he'",
+      "director": "Sam Mendes"
+    },
+    {
+      "title": "American Psycho",
+      "store_id": null,
+      "year": 2000,
+      "genre": "Drama",
+      "description": "Patrick Bateman (Christian Bale) is a Wall Street yuppie, obsessed with success, status and style,",
+      "director": "Mary Harron"
+    },
+    {
+      "title": "Annihilation",
+      "store_id": null,
+      "year": 2018,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "From the director of Ex Machina comes one of the year's most critically acclaimed thrillers.",
+      "director": "Alex Garland"
+    },
+    {
+      "title": "Antichrist (2009)",
+      "store_id": null,
+      "year": 2010,
+      "genre": "Independent",
+      "description": "Ein trauerndes Paar zieht sich in ihre einsame Hütte, „Eden“, in den Wäldern zurück. Sie kämpft nach dem Tod des kleinen Sohnes mit Trauer und Schuldgefühlen, die in ihr eine Depression hervorrufen. Er ist Psychiater und will sie dort im Wald, vor dem sie",
+      "director": "Lars von Trier"
+    },
+    {
+      "title": "Apocalypse Now: Final Cut",
+      "store_id": null,
+      "year": 2019,
+      "genre": "Drama",
+      "description": "A never-before-seen and newly restored cut of Francis Ford Coppola’s spectacular cinematic",
+      "director": "Francis Ford Coppola"
+    },
+    {
+      "title": "Arielle, die Meerjungfrau",
+      "store_id": null,
+      "year": 1990,
+      "genre": "Musicals",
+      "description": "Eintauchen in die Farbenpracht einer fantastischen Unterwasserwelt: Disneys Meisterwerk Arielle die Meerjungfrau! Tief unten im Meer lebt die kleine, aufgeweckte Meerjungfrau Arielle, die sich nichts sehnlicher wünscht, als an Land zu wohnen. Die Welt der",
+      "director": "Ron Clements & John Musker"
+    },
+    {
+      "title": "Arizona Junior",
+      "store_id": null,
+      "year": 1987,
+      "genre": "Comedy",
+      "description": "Die Welt ist ungerecht! Während der Ein brecher Hi (Nicolas Cage) und die Polizistin Ed (Holly Hunter) keine Kinder bekommen können, freut sich Millionär Arizona über die Geburt von Fünflingen. Was macht da schon eins weniger denkt sich Hi, entführt kurze",
+      "director": "Joel Coen"
+    },
+    {
+      "title": "Army of Darkness",
+      "store_id": null,
+      "year": 1993,
+      "genre": "Horror",
+      "description": "A man is accidentally transported to 1300 A.D., where he must battle an army of the dead and",
+      "director": "Sam Raimi"
+    },
+    {
+      "title": "Arrival",
+      "store_id": null,
+      "year": 2016,
+      "genre": "Drama",
+      "description": "When mysterious spacecraft touch down across the globe, an elite team – led by expert linguist",
+      "director": "Denis Villeneuve"
+    },
+    {
+      "title": "Austin Powers - Spion in geheimer Missionarsstellung",
+      "store_id": null,
+      "year": 1999,
+      "genre": "Comedy",
+      "description": "Bisher hat er nur für die Krone gekämpft - jetzt muss er seine eigene Männlichkeit verteidigen! Mike Myers spielt wieder den hippsten Superspion der Welt, der per Zeitreise in die swingenden 60er zurückkehrt, um sein \"Mojo\" zu retten und Dr. Evils Weltver",
+      "director": "Jay Roach"
+    },
+    {
+      "title": "Austin Powers in Goldmember",
+      "store_id": null,
+      "year": 2002,
+      "genre": "Comedy",
+      "description": "It's been three years since Austin Powers' last encounter with his deadly archenemy, Dr. Evil. But after Dr. Evil and his accomplice Mini-Me escape from a maximum-security prison, Austin, that international man of mystery, swings into action for another c",
+      "director": "Jay Roach"
+    },
+    {
+      "title": "Avatar - Aufbruch nach Pandora",
+      "store_id": null,
+      "year": 2009,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "Avatar takes us to the amazing world of Pandora, where a man embarks on an epic journey of adventure",
+      "director": "James Cameron"
+    },
+    {
+      "title": "Avengers: Age of Ultron",
+      "store_id": null,
+      "year": 2015,
+      "genre": "Action & Adventure",
+      "description": "Marvel präsentiert die epische Fortsetzung des größten Superhelden-Films aller Zeiten. Die Reaktivierung eines Programms zur Friedenssicherung durch Tony Stark läuft nicht wie geplant und die mächtigsten Helden der Erde, darunter Iron Man, Captain America",
+      "director": "Joss Whedon"
+    },
+    {
+      "title": "Avengers: Infinity War",
+      "store_id": null,
+      "year": 2018,
+      "genre": "Action & Adventure",
+      "description": "Nach einer beispiellosen Reise, die vor zehn Jahren begann und das gesamte Marvel Filmuniversum umspannt, bringt Marvels Avengers: Infinity War den ultimativen und tödlichsten Showdown aller Zeiten auf die Leinwand. Die Avengers und ihre verbündeten Super",
+      "director": "Anthony Russo & Joe Russo"
+    },
+    {
+      "title": "Bad Boys",
+      "store_id": null,
+      "year": 1995,
+      "genre": "Action & Adventure",
+      "description": "From top producers Don Simpson and Jerry Bruckheimer (Top Gun, Beverly Hills Cop 1 & 2, Days of",
+      "director": "Michael Bay"
+    },
+    {
+      "title": "Barbarian",
+      "store_id": null,
+      "year": 2022,
+      "genre": "Thriller",
+      "description": "Traveling to Detroit for a job interview, a young woman (Georgina Campbell) books a rental home. But",
+      "director": "Zach Cregger"
+    },
+    {
+      "title": "Batman Begins",
+      "store_id": null,
+      "year": 2005,
+      "genre": "Action & Adventure",
+      "description": "In Batman Begins ergründet der gefeierte Regisseur Christopher Nolan die Anfänge der Legende des Dunklen Ritters. Als kleiner Junge zum Zeugen des Mordes an seinen Eltern geworden und geplagt von seinen Kindheitserinnerungen, reist der Industrie-Erbe Bruc",
+      "director": "Unknown"
+    },
+    {
+      "title": "Batman Forever",
+      "store_id": null,
+      "year": 1995,
+      "genre": "Action & Adventure",
+      "description": "Jim Carrey stars as criminal genius, The Riddler, and Tommy Lee Jones plays Two-Face. Together,",
+      "director": "Joel Schumacher"
+    },
+    {
+      "title": "Beverly Hills Cop",
+      "store_id": null,
+      "year": 1984,
+      "genre": "Comedy",
+      "description": "The heat is on in this fast paced action-comedy starring Eddie Murphy as Axel Foley, a street smart",
+      "director": "Martin Brest"
+    },
+    {
+      "title": "Black Panther (2018)",
+      "store_id": null,
+      "year": 2018,
+      "genre": "Action & Adventure",
+      "description": "Nach dem Tod seines Vaters, des Königs von Wakanda, kehrt der junge T'Challa nach Hause in die isolierte afrikanische High-Tech-Nation zurück, um den Thron und seinen rechtmäßigen Platz als König einzunehmen. Als ein mächtiger Feind zurückkehrt, muss T'Ch",
+      "director": "Ryan Coogler"
+    },
+    {
+      "title": "Black Swan",
+      "store_id": null,
+      "year": 2011,
+      "genre": "Drama",
+      "description": "\"In dem Psychothriller BLACK SWAN bekommt die junge, aufstrebende Ballerina Nina (Natalie Portman) die Doppelrolle ihres Lebens: In \"\"Schwanensee\"\" soll sie sowohl den unschuldigen weißen als auch den dämonischen schwarzen Schwan verkörpern. Während sie d",
+      "director": "Darren Aronofsky"
+    },
+    {
+      "title": "Blade Runner (The Final Cut)",
+      "store_id": null,
+      "year": 2007,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "Visually spectacular, intensely action-packed and powerfully prophetic since its debut, Blade Runner",
+      "director": "Ridley Scott"
+    },
+    {
+      "title": "Blade Runner 2049",
+      "store_id": null,
+      "year": 2017,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K (Ryan Gosling),",
+      "director": "Denis Villeneuve"
+    },
+    {
+      "title": "Booksmart",
+      "store_id": null,
+      "year": 2019,
+      "genre": "Comedy",
+      "description": "Molly und Amy haben in der Highschool alles richtig gemacht. Mit Bestnoten blicken sie nun wohlverdient einer glänzenden Zukunft an Elite-Unis entgegen und herab auf die Loser ihrer Klasse. Doch am letzten Schultag stellt Molly voller Entsetzen fest, dass",
+      "director": "Olivia Wilde"
+    },
+    {
+      "title": "Borat",
+      "store_id": null,
+      "year": 2006,
+      "genre": "Comedy",
+      "description": "In dem ausgelassen anstößigen Film macht Borat sich von seinem primitiven, kasachischen Heimatdorf aus auf in das große Amerika, um das Leben der Amerikaner genau zu studieren und einen lehrreichen Film für sein Land zu drehen. Das Ziel der Reise: \"Kultur",
+      "director": "Larry Charles"
+    },
+    {
+      "title": "Bram Stoker's Dracula",
+      "store_id": null,
+      "year": 1993,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "Gary Oldman, Winona Ryder and Anthony Hopkins star in director Francis Ford Coppola's visually ",
+      "director": "Francis Ford Coppola"
+    },
+    {
+      "title": "Cape Fear (1991)",
+      "store_id": null,
+      "year": 1991,
+      "genre": "Drama",
+      "description": null,
+      "director": "Martin Scorsese"
+    },
+    {
+      "title": "Captain Fantastic - Einmal Wildnis und zurück",
+      "store_id": null,
+      "year": 2016,
+      "genre": "Drama",
+      "description": "Der hochgebildete Ben (Viggo Mortensen) lebt aus Überzeugung mit seinen sechs Kindern in der Einsamkeit der Berge im Nordwesten Amerikas. Er unterrichtet sie selbst und bringt ihnen nicht nur ein überdurchschnittliches Wissen bei, sondern auch wie man jag",
+      "director": "Matt Ross"
+    },
+    {
+      "title": "Captain Marvel",
+      "store_id": null,
+      "year": 2019,
+      "genre": "Action & Adventure",
+      "description": "Set in the 1990s, Marvel Studios’ Captain Marvel is an adventure from a previously unseen period in",
+      "director": "Anna Boden & Ryan Fleck"
+    },
+    {
+      "title": "Catch Me If You Can",
+      "store_id": null,
+      "year": 2003,
+      "genre": "Comedy",
+      "description": "Inspiriert von der unglaublichen, aber wahren Geschichte eines jungen Meisters der Täuschung und des FBI-Agenten, der ihm auf der Spur ist, zaubert der dreimalige Oscar®-Gewinner Steven Spielberg mit dem Oscar®-nominierten Leonardo DiCaprio und dem zweifa",
+      "director": "Steven Spielberg"
+    },
+    {
+      "title": "Chappie",
+      "store_id": null,
+      "year": 2015,
+      "genre": "Action & Adventure",
+      "description": "In the near future, crime is patrolled by an oppressive mechanized police force. But now, the people",
+      "director": "Neill Blomkamp"
+    },
+    {
+      "title": "Children of Men",
+      "store_id": null,
+      "year": 2006,
+      "genre": "Action & Adventure",
+      "description": "No children. No future. No hope. In the year 2027, eighteen years since the last baby was born,",
+      "director": "Alfonso Cuarón"
+    },
+    {
+      "title": "Closer",
+      "store_id": null,
+      "year": 2005,
+      "genre": "Drama",
+      "description": "A witty, romantic, and very dangerous love story about chance meetings, instant attractions, and ",
+      "director": "Mike Nichols"
+    },
+    {
+      "title": "Clueless",
+      "store_id": null,
+      "year": 1995,
+      "genre": "Comedy",
+      "description": "Alicia Silverstone shines as the 15-year-old Beverly Hills High School student who thrives on",
+      "director": "Amy Heckerling"
+    },
+    {
+      "title": "Cobain: Montage of Heck",
+      "store_id": null,
+      "year": 2015,
+      "genre": "Music Documentaries",
+      "description": "Hailed as one of the most innovative and intimate documentaries of all time, experience Kurt Cobain",
+      "director": "Brett Morgen"
+    },
+    {
+      "title": "Collateral",
+      "store_id": null,
+      "year": 2004,
+      "genre": "Drama",
+      "description": "Max (Jamie Foxx) is a cab driver who hopes to some day open his own limo company; one night behind",
+      "director": "Michael Mann"
+    },
+    {
+      "title": "Conan der Barbar",
+      "store_id": null,
+      "year": 1982,
+      "genre": "Action & Adventure",
+      "description": "12.000 Jahre vor unserer Zeitrechnung: Irgendwo in den Weiten des Nordens überfallen fremde Krieger ein Dorf im friedlichen Lande Cimmerien. Angestachelt von ihrem grausamen Anführer Thulsa Doom (James Earl Jones) metzeln sie alle Männer und Frauen eiskal",
+      "director": "John Milius"
+    },
+    {
+      "title": "Cube",
+      "store_id": null,
+      "year": 1998,
+      "genre": "Horror",
+      "description": "7 strangers of widely varying personality are involuntarily placed in an endless maze containing",
+      "director": "Vincenzo Natali"
+    },
+    {
+      "title": "Das Boot - The Director’s Cut",
+      "store_id": null,
+      "year": 1997,
+      "genre": "Action & Adventure",
+      "description": "Frankreich. La Rochelle. 1941. Es ist ein Höllentrip auf Leben und Tod, dem die U-Boot Mannschaft der U 96 auf ihrer Feindfahrt ausgesetzt ist. Kapitänleutnant Lehmann und seine Besatzung werden erbarmungslos von feindlichen Zerstörern gejagt. Sie geraten",
+      "director": "Wolfgang Petersen"
+    },
+    {
+      "title": "Das Dschungelbuch (1967)",
+      "store_id": null,
+      "year": 1987,
+      "genre": "Musicals",
+      "description": "Der kleine Mogli, der bislang im Dschungel aufgewachsen ist, macht sich mit dem schlauen Panther Baghira auf den Weg zur Menschensiedlung. Unterwegs trifft er den swingenden King Louie, die hypnotische Schlange Kaa und den liebenswerten, unbekümmerten Bär",
+      "director": "Wolfgang Reitherman"
+    },
+    {
+      "title": "Das fünfte Element",
+      "store_id": null,
+      "year": 1997,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "Alle 5000 Jahre öffnet sich ein Tor zwischen den Dimensionen. Auf der einen Seite existiert das uns bekannte Universum, mit all seinen unterschiedlichen Lebensformen. Auf der anderen Seite herrscht das absolut Böse – ein Etwas, das weder Feuer noch Wasser",
+      "director": "Luc Besson"
+    },
+    {
+      "title": "Das perfekte Verbrechen",
+      "store_id": null,
+      "year": 2007,
+      "genre": "Thriller",
+      "description": "Academy Award winner Anthony Hopkins and Academy Award nominee Ryan Gosling are brilliant in this \"exceptionally suspenseful nail-biter\" (Rex Reed) that's so smart it \"doesn't let go, even after the final twist\" (Gene Shalit, \"Today\"). Ted Crawford (Hopki",
+      "director": "Gregory Hoblit"
+    },
+    {
+      "title": "Deadpool",
+      "store_id": null,
+      "year": 2016,
+      "genre": "Action & Adventure",
+      "description": "Basierend auf Marvels unkonventionellstem Anti-Helden, erzählt DEADPOOL die Geschichte des ehemaligen Special Forces Soldaten und Söldners Wade Wilson, der - nachdem er sich einem skrupellosen Experiment unterzieht - unglaubliche Selbstheilungskräfte erla",
+      "director": "Tim Miller"
+    },
+    {
+      "title": "Deadpool 2",
+      "store_id": null,
+      "year": 2018,
+      "genre": "Action & Adventure",
+      "description": "Die Quasselstrippe unter Marvels Söldnern kehrt zurück! Größer, besser und gelegentlich hosenloser als jemals zuvor.Als ein Supersoldat in mörderischer Mission auf den Plan tritt, sieht Deadpool sich gezwungen, Werte wie Freundschaft und Familie zu überde",
+      "director": "David Leitch"
+    },
+    {
+      "title": "Demolition Man",
+      "store_id": null,
+      "year": 1993,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "Box office action superstars Sylvester Stallone (\"Cliffhanger,\" \"Rocky\" & \"Rambo\" film series) and",
+      "director": "Marco Brambilla"
+    },
+    {
+      "title": "Der große Diktator",
+      "store_id": null,
+      "year": 1958,
+      "genre": "Comedy",
+      "description": "Tomania wird von dem Diktator Hynkel regiert. Erbarmungslos drangsaliert er die Juden des Landes. Davon ahnt der jüdische Friseur, der ihm wie ein Zwillingsbruder gleicht, nichts. Bei einem Flugzeugabsturz hat der Friseur sein Gedächtnis verloren und jahr",
+      "director": "Charlie Chaplin"
+    },
+    {
+      "title": "Der Herr der Ringe: Die Rückkehr des Königs (Special Extended Edition)",
+      "store_id": null,
+      "year": 2003,
+      "genre": "Action & Adventure",
+      "description": "Die letzte Schlacht um Mittelerde beginnt. Von Gollum geführt, setzen Frodo und Sam ihren Weg zu den Feuern des Schicksalsbergs fort, um ihren Auftrag zu erfüllen und den Einen Ring zu zerstören. Aragorn ist bemüht, seiner Bestimmung gerecht zu werden: Er",
+      "director": "Peter Jackson"
+    },
+    {
+      "title": "Der Herr der Ringe: Die zwei Türme (Special Extended Edition)",
+      "store_id": null,
+      "year": 2015,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "In drei Gruppen zerstreut, stemmen sich die Gefährten gegen Mordor. Frodo und Sam stellen sich der Macht des Ringes und der Kreatur Gollum. Merry und Pippin befreien sich von Uruk-hais und finden im Fangornwald mächtige Freunde. Aragorn, Gimli und Legolas",
+      "director": "Peter Jackson"
+    },
+    {
+      "title": "Der König der Löwen",
+      "store_id": null,
+      "year": 1994,
+      "genre": "Action & Adventure",
+      "description": "Embark on an extraordinary coming-of-age adventure as Simba, a lion cub who cannot wait to be king,",
+      "director": "Roger Allers & Rob Minkoff"
+    },
+    {
+      "title": "Der Maschinist - The Machinist",
+      "store_id": null,
+      "year": 2004,
+      "genre": "Drama",
+      "description": "In einer Fabrik arbeitet Trevor Reznick (Christian Bale). Sein Problem: Seit einem Jahr kann er nicht mehr schlafen. Seine Schlaflosigkeit ist sein dunkles Geheimnis, das er auch den zwei Frauen in seinem Leben nicht erklären kann: der Prostituierten Stev",
+      "director": "Brad Anderson"
+    },
+    {
+      "title": "Der Pate: Teil II ",
+      "store_id": null,
+      "year": 1974,
+      "genre": "Drama",
+      "description": "Die außergewöhnliche Weiterführung des Gangsterepos „Der Pate“ erzählt die Geschichte der mächtigen Corleone Familie in zweiter und dritter Generation. Regisseur Francis Ford Copolla verfilmte die Fortsetzung mit Blick auf zwei Geschichten: die Anfänge un",
+      "director": "Francis Ford Coppola & Nino Rota"
+    },
+    {
+      "title": "Die lustige Welt der Tiere",
+      "store_id": null,
+      "year": 1975,
+      "genre": "Documentary",
+      "description": "Regisseur Jamie Uys (\"Die Götter müssen verrückt sein 1 & 2\") zeigt einen Tierfilm, wie es ihn noch nie gab. Radschlagende Affen, die sich nach dem Genuss von gärenden Früchten nicht mehr auf den Beinen halten können, Erziehungsprobleme bei den Löwen, Hoc",
+      "director": "Jamie Uys"
+    },
+    {
+      "title": "Die Nackte Kanone: 2 1/2",
+      "store_id": null,
+      "year": 1991,
+      "genre": "Action & Adventure",
+      "description": "Lieutenant Frank Drebin liebt Geheimnisse. Warum sind wir hier? Gibt es ein Leben nach dem Sex? Ja, Drebin bewältigt die großen Herausforderungen – und die Größte ist, den hinterhältigen Quentin Hapsburg in seinem zerstörerischen Vorhaben zu stoppen. Natü",
+      "director": "David Zucker"
+    },
+    {
+      "title": "Die Simpsons – Der Film",
+      "store_id": null,
+      "year": 2007,
+      "genre": "Kids & Family",
+      "description": "Das Warten hat endlich ein Ende, das Unmögliche ist möglich geworden: Die Simpsons erobern die große Leinwand! Was die gelbe Kultfamilie im Großformat so treibt, wird wie ein Staatsgeheimnis gehütet. Nur soviel ist bekannt: Springfield wird von einer Kata",
+      "director": "David Silverman"
+    },
+    {
+      "title": "Die Tribute von Panem - Catching Fire",
+      "store_id": null,
+      "year": 2013,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "Katniss und Peeta haben die Hungerspiele überlebt. Doch viel mehr: Sie haben dem mächtigen Kapitol die Stirn geboten. Ihr Beispiel ermutigt die unterdrückte Bevölkerung in den Distrikten zur Rebellion gegen das Regime. Doch dann ändert Präsident Snow kurz",
+      "director": "Francis Lawrence"
+    },
+    {
+      "title": "Die Tribute von Panem - The Hunger Games",
+      "store_id": null,
+      "year": 2012,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "Nordamerika existiert nicht mehr. Kriege und Naturkatastrophen haben das Land zerstört. Aus den Trümmern ist Panem entstanden, geführt von einer unerbittlichen Regierung. Alljährlich finden grausame Spiele statt, bei denen nur ein Einziger überleben darf.",
+      "director": "Gary Ross"
+    },
+    {
+      "title": "Die unendliche Geschichte",
+      "store_id": null,
+      "year": 1984,
+      "genre": "Kids & Family",
+      "description": "Der kleine Bastian findet ein Buch, das ihn in eine wunderbare Welt entführt: Die unendliche Geschichte. Phantasien ist vom Untergang bedroht. Nur einer kann es retten. Um ihn zu finden, macht sich Atréju, ein Junge so alt wie Bastian, auf den Weg.",
+      "director": "Wolfgang Petersen"
+    },
+    {
+      "title": "Die unglaubliche Reise in einem verrückten Flugzeug",
+      "store_id": null,
+      "year": 1980,
+      "genre": "Comedy",
+      "description": "Ein verrückter Bombenleger ist an Bord des ersten öffentlichen Mondfluges. Das Shuttle droht sich selbst zu zerstören, die Motoren fallen aus und das Allerschlimmste – die Crew entdeckt, daß sie keinen Kaffee mehr hat! Mit an Bord bei diesem verrückten Mo",
+      "director": "Jerry Zucker, David Zucker & Jim Abrahams"
+    },
+    {
+      "title": "Dirty Harry",
+      "store_id": null,
+      "year": 1972,
+      "genre": "Action & Adventure",
+      "description": "Academy Award-winner Clint Eastwood (\"Unforgiven,\" \"Million Dollar Baby\") stars as \"Dirty Harry\" Callahan in this riveting action film that spawned several blockbuster sequels. In this original, Detective Harry Callahan is determined to bring in psychotic",
+      "director": "Don Siegel"
+    },
+    {
+      "title": "District 9",
+      "store_id": null,
+      "year": 2009,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "DISTRICT 9 beschreibt eine fiktive Welt, in der Außerirdische in Südafrika Zuflucht suchen.",
+      "director": "Neill Blomkamp"
+    },
+    {
+      "title": "Doctor Strange (2016)",
+      "store_id": null,
+      "year": 2016,
+      "genre": "Action & Adventure",
+      "description": "Von Marvel kommt Doctor Strange, die Geschichte des berühmten Neurochirurgen Dr. Stephen Strange, dessen Leben sich nach einem grauenhaften Autounfall verändert, weil er seine Hände nicht mehr benutzen kann. Als die traditionelle Medizin versagt, sucht er",
+      "director": "Scott Derrickson"
+    },
+    {
+      "title": "Don Juan DeMarco",
+      "store_id": null,
+      "year": 1995,
+      "genre": "Comedy",
+      "description": "Academy Award-winner Marlon Brando (\"The Godfather,\" \"Apocalypse Now\") and Faye Dunaway (\"Network,\" \"Bonnie and Clyde\") star with Academy Award-nominee and Golden Globe-winner Johnny Depp (\"Pirates of the Caribbean\" franchise, \"Charlie and the Chocolate F",
+      "director": "Jeremy Leven"
+    },
+    {
+      "title": "Donnie Darko",
+      "store_id": null,
+      "year": 2001,
+      "genre": "Drama",
+      "description": "Middlesex, Iowa, 1988: Donnie Darko ist auf den ersten Blick ein typisch amerikanischer Teenager, ausgestattet mit einem scharfen Intellekt, lebhafter Fantasie und einer weltmüden Weisheit, doch ebenso introvertiert und emotional labil pflegt er eine Freu",
+      "director": "Richard Kelly"
+    },
+    {
+      "title": "Drinking Buddies",
+      "store_id": null,
+      "year": 2014,
+      "genre": "Comedy",
+      "description": "Kate (Olivia Wilde) and Luke (Jake Johnson) work together at a craft brewery. They have one of those friendships that feels like it could be something more. But Kate is with Chris (Ron Livingston), Luke is with Jill (Anna Kendrick) and Jill wants to know ",
+      "director": "Joe Swanberg"
+    },
+    {
+      "title": "Drive",
+      "store_id": null,
+      "year": 2012,
+      "genre": "Action & Adventure",
+      "description": "Tagsüber arbeitet Driver (Ryan Gosling) als Stuntman für Hollywood. Reine Routine. Erst nachts erwacht der wortkarge Einzelgänger zu Leben, als Fahrer von Fluchtfahrzeugen bewaffneter Einbrüche. Keiner kann ihn schnappen, keiner kann ihm das Wasser reiche",
+      "director": "Nicolas Winding Refn"
+    },
+    {
+      "title": "Dune",
+      "store_id": null,
+      "year": 2021,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "A mythic and emotionally charged hero’s journey, “Dune” tells the story of Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, who must travel to the most dangerous planet in the universe to ensure the futur",
+      "director": "Denis Villeneuve"
+    },
+    {
+      "title": "Dune: Part Two",
+      "store_id": null,
+      "year": 2024,
+      "genre": "Action & Adventure",
+      "description": "Dune: Part Two explores the mythic journey of Paul Atreides as he unites with Chani and the Fremen",
+      "director": "Denis Villeneuve"
+    },
+    {
+      "title": "Dungeons & Dragons Honor Among Thieves",
+      "store_id": null,
+      "year": 2023,
+      "genre": "Action & Adventure",
+      "description": "A charming thief and a band of unlikely adventurers undertake an epic heist to retrieve a lost relic",
+      "director": "Jonathan Goldstein & John Francis Daley"
+    },
+    {
+      "title": "Dunkirk (2017)",
+      "store_id": null,
+      "year": 2017,
+      "genre": "Action & Adventure",
+      "description": "“Dunkirk” opens as hundreds of thousands of British and Allied troops are surrounded by enemy forces",
+      "director": "Christopher Nolan"
+    },
+    {
+      "title": "Easy A",
+      "store_id": null,
+      "year": 2010,
+      "genre": "Comedy",
+      "description": "In this charming, critically acclaimed tale of rumors and reputation, Olive (Emma Stone), an average",
+      "director": "Will Gluck"
+    },
+    {
+      "title": "Eraser",
+      "store_id": null,
+      "year": 1996,
+      "genre": "Thriller",
+      "description": "Schwarzenegger's back and tougher than ever! As an elite marshal for the Federal Witness Protection",
+      "director": "Chuck Russell"
+    },
+    {
+      "title": "Everything Everywhere All at Once",
+      "store_id": null,
+      "year": 2022,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "Waschsalonbesitzerin Evelyn Wang (Michelle Yeoh) geht im Chaos ihres Alltags unter: Der bevorstehende Besuch ihres Vaters (James Hong) überfordert sie, die Wünsche der Kunden bringen sie an ihre Grenzen und die anstehende Steuererklärung wächst ihr komple",
+      "director": "Dan Kwan & Daniel Scheinert"
+    },
+    {
+      "title": "Evolution",
+      "store_id": null,
+      "year": 2001,
+      "genre": "Action & Adventure",
+      "description": "Dr. Ira Kane (David Duchovny), a disgraced former government scientist banished to a small community",
+      "director": "Ivan Reitman"
+    },
+    {
+      "title": "Ex_Machina",
+      "store_id": null,
+      "year": 2015,
+      "genre": "Drama",
+      "description": "Caleb, a 24 year old coder at the world's largest internet company, wins a competition to spend a",
+      "director": "Alex Garland"
+    },
+    {
+      "title": "Falling Down",
+      "store_id": null,
+      "year": 1993,
+      "genre": "Action & Adventure",
+      "description": "Academy Award-winners Michael Douglas (\"Disclosure,\" \"Wall Street,\" and \"Basic Instinct\") and Robert Duvall (\"A Civil Action,\" \"The Godfather\") star with Emmy-winner and Oscar-nominee Barbara Hershey (\"Portrait of a Lady,\" \"Hannah and Her Sisters\") in thi",
+      "director": "Joel Schumacher"
+    },
+    {
+      "title": "Fargo (1996)",
+      "store_id": null,
+      "year": 1996,
+      "genre": "Drama",
+      "description": "In Fargo, filmmaking brothers Joel and Ethan Coen both embrace and satirize their North Dakota roots",
+      "director": "Joel Coen"
+    },
+    {
+      "title": "Fearless Vampire Killers",
+      "store_id": null,
+      "year": 1967,
+      "genre": "Horror",
+      "description": "Clever comedy-horror film directed by Roman Polanski. An expert on bats, Professor Abronsius and his",
+      "director": "Roman Polanski"
+    },
+    {
+      "title": "Fight Club",
+      "store_id": null,
+      "year": 1999,
+      "genre": "Drama",
+      "description": "„Erst nachdem wir alles verloren haben, haben wir die Freiheit, alles zu tun.“ – Tyler DurdenBrad Pitt (Sieben) und Edward Norton (Zwielicht) entfesseln in diesem dunklen, faszinierenden Psychospiel eine hypnotische Gewaltorgie. Kult-Regisseur David Finch",
+      "director": "David Fincher"
+    },
+    {
+      "title": "First Reformed",
+      "store_id": null,
+      "year": 2018,
+      "genre": "Drama",
+      "description": "From Golden Globe® Nominee Director Paul Schrader* (Taxi Driver, American Gigolo, Affliction), FIRST",
+      "director": "Paul Schrader"
+    },
+    {
+      "title": "Fluch der Karibik",
+      "store_id": null,
+      "year": 2003,
+      "genre": "Action & Adventure",
+      "description": "Der mitreißende Sensations-Hit \"Fluch der Karibik\" von Star-Produzent Jerry Bruckheimer (Vermächtnis der Tempelritter, Armageddon) entführt uns in ein noch nie da gewesenes Abenteuer-Spektakel zu den berüchtigten Piraten der Karibik. Das paradiesische Leb",
+      "director": "Gore Verbinski"
+    },
+    {
+      "title": "Forrest Gump",
+      "store_id": null,
+      "year": 1994,
+      "genre": "Drama",
+      "description": "Tom Hanks gives an astonishing performance as Forrest, an everyman whose simple innocence comes to",
+      "director": "Robert Zemeckis"
+    },
+    {
+      "title": "Friday the 13th",
+      "store_id": null,
+      "year": 2017,
+      "genre": "Horror",
+      "description": "Camp counselors are stalked and murdered by an unknown assailant while trying to reopen a summer",
+      "director": "Sean S. Cunningham"
+    },
+    {
+      "title": "Full Metal Jacket",
+      "store_id": null,
+      "year": 1987,
+      "genre": "Drama",
+      "description": "\"Full Metal Jacket\" joins \"The Deer Hunter,\" \"Apocalypse Now\" and \"Platoon\" on the frontline of powerful films about the Vietnam War. Cinematic genius Stanley Kubrick (\"A Clockwork Orange,\" \"The Shining\"), awarded Best Director by the London Film Critics ",
+      "director": "Stanley Kubrick"
+    },
+    {
+      "title": "Furiosa: A Mad Max Saga",
+      "store_id": null,
+      "year": 2024,
+      "genre": "Action & Adventure",
+      "description": "As the world fell, young Furiosa is snatched from the Green Place of Many Mothers and falls into the",
+      "director": "George Miller"
+    },
+    {
+      "title": "Furiosa: A Mad Max Saga: Black & Chrome",
+      "store_id": null,
+      "year": 2024,
+      "genre": "Action & Adventure",
+      "description": "As the world fell, young Furiosa is snatched from the Green Place of Many Mothers and falls into the",
+      "director": "George Miller"
+    },
+    {
+      "title": "Für ein paar Dollar mehr",
+      "store_id": null,
+      "year": 1966,
+      "genre": "Western",
+      "description": "Die Fortsetzung des Kults: Sergio Leones zweiter Italo-Western! Clint Eastwood kehrt zurück als wortkarger Fremder mit dem Namen Monco in diesem Sergio Leone-Klassiker, der den unaufhaltsamen Aufstieg von Eastwoods Karriere manifestieren sollte. Colonel M",
+      "director": "Sergio Leone"
+    },
+    {
+      "title": "Für eine Handvoll Dollar",
+      "store_id": null,
+      "year": 1965,
+      "genre": "Western",
+      "description": "Der legendäre erste Italo-Western von Sergio Leone verhalf Hollywood-Legende Clint Eastwood zum Durchbruch! Als der Mann mit dem Poncho und dem halben Zigarillo im Mundwinkel wurde er weltberühmt - durch eine Rolle, für die er (im Vergleich zu heute) tats",
+      "director": "Sergio Leone"
+    },
+    {
+      "title": "Galaxy Quest",
+      "store_id": null,
+      "year": 1999,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "Vier Jahre lang reiste die heldenhafte Crew des Raumschiffs NSEA Protector - bestehend aus Commander Peter Quincy Taggart (Tim Allen), Lt. Tawny Madison (Sigourney Weaver) und Dr. Lazarus (Alan Rickman) - in spannender und häufig lebensgefährlicher Missio",
+      "director": "Dean Parisot"
+    },
+    {
+      "title": "Game Night (2018)",
+      "store_id": null,
+      "year": 2018,
+      "genre": "Comedy",
+      "description": "Jason Bateman and Rachel McAdams star as Max and Annie, whose weekly couples Game Night gets kicked",
+      "director": "John Francis Daley & Jonathan Goldstein"
+    },
+    {
+      "title": "Garden State",
+      "store_id": null,
+      "year": 2011,
+      "genre": "Comedy",
+      "description": "Der in Los Angeles lebende, erfolglose Schauspieler Andrew \"Large\" Largeman hat es in den letzten neun Jahren immer wieder geschafft, Besuche in seiner Heimatstadt New Jersey zu vermeiden - hauptsächlich um den zwangsläufigen Konfrontationen mit seinem Va",
+      "director": "Unknown"
+    },
+    {
+      "title": "Gattaca",
+      "store_id": null,
+      "year": 1998,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "Ethan Hawke, Uma Thurman, Alan Arkin and Jude Law star in this engrossing sci-fi thriller about an ",
+      "director": "Andrew Niccol"
+    },
+    {
+      "title": "Get Out",
+      "store_id": null,
+      "year": 2017,
+      "genre": "Thriller",
+      "description": "Now that Chris (Daniel Kaluuya, Sicario) and his girlfriend, Rose (Allison Williams, Girls), have",
+      "director": "Jordan Peele"
+    },
+    {
+      "title": "Girls Club ",
+      "store_id": null,
+      "year": 2004,
+      "genre": "Comedy",
+      "description": "Cady (Lindsay Lohan) glaubt, sie wüsste bereits alles über das „Gesetz des Stärkeren“, schließlich ist sie im afrikanischen Busch aufgewachsen mit Zoologen als Eltern. Aber das Gesetz des Dschungels bekommt eine völlig neue Bedeutung, als die 15-jährige P",
+      "director": "Mark S. Waters"
+    },
+    {
+      "title": "Gladiator (Extended Cut)",
+      "store_id": null,
+      "year": 2000,
+      "genre": "Action & Adventure",
+      "description": "Winner of five Academy Awards, Gladiator revived the sword and sandal epic while becoming one of the",
+      "director": "Ridley Scott"
+    },
+    {
+      "title": "Goodfellas (Remastered Feature)",
+      "store_id": null,
+      "year": 1990,
+      "genre": "Drama",
+      "description": "Martin Scorsese's unforgettable film of Nicholas Pileggi's true-crime best seller Wiseguy is presented here in a stunning new remaster from a 4k scan of the original camera negative, supervised by Martin Scorsese. Arresting performances from an all-star c",
+      "director": "Martin Scorsese"
+    },
+    {
+      "title": "Gravity",
+      "store_id": null,
+      "year": 2013,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "Sandra Bullock plays Dr. Ryan Stone, a brilliant engineer on her first shuttle mission, with veteran",
+      "director": "Alfonso Cuarón"
+    },
+    {
+      "title": "Green Room",
+      "store_id": null,
+      "year": 2016,
+      "genre": "Thriller",
+      "description": "Ein absolutes Worst-Case-Szenario: Mit dem letzten Tropfen Benzin und völlig abgebrannt, schafft es die Punkband „Ain't Rights“ gerade noch zu ihrem Gig in einer entlegenen Kneipe im amerikanischen Nirgendwo. Das Publikum besteht ausschließlich aus Nazi-S",
+      "director": "Jeremy Saulnier"
+    },
+    {
+      "title": "Guardians of the Galaxy",
+      "store_id": null,
+      "year": 2014,
+      "genre": "Action & Adventure",
+      "description": "Von Marvel, dem Studio der weltweiten Blockbuster Iron Man, Thor, Captain America und The Avengers kommt ein neues Team: Die Guardians of the Galaxy. Mit dem actionreichen Weltall-Epos «Guardians of the Galaxy» erreicht das Marvel Cinematic Universe den K",
+      "director": "James Gunn"
+    },
+    {
+      "title": "Guardians of the Galaxy Vol. 2",
+      "store_id": null,
+      "year": 2017,
+      "genre": "Action & Adventure",
+      "description": "Vor der akustischen Kulisse von Awesome Mixtape #2 kommt es in Marvel Studios' Guardians of the Galaxy Vol. 2 zu einer Fortsetzung der Abenteuer des Teams, als sie die fernen Welten des Kosmos durchqueren. Die Guardians müssen kämpfen, um ihre neuentdeckt",
+      "director": "James Gunn"
+    },
+    {
+      "title": "Heat",
+      "store_id": null,
+      "year": 1995,
+      "genre": "Drama",
+      "description": "Academy Award-winners Robert DeNiro ('Showtime,' 'Analyze This') and Al Pacino ('Insomnia,' 'Any Given Sunday') -- together for the first time since 'The Godfather Part II' -- head a stellar cast in this taut psychological drama about an obsessive detecti",
+      "director": "Michael Mann"
+    },
+    {
+      "title": "Hellboy",
+      "store_id": null,
+      "year": 2004,
+      "genre": "Action & Adventure",
+      "description": "From visionary writer/director Guillermo del Toro (director of Blade II, The Devil's Backbone) comes",
+      "director": "Guillermo del Toro"
+    },
+    {
+      "title": "Hellboy II: The Golden Army",
+      "store_id": null,
+      "year": 2008,
+      "genre": "Action & Adventure",
+      "description": "The fate of mankind hangs in the balance when a ruthless prince awakens an unstoppable army of",
+      "director": "Guillermo del Toro"
+    },
+    {
+      "title": "Her (2013)",
+      "store_id": null,
+      "year": 2014,
+      "genre": "Drama",
+      "description": "From the unique perspective of Oscar-nominated filmmaker Spike Jonze (Being John Malkovich,",
+      "director": "Spike Jonze"
+    },
+    {
+      "title": "Hereditary",
+      "store_id": null,
+      "year": 2018,
+      "genre": "Thriller",
+      "description": " After the family matriarch passes away, a grieving family is haunted by tragic and disturbing occurrences, and begin to unravel dark secrets. ",
+      "director": "Ari Aster"
+    },
+    {
+      "title": "Heretic",
+      "store_id": null,
+      "year": 2024,
+      "genre": "Horror",
+      "description": "Als ihnen der charmante Mr. Reed (Hugh Grant) grinsend die Pforten zu seinem Haus öffnet, tappen Schwester Paxton (Chloe East) und Schwester Barnes (Sophie Thatcher) nichts ahnend in seine Falle. Die Flucht aus dem labyrinthischen Anwesen wird zum perfide",
+      "director": "Scott Beck & Bryan Woods"
+    },
+    {
+      "title": "Hot Fuzz - Zwei abgewichste Profis",
+      "store_id": null,
+      "year": 2007,
+      "genre": "Comedy",
+      "description": "Nicholas Angel arbeitet als Polizist in London und nimmt seinen Job überaus ernst: Er lässt nichts durchgehen und niemanden entwischen. Mit einer Beförderung wird er in die Provinz Sandfort abgeschoben, wo Ladendiebstahl und entlaufene Schwäne zum Höchstm",
+      "director": "Edgar Wright"
+    },
+    {
+      "title": "Hot Rod",
+      "store_id": null,
+      "year": 2007,
+      "genre": "Comedy",
+      "description": "Andy Samberg (Saturday Night Live) schlüpft in die Rolle des Rod Kimble, Stuntman mit falschem Bart und einem Traum! Diese Komödie ist so unberechenbar, dass es unmöglich ist vorauszusehen, was als nächstes geschieht. Rod hat noch nie einen Stunt ohne Bru",
+      "director": "Akiva Schaffer"
+    },
+    {
+      "title": "Hot Shots!",
+      "store_id": null,
+      "year": 1991,
+      "genre": "Comedy",
+      "description": "Die Vorbereitungen auf den geheimen Großeinsatz laufen beim Flugkommando 'Müdes Wiesel' auf Hochtouren. Nur 'echte' Männer dienen hier: z.B. der flugunfähige Möchtegern-Indianer Topper, 'Wash Out' - nur ein Maulwurf sieht schlechter, aber auch Kent - Must",
+      "director": "Jim Abrahams"
+    },
+    {
+      "title": "Hot Shots! Der zweite Versuch",
+      "store_id": null,
+      "year": 1993,
+      "genre": "Comedy",
+      "description": "Irgendwo in Asien. Zwei Männer im Zweikampf. Die Menge tobt. Die Regeln sind einfach - wer überlebt, ist Sieger. Die Waffe: Gummibärchen. In seinem neuen Abenteuer wird Topper Harley (Charlie Sheen) noch härter rangenommen - jetzt gilt es, die als Geiseln",
+      "director": "Jim Abrahams"
+    },
+    {
+      "title": "Hulk (2003)",
+      "store_id": null,
+      "year": 2003,
+      "genre": "Action & Adventure",
+      "description": "The larger-than-life Marvel Superhero The Hulk explodes onto the big screen! After a freak lab",
+      "director": "Ang Lee"
+    },
+    {
+      "title": "Identity",
+      "store_id": null,
+      "year": 2003,
+      "genre": "Thriller",
+      "description": "What if every choice we ever make was already made for us? What if there really were no coincidences",
+      "director": "James Mangold"
+    },
+    {
+      "title": "Inception",
+      "store_id": null,
+      "year": 2010,
+      "genre": "Action & Adventure",
+      "description": "Dom Cobb (Leonardo DiCaprio) ist ein begnadeter Dieb, der absolut Beste auf dem Gebiet der Extraktion, einer kunstvollen und gefährlichen Form des Diebstahls: Cobb stiehlt wertvolle Geheimnisse aus den Tiefen des Unterbewusstseins, wenn der Verstand am ve",
+      "director": "Christopher Nolan"
+    },
+    {
+      "title": "Independence Day",
+      "store_id": null,
+      "year": 1996,
+      "genre": "Action & Adventure",
+      "description": "In dem packenden Sci-Fi-Blockbuster von Roland Emmerich (The Day After Tomorrow) bedroht eine gewaltige außerirdische Armee die Existenz der Erde. Die Invasion beginnt mit dem Auftauchen gigantischer Raumschiffe, die sich über den wichtigsten Zentren der ",
+      "director": "Roland Emmerich"
+    },
+    {
+      "title": "Indiana Jones and the Last Crusade",
+      "store_id": null,
+      "year": 1989,
+      "genre": "Action & Adventure",
+      "description": "There’s nothing more exciting than trying to keep up with the Joneses in Indiana Jones and the Last",
+      "director": "Steven Spielberg"
+    },
+    {
+      "title": "Indiana Jones and the Raiders of the Lost Ark",
+      "store_id": null,
+      "year": 1981,
+      "genre": "Action & Adventure",
+      "description": "Get ready for edge-of-your-seat thrills in Indiana Jones and the Raiders of the Lost Ark. Indy (",
+      "director": "Steven Spielberg"
+    },
+    {
+      "title": "Indiana Jones and the Temple of Doom",
+      "store_id": null,
+      "year": 1984,
+      "genre": "Action & Adventure",
+      "description": "Indiana Jones and the Temple of Doom brings you non-stop thrills and excitement like nothing you’ve",
+      "director": "Steven Spielberg"
+    },
+    {
+      "title": "Inglourious Basterds",
+      "store_id": null,
+      "year": 2009,
+      "genre": "Action & Adventure",
+      "description": "Irgendwo im von Nazis besetzten Frankreich: Shosanna Dreyfus (Mélanie Laurent) muss mit ansehen, wie ihre Familie vom \"Judenjäger\" Oberst Landa (Christoph Waltz) grausam hingerichtet wird. Durch Zufall kann sie entkommen und flieht nach Paris, wo sie sich",
+      "director": "Quentin Tarantino"
+    },
+    {
+      "title": "Insomnia (2002)",
+      "store_id": null,
+      "year": 2002,
+      "genre": "Thriller",
+      "description": "Academy Award winners Robin Williams, Al Pacino and Hilary Swank star in a thriller set in the land of the midnight sun, where a the mind of even a tough cop can be threatened by Insomnia. Under the glare of the permanent Alaska sun, two veteran Los Angel",
+      "director": "Christopher Nolan"
+    },
+    {
+      "title": "Interstellar (2014)",
+      "store_id": null,
+      "year": 2014,
+      "genre": "Action & Adventure",
+      "description": "A team of explorers travel beyond this galaxy through a newly discovered wormhole to discover",
+      "director": "Christopher Nolan"
+    },
+    {
+      "title": "Interview With the Vampire: The Vampire Chronicles",
+      "store_id": null,
+      "year": 1994,
+      "genre": "Drama",
+      "description": "Academy Award-nominee and Golden Globe-winner Tom Cruise, Academy Award-nominee and Golden Globe-winner Brad Pitt and Golden Globe-nominee Kirsten Dunst are among the undead in this spellbinding adaptation of Anne Rice's (\"Queen of the Damned,\" \"Exit to E",
+      "director": "Neil Jordan"
+    },
+    {
+      "title": "Iron Man",
+      "store_id": null,
+      "year": 2008,
+      "genre": "Action & Adventure",
+      "description": "Tony Stark (Robert Downey Jr.) ist Milliardär, genialer Erfinder und Chef von Stark Industries, einem führenden waffenproduzierenden Unternehmen. Als ihn Terroristen in Afghanistan gefangen nehmen, wird er gezwungen, eine vernichtende Waffe zu entwickeln.",
+      "director": "Jon Favreau"
+    },
+    {
+      "title": "Iron Man 2",
+      "store_id": null,
+      "year": 2010,
+      "genre": "Action & Adventure",
+      "description": "Die ganze Welt weiß, dass Milliardär Tony Stark als Superheld IRON MAN für Recht und Ordnung sorgt. Doch Politik und Presse erhöhen den Druck, seine Technologie der Regierung zugänglich zu machen. Zudem ruft seine Erfindung neue Schurken auf den Plan: Mit",
+      "director": "Jon Favreau"
+    },
+    {
+      "title": "Iron Man 3",
+      "store_id": null,
+      "year": 2013,
+      "genre": "Action & Adventure",
+      "description": "Er ist exzentrisch, genial, scharfzüngig – doch nicht unbesiegbar. Das muss Tony Stark alias Iron Man (Robert Downey Jr.) erkennen, als er sich einem Gegner gegenübersieht, der keine Grenzen kennt. Nachdem dieser ihm all das, was Stark am Herzen liegt, ge",
+      "director": "Shane Black"
+    },
+    {
+      "title": "It Follows (2014)",
+      "store_id": null,
+      "year": 2015,
+      "genre": "Horror",
+      "description": "Nachdem die 19-jährige Jay mit dem süßen Hugh auf der Rückbank seines Autos Sex hatte, wird sie das beunruhigende Gefühl nicht los, dass sie jemand oder etwas verfolgt und findet sich schließlich in einem paranoiden Albtraum wieder, aus dem es kein Entkom",
+      "director": "David Robert Mitchell"
+    },
+    {
+      "title": "Jack Reacher",
+      "store_id": null,
+      "year": 2013,
+      "genre": "Action & Adventure",
+      "description": "From The New York Times bestselling author Lee Child comes one of the most compelling heroes to step",
+      "director": "Christopher McQuarrie"
+    },
+    {
+      "title": "Jack Reacher: Never Go Back",
+      "store_id": null,
+      "year": 2016,
+      "genre": "Action & Adventure",
+      "description": "Jack Reacher returns to enforce his bold brand of justice in the action-packed sequel based on Lee",
+      "director": "Edward Zwick"
+    },
+    {
+      "title": "Jackie Brown",
+      "store_id": null,
+      "year": 2011,
+      "genre": "Action & Adventure",
+      "description": "Stewardess Jackie Brown schmuggelt seit Jahren Schwarzgeld über die mexikanische Grenze. Als sie die Polizei am Flughafen erwischt, wird sie vor die Wahl gestellt: Entweder verrät sie ihren Auftraggeber oder sie wandert in den Knast. Dumm nur, dass ihr Bo",
+      "director": "Quentin Tarantino"
+    },
+    {
+      "title": "Jagd auf Roter Oktober",
+      "store_id": null,
+      "year": 1990,
+      "genre": "Action & Adventure",
+      "description": "Das supermoderne russische Atom-UBoot “Roter Oktober” nimmt Kurs auf die USA. Weder Sowjets noch Russen wissen, was Kapitän Ramius (Sean Connery) vorhat. Ist er ein Überläufer, oder droht den USA der atomare Erstschlag? Die Jagd auf “Roter Oktober” beginn",
+      "director": "John McTiernan"
+    },
+    {
+      "title": "John Wick",
+      "store_id": null,
+      "year": 2015,
+      "genre": "Action & Adventure",
+      "description": "John Wick, berühmt-berüchtigt als bester Auftragskiller der Branche, ist nach seinem letzten Auftrag endgültig aus dem Geschäft ausgestiegen. Doch die Ruhe währt nicht lange. Nach einem Überfall auf sein Haus sieht er sich seinem ehemaligen Boss gegenüber",
+      "director": "Chad Stahelski & David Leitch"
+    },
+    {
+      "title": "John Wick: Kapitel 4",
+      "store_id": null,
+      "year": 2023,
+      "genre": "Action & Adventure",
+      "description": "John Wick (Keanu Reeves) nimmt es mit seinen bisher tödlichsten Widersachern auf. Während das Kopfgeld auf ihn immer höher wird, zieht Wick in einen weltweiten Kampf gegen die mächtigsten Akteure der Unterwelt – von New York über Paris und Osaka bis nach ",
+      "director": "Chad Stahelski"
+    },
+    {
+      "title": "Joker",
+      "store_id": null,
+      "year": 2019,
+      "genre": "Drama",
+      "description": "“Joker” centers around the iconic arch-nemesis and is an original, standalone story not seen before",
+      "director": "Todd Phillips"
+    },
+    {
+      "title": "Jurassic Park",
+      "store_id": null,
+      "year": 1993,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "Director Steven Spielberg's Jurassic Park masterpiece is one of the most successful films in",
+      "director": "Steven Spielberg"
+    },
+    {
+      "title": "Jurassic Park III",
+      "store_id": null,
+      "year": 2001,
+      "genre": "Action & Adventure",
+      "description": "Eight years after the InGen incident, Dr. Alan Grant is happy with his life far from any dinosaurs",
+      "director": "Joe Johnston"
+    },
+    {
+      "title": "Kill Bill: Vol. 1",
+      "store_id": null,
+      "year": 2011,
+      "genre": "Action & Adventure",
+      "description": "Nach vier Jahren im Koma erwacht eine Blondine im Krankenhaus. Das Letzte, woran sie sich erinnern kann, ist ihre eigene Hochzeit. Am Tag, der der schönste in ihrem Leben werden sollte, jagt ihr ihr ehemaliger Liebhaber und Auftraggeber Bill eine Kugel in",
+      "director": "Quentin Tarantino"
+    },
+    {
+      "title": "Kill Bill: Vol. 2",
+      "store_id": null,
+      "year": 2011,
+      "genre": "Action & Adventure",
+      "description": "Nach vier Jahren im Koma erwacht eine Blondine im Krankenhaus. Das Letzte, woran sie sich erinnern kann, ist ihre eigene Hochzeit. Am Tag, der der schönste in ihrem Leben werden sollte, jagt ihr ihr ehemaliger Liebhaber und Auftraggeber Bill eine Kugel in",
+      "director": "Quentin Tarantino"
+    },
+    {
+      "title": "King Kong (2005)",
+      "store_id": null,
+      "year": 2005,
+      "genre": "Action & Adventure",
+      "description": "Academy Award-winning director Peter Jackson brings his sweeping cinematic vision to King Kong.",
+      "director": "Peter Jackson"
+    },
+    {
+      "title": "Knives Out - Mord ist Familiensache",
+      "store_id": null,
+      "year": 2020,
+      "genre": "Comedy",
+      "description": "Harlan Thrombey (Christopher Plummer) ist tot! Und nicht nur das – der renommierte Krimiautor und Familienpatriarch wurde auf der Feier zu seinem 85. Geburtstag umgebracht. Doch natürlich wollen weder die versammelte exzentrische Verwandtschaft noch das t",
+      "director": "Rian Johnson"
+    },
+    {
+      "title": "L.A. Crash",
+      "store_id": null,
+      "year": 2006,
+      "genre": "Drama",
+      "description": "Den explosiven Abschluss von dramatischen Stunden in L.A. bildet ein Autounfall. Zwei Schwarze klauen das Auto des Bezirksstaatsanwalts und seiner zickigen Frau, woraufhin dessen pseudo-liberale Fassade zu bröckeln beginnt. Andernorts lebt der verbitterte",
+      "director": "Paul Haggis"
+    },
+    {
+      "title": "Lady Macbeth",
+      "store_id": null,
+      "year": 2017,
+      "genre": "Drama",
+      "description": "England, 1856. Die schöne Katherine wird mit einem deutlich älteren Mann verheiratet. Die Ehe ist herzlos und die neue Familie betrachtet sie als unerwünschte Bürde. In diesem Umfeld vereinsamt die lebenshungrige junge Frau zusehends. Als ihr Mann zu eine",
+      "director": "William Oldroyd"
+    },
+    {
+      "title": "Last Night in Soho",
+      "store_id": null,
+      "year": 2021,
+      "genre": "Thriller",
+      "description": "In acclaimed director Edgar Wright’s psychological thriller, Eloise, an aspiring fashion designer,",
+      "director": "Edgar Wright"
+    },
+    {
+      "title": "Lethal Weapon",
+      "store_id": null,
+      "year": 1987,
+      "genre": "Action & Adventure",
+      "description": "Boxoffice superstar and Academy Award-winner Mel Gibson (\"Maverick,\" \"Braveheart\") and Danny Glover (\"The Color Purple,\" \"Grand Canyon\") team up as L.A. cops in the top-grossing action movie that spawned three sequels. Directed by Richard Donner (\"Superma",
+      "director": "Unknown"
+    },
+    {
+      "title": "Lethal Weapon 2",
+      "store_id": null,
+      "year": 1989,
+      "genre": "Action & Adventure",
+      "description": "This high-voltage sequel continues the adventures of Los Angeles detectives Riggs and Murtaugh (Oscar-winner Mel Gibson and Danny Glover) as they try to thwart a smuggling ring of blond South African \"diplomats\". Gibson finds romance this time around, and",
+      "director": "Unknown"
+    },
+    {
+      "title": "Lethal Weapon 3",
+      "store_id": null,
+      "year": 1992,
+      "genre": "Action & Adventure",
+      "description": "Police officers Riggs (Mel Gibson) and Murtaugh (Danny Glover) team for the third time. This time they must track down a crooked cop who has stolen weapons from the Los Angeles police depot. Riggs and Murtaugh also have to deal with Leo Getz (Joe Pesci), ",
+      "director": "Unknown"
+    },
+    {
+      "title": "Lilo & Stitch",
+      "store_id": null,
+      "year": 2002,
+      "genre": "Kids & Family",
+      "description": "Disneys Lilo & Stitch ist ein super-cooles Disney-Erlebnis der anderen Art! Ein außerirdisches Gagfeuerwerk mit unverwechselbarer Musik von Elvis Presley, das einfach jedem das Hawaii-Feeling gibt!Was passiert, wenn ein als niedlicher blauer Hund getarnte",
+      "director": "Christopher Michael Sanders & Dean Deblois"
+    },
+    {
+      "title": "Little Women",
+      "store_id": null,
+      "year": 2020,
+      "genre": "Drama",
+      "description": "Based on Louisa May Alcott’s classic novel about four sisters growing up after the Civil War",
+      "director": "Greta Gerwig"
+    },
+    {
+      "title": "Live Die Repeat: Edge of Tomorrow",
+      "store_id": null,
+      "year": 2014,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "The epic action of this sci-fi thriller unfolds in a near future in which an alien race has hit the",
+      "director": "Doug Liman"
+    },
+    {
+      "title": "Logan - The Wolverine",
+      "store_id": null,
+      "year": 2017,
+      "genre": "Action & Adventure",
+      "description": "In naher Zukunft, schützt ein abgekämpfter Logan einen gebrochenen Professor X, in einem Versteck nahe der mexikanischen Grenze. Doch Logans Versuche, sich vor der Welt und seinem Vermächtnis zu verstecken, misslingen, als ein junger Mutant, von dunklen K",
+      "director": "James Mangold"
+    },
+    {
+      "title": "Look Who's Talking",
+      "store_id": null,
+      "year": 1990,
+      "genre": "Comedy",
+      "description": "If you've always wanted to know what a baby thinks of the world around him, you finally have your chance. With Bruce Willis supplying the voice of Mikey's thoughts, this is one baby who says exactly what's on his mind. Mollie (Kirstie Alley) is a single w",
+      "director": "Amy Heckerling"
+    },
+    {
+      "title": "Loriot: Pappa ante portas",
+      "store_id": null,
+      "year": 1991,
+      "genre": "Comedy",
+      "description": "Pappa (60) ist Abteilungsdirektor in einem Industrieunternehmen. Mit seiner Frau Renate (45) und dem gemeinsamen Sohn Dieter (16) führt er ein geregeltes Leben. Niemand in der Villa Lohse ahnt, daß die Harmonie nur auf dem reibungslosen Funktionieren eine",
+      "director": "Vicco von Bülow"
+    },
+    {
+      "title": "Loriot: Ödipussi",
+      "store_id": null,
+      "year": 1988,
+      "genre": "Comedy",
+      "description": "Paul Winkelmann hat vor drei Jahren die Leitung des familieneigenen Möbel- und Dekorationsgeschäftes übernommen. Trotz seiner 56 Jahre lebt er in offensichtlich glücklicher Abhängigkeit von seiner Mutter Louise. Der Haussegen hängt schief, als sich Paul e",
+      "director": "Vicco von Bülow"
+    },
+    {
+      "title": "Léon, der Profi (Director's Cut)",
+      "store_id": null,
+      "year": 1995,
+      "genre": "Thriller",
+      "description": "Die 12-jährige Mathilda wächst nicht gerade in den besten Verhältnissen auf: Ihre Mutter arbeitet als Prostituierte, ihr Vater versteckt Drogen für den korrupten Polizisten Norman Stansfield. Als sich dieser eines Tages betrogen fühlt, richtet er kurzerha",
+      "director": "Luc Besson"
+    },
+    {
+      "title": "Mad Max",
+      "store_id": null,
+      "year": 1980,
+      "genre": "Action & Adventure",
+      "description": "تطارد الشرطة مجموعة من العصابات في عالم ما بعد الحرب النووية الذين يُحوّلون الطرق إلى ساحات للمعارك",
+      "director": "George Miller"
+    },
+    {
+      "title": "Mad Max 2: Der Vollstrecker",
+      "store_id": null,
+      "year": 1982,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "Nach einem vernichtenden Weltkrieg um die letzten Energiereserven durchstreifen Horden marodierender Plünderer die Endzeitwüste, während übriggebliebene \"Normalbürger\" auf ständig belagerten Festungen verzweifelt um ihr Überleben kämpfen. Der umhervagabun",
+      "director": "George Miller"
+    },
+    {
+      "title": "Mad Max 3: Beyond Thunderdome",
+      "store_id": null,
+      "year": 1985,
+      "genre": "Action & Adventure",
+      "description": "Mel Gibson and Tina Turner star in the third film of the Mad Max series.Max stumbles onto a desert",
+      "director": "George Miller & George Ogilivie"
+    },
+    {
+      "title": "Mad Max 4: Fury Road",
+      "store_id": null,
+      "year": 2015,
+      "genre": "Action & Adventure",
+      "description": "From director George Miller, originator of the post-apocalyptic genre and mastermind behind the",
+      "director": "George Miller"
+    },
+    {
+      "title": "Mario Puzo's The Godfather, Coda: The Death of Michael Corleone",
+      "store_id": null,
+      "year": 2020,
+      "genre": "Drama",
+      "description": "Director/screenwriter Francis Ford Coppola brings his definitive edit and restoration of the final",
+      "director": "Francis Ford Coppola"
+    },
+    {
+      "title": "Mars Attacks!",
+      "store_id": null,
+      "year": 1997,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "Superstar Jack Nicholson as the President of the United States greeting invaders from outer space? Anything can and does happen when the twisted mind of director Tim Burton plunges planet Earth into complete pandemonium in this all-star sci-fi spoof.",
+      "director": "Unknown"
+    },
+    {
+      "title": "Marvel Studios' Avengers: Endgame",
+      "store_id": null,
+      "year": 2019,
+      "genre": "Action & Adventure",
+      "description": "The fourth installment in the Avengers saga is the culmination of 22 interconnected Marvel films and",
+      "director": "Anthony Russo & Joe Russo"
+    },
+    {
+      "title": "Matrix",
+      "store_id": null,
+      "year": 1999,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "Der Hacker Neo wird übers Internet von einer geheimnisvollen Untergrund-Organisation kontaktiert. Der Kopf der Gruppe - der gesuchte Terrorist Morpheus - weiht ihn in ein Geheimnis ein: Die Realität, wie wir sie erleben, ist nur eine Scheinwelt. In Wahrhe",
+      "director": "Andy Wachowski & Larry Wachowski"
+    },
+    {
+      "title": "Meine Braut, ihr Vater und ich",
+      "store_id": null,
+      "year": 2000,
+      "genre": "Comedy",
+      "description": "Krankenpfleger Greg Focker (Ben Stiller) hat vor, seiner Freundin Pam (Teri Polo) - während eines Wochenendbesuches bei ihrer Familie - einen Heiratsantrag zu machen. Die Sache hat nur einen gewaltigen Haken… denn zunächst einmal muss Greg bei Pams Vater ",
+      "director": "Jay Roach"
+    },
+    {
+      "title": "Men In Black",
+      "store_id": null,
+      "year": 1997,
+      "genre": "Action & Adventure",
+      "description": "Tommy Lee Jones and Will Smith star in this blockbuster as the Men in Black, regulators of all",
+      "director": "Barry Sonnenfeld"
+    },
+    {
+      "title": "Midsommar",
+      "store_id": null,
+      "year": 2019,
+      "genre": "Thriller",
+      "description": "Obwohl ihre Beziehung kriselt, schließt sich Dani ihrem Freund Christian auf einen Sommertrip in einen kleinen Ort in Schweden an. Gemeinsam mit Christians Clique sind sie zu einem einmaligen Mittsommerfestival eingeladen. Doch der anfänglich idyllische E",
+      "director": "Unknown"
+    },
+    {
+      "title": "Minority Report",
+      "store_id": null,
+      "year": 2002,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "Tom Cruise, Colin Farrell and Max von Sydow star in this explosive, action-packed sci-fi thriller from acclaimed director Steven Spielberg! Experience the excitement of Minority Report like never before with this all-new Blu-ray edition packed with hours ",
+      "director": "Steven Spielberg"
+    },
+    {
+      "title": "Mission: Impossible",
+      "store_id": null,
+      "year": 1996,
+      "genre": "Action & Adventure",
+      "description": "Als eine Liste mit den Codenamen verdeckter Top-Agenten zum Verkauf angeboten wird, soll ein Team von Spezialagenten den Verräter auf frischer Tat überführen. Cruise spielt den Geheimagenten Ethan Hunt, der miterleben muss, wie seine Kollegen bei diesem E",
+      "director": "Brian De Palma"
+    },
+    {
+      "title": "Mission: Impossible - Dead Reckoning",
+      "store_id": null,
+      "year": 2023,
+      "genre": "Action & Adventure",
+      "description": "Ethan Hunt (Tom Cruise) and his IMF team embark on their most dangerous mission yet: To track down a",
+      "director": "Christopher McQuarrie"
+    },
+    {
+      "title": "Mission: Impossible - Fallout",
+      "store_id": null,
+      "year": 2018,
+      "genre": "Action & Adventure",
+      "description": "On a dangerous assignment to recover stolen plutonium, Ethan Hunt (Tom Cruise) chooses to save his",
+      "director": "Christopher McQuarrie"
+    },
+    {
+      "title": "Mission: Impossible - Phantom Protokoll",
+      "store_id": null,
+      "year": 2011,
+      "genre": "Action & Adventure",
+      "description": "Kein Plan. Keine Wahl. Geheimagent Ethan Hunt (Tom Cruise) und sein Team arbeiten im Untergrund seit die IMF im Verdacht steht, den Bombenanschlag auf den Kreml zu verantworten. Während die Agenten versuchen, ihren Namen reinzuwaschen, retten sie die Welt",
+      "director": "Brad Bird"
+    },
+    {
+      "title": "Mission: Impossible - Rogue Nation",
+      "store_id": null,
+      "year": 2015,
+      "genre": "Action & Adventure",
+      "description": "Loaded with heart-pounding action and jaw-dropping stunts, prepare for the best Mission ever. With",
+      "director": "Christopher McQuarrie"
+    },
+    {
+      "title": "Mission: Impossible - The Final Reckoning",
+      "store_id": null,
+      "year": 2025,
+      "genre": "Action & Adventure",
+      "description": "Our lives are the sum of our choices. Tom Cruise is Ethan Hunt in Mission: Impossible – The Final Reckoning.",
+      "director": "Christopher McQuarrie"
+    },
+    {
+      "title": "Mission: Impossible II",
+      "store_id": null,
+      "year": 2006,
+      "genre": "Action & Adventure",
+      "description": "Wie stoppt man Terroristen, die die ganze Welt ins Chaos stürzen wollen? Das ist ein Auftrag für IMF Agent Ethan Hunt! Der größte Spion der Welt kehrt zurück im Videoereignis des Jahres: M:I-2. Diesmal trägt die Mission die actiongeladene, temporeiche Han",
+      "director": "John Woo"
+    },
+    {
+      "title": "Mission: Impossible III",
+      "store_id": null,
+      "year": 2006,
+      "genre": "Action & Adventure",
+      "description": "Niemals war der Einsatz so hoch – die Action so explosiv. Eine Mission: Impossible, wie man sie noch nie zuvor gesehen hat. Tom Cruise ist Ethan Hunt in diesem atemberaubenden, spannungsgeladenen Action-Thriller-Feuerwerk von Regisseur J.J. Abrams (Lost, ",
+      "director": "J.J. Abrams"
+    },
+    {
+      "title": "Moon",
+      "store_id": null,
+      "year": 2009,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "Seit drei Jahren ist Sam Bell auf der dunklen Seite des Mondes stationiert. Allein überwacht er dort für Lunar Industries die Förderung von Rohstoffen, die die Energieprobleme auf der Erde lösen. Drei Wochen noch, dann soll er wieder abgelöst und heimgesc",
+      "director": "Duncan Jones"
+    },
+    {
+      "title": "Moonrise Kingdom",
+      "store_id": null,
+      "year": 2012,
+      "genre": "Comedy",
+      "description": "1965, irgendwo vor der Küste Neuenglands. Captain Sharp (Bruce Willis), Sheriff einer kleinen beschaulichen Inselgemeinde, steckt in Schwierigkeiten: Suzy, die Tochter des neurotischen Ehepaars Bishop, ist spurlos verschwunden, und die Affäre des Sheriffs",
+      "director": "Wes Anderson"
+    },
+    {
+      "title": "mother!",
+      "store_id": null,
+      "year": 2017,
+      "genre": "Drama",
+      "description": "academy award® winners jennifer lawrence (silver linings playbook) and javier bardem (no country for",
+      "director": "Darren Aronofsky"
+    },
+    {
+      "title": "Männer, die auf Ziegen starren",
+      "store_id": null,
+      "year": 2010,
+      "genre": "Comedy",
+      "description": "Bei Recherchen erfährt der britische Journalist Bob Wilton (Ewan McGregor) von einer in den Achtzigerjahren gegründeten Spezialeinheit der US Army, deren Mit-glieder gelernt haben sollen, mit bloßen Blicken Tiere zu töten. Der Beste von ihnen war ein gewi",
+      "director": "Grant Heslov"
+    },
+    {
+      "title": "Naked Gun 33 1/3: The Final Insult",
+      "store_id": null,
+      "year": 1994,
+      "genre": "Comedy",
+      "description": "The further misadventures of bumbling Los Angeles police Lieutenant Frank Drebin (Leslie Nielsen)",
+      "director": "Peter Segal"
+    },
+    {
+      "title": "Night On Earth",
+      "store_id": null,
+      "year": 1991,
+      "genre": "Comedy",
+      "description": "Beginnend in Los Angeles, nehmen einen die fünf Episoden von \"Night on Earth\" mit auf eine Taxireise durch die Metropolen dieser Welt. In den einzelnen Geschichten kommt es durch eine Gemeinsamkeit zu skurrilen Aufeinandertreffen unterschiedlichster Chara",
+      "director": "Jim Jarmusch"
+    },
+    {
+      "title": "Nightcrawler",
+      "store_id": null,
+      "year": 2014,
+      "genre": "Thriller",
+      "description": "Lou Bloom (Jake Gyllenhaal) lebt zurückgezogen in Los Angeles und hält sich mehr schlecht als recht mit kleineren Diebstählen über Wasser. Nach erfolglosem Bemühen um einen anständigen Job, beginnt Lou als freier Kameramann für einen TV-Nachrichtensender ",
+      "director": "Dan Gilroy"
+    },
+    {
+      "title": "Nightmare On Elm Street: Mörderische Träume",
+      "store_id": null,
+      "year": 1985,
+      "genre": "Horror",
+      "description": "\"1, 2, Freddy kommt vorbei.\" Und hier ist er, Phantom-Bösewicht Freddy Krueger in all seiner messerscharfen Infamie. Wes Craven (\"Scream\") führte bei diesem richtungsweisenden ersten Werk der Slasher-Reihe Regie. Die Voraussetzungen sind einfach: Mörderis",
+      "director": "Wes Craven"
+    },
+    {
+      "title": "Nosferatu",
+      "store_id": null,
+      "year": 2024,
+      "genre": "Horror",
+      "description": "Robert Eggers’ Nosferatu is a gothic tale of obsession between a haunted young woman and the",
+      "director": "Robert Eggers"
+    },
+    {
+      "title": "Oblivion",
+      "store_id": null,
+      "year": 2013,
+      "genre": "Action & Adventure",
+      "description": "Jack Harper (Cruise) is one of the last few drone repairmen stationed on Earth. Part of a massive",
+      "director": "Joseph Kosinski"
+    },
+    {
+      "title": "Ocean's Eleven (2001)",
+      "store_id": null,
+      "year": 2002,
+      "genre": "Comedy",
+      "description": "Dapper Danny Ocean (GEORGE CLOONEY) is a man of action. Less than 24 hours into his parole from a New Jersey penitentiary, the wry, charismatic theif is already rolling out his next plan. Following three rules — don't hurt anybody, don't steal from anyone",
+      "director": "Steven Soderbergh"
+    },
+    {
+      "title": "Ocean's Thirteen",
+      "store_id": null,
+      "year": 2007,
+      "genre": "Action & Adventure",
+      "description": "Thirteen is the new twelve in the third terrific chapter of Oscar® winners George Clooney and Steven Soderbergh's criminal caper series. With a stellar cast of criminal cohorts (including George Clooney, Brad Pitt, Matt Damon, Andy Garcia, Don Cheadle, Be",
+      "director": "Steven Soderbergh"
+    },
+    {
+      "title": "Ocean's Twelve",
+      "store_id": null,
+      "year": 2004,
+      "genre": "Action & Adventure",
+      "description": "It's been three years since Danny Ocean (GEORGE CLOONEY) and his crew - fronted by detail man Rusty Ryan (BRAD PITT), up-and-coming pickpocket Linus Caldwell (MATT DAMON), explosives expert Basher Tarr (DON CHEADLE) and safecracker Frank Catton (BERNIE MA",
+      "director": "Steven Soderbergh"
+    },
+    {
+      "title": "Ohne Limit",
+      "store_id": null,
+      "year": 2011,
+      "genre": "Thriller",
+      "description": "Eddie Morras Leben verläuft nicht gerade auf der Überholspur. Der erfolglose Schriftsteller treibt sich lieber in den Bars von New York herum, als seinen Roman fertig zustellen. Zufällig begegnet er eines Tages einem alten Bekannten, der ihm eine Designer",
+      "director": "Neil Burger"
+    },
+    {
+      "title": "Once Upon A Time In... Hollywood",
+      "store_id": null,
+      "year": 2019,
+      "genre": "Drama",
+      "description": "Quentin Tarantino’s Once Upon a Time in... Hollywood visits 1969 Los Angeles, where everything is changing, as TV star Rick Dalton (Leonardo DiCaprio) and his longtime stunt double Cliff Booth (Brad Pitt) make their way around an industry they hardly reco",
+      "director": "Quentin Tarantino"
+    },
+    {
+      "title": "Only God Forgives",
+      "store_id": null,
+      "year": 2013,
+      "genre": "Thriller",
+      "description": "Die ungleichen Brüder Julian (Ryan Gosling) und Billy (Tom Burke) leben in Bangkoks Rotlichtviertel inmitten von Luxus, Sex, Sünde und Verbrechen. Dreh- und Angelpunkt für ihre illegalen Geschäfte ist ihr Kickbox-Club. Der unbarmherzige Kopf des Familienk",
+      "director": "Nicolas Winding Refn"
+    },
+    {
+      "title": "Oppenheimer",
+      "store_id": null,
+      "year": 2023,
+      "genre": "Drama",
+      "description": "Experience the breathtaking global phenomenon that has captivated audiences around the world.",
+      "director": "Christopher Nolan"
+    },
+    {
+      "title": "Otto - Der Film",
+      "store_id": null,
+      "year": 1985,
+      "genre": "Comedy",
+      "description": "Wie kommt es, dass ein junger Mann von der Nordsee mitten in der Südsee landet? Das ist eine lange Geschichte... Erst einmal kommt dieser Mann vom flachen Land in die große Stadt. Doch er ist nicht nur jung, sondern auch arm. So arm, dass er nicht einmal ",
+      "director": "Xaver Schwarzenberger"
+    },
+    {
+      "title": "Overlord",
+      "store_id": null,
+      "year": 2018,
+      "genre": "Horror",
+      "description": "Nothing can prepare you for the mind-blowing mayhem that is Overlord. Mega producer J.J. Abrams",
+      "director": "Julius Avery"
+    },
+    {
+      "title": "Paddington",
+      "store_id": null,
+      "year": 2014,
+      "genre": "Kids & Family",
+      "description": "Paddingtons erstes großes Leinwand-Abenteuer! Da er eine Schwäche für alles Britische hat, nimmt der tollpatschige Bär die Reise aus Peru bis nach London auf sich. Als er sich aber mutterseelenallein an der U-Bahn-Station Paddington wiederfindet, trifft e",
+      "director": "Paul King"
+    },
+    {
+      "title": "Paddington 2",
+      "store_id": null,
+      "year": 2017,
+      "genre": "Kids & Family",
+      "description": "Der liebenswerte Bär Paddington mit Schlapphut und Dufflecoat hat nicht nur bei Familie Brown ein Zuhause gefunden, er ist auch in der Nachbarschaft ein geschätztes Mitglied: Höflich, zuvorkommend und immer fröhlich – außerdem lieben alle seine Marmeladen",
+      "director": "Paul King"
+    },
+    {
+      "title": "Paddington in Peru",
+      "store_id": null,
+      "year": 2025,
+      "genre": "Action & Adventure",
+      "description": "Große Aufregung im Hause Brown in Windsor Gardens! Voller Freude hält Paddington seinen neuen Reisepass in den Tatzen. Kurzerhand beschließen die Browns, ihre Ferien in Paddingtons Heimat Peru zu verbringen. Dort angekommen, erwartet sie eine schlechte Na",
+      "director": "Dougal WIlson"
+    },
+    {
+      "title": "Panic Room",
+      "store_id": null,
+      "year": 2002,
+      "genre": "Drama",
+      "description": "Newly divorced Meg Altman (Jodie Foster) and her young daughter Sarah (Kristen Stewart) move into a",
+      "director": "David Fincher"
+    },
+    {
+      "title": "Paris, Texas / Digital Remastered",
+      "store_id": null,
+      "year": 1985,
+      "genre": "Drama",
+      "description": "Wie aus dem Nichts taucht in der sengenden Wüstenhitze zwischen den USA und Mexiko ein hagerer Mann auf, der einen dunklen Anzug und eine rote Baseballkappe trägt. Travis. Er trinkt den letzten Schluck aus seiner Wasserflasche, dann marschiert er unbeirrt",
+      "director": "Wim Wenders"
+    },
+    {
+      "title": "Pirates of the Caribbean - Am Ende der Welt",
+      "store_id": null,
+      "year": 2007,
+      "genre": "Action & Adventure",
+      "description": "Bereit für spektakuläre Stunts, atemberaubende Spezialeffekte, eine durch und durch fesselnde Story sowie die alles entscheidende Schlacht am Ende der Welt?  Erfolgsproduzent Jerry Bruckheimer und Regie-Ass Gore Verbinski führen die erfolgreichste Piraten",
+      "director": "Gore Verbinski"
+    },
+    {
+      "title": "Pirates of the Caribbean - Fluch der Karibik 2",
+      "store_id": null,
+      "year": 2006,
+      "genre": "Action & Adventure",
+      "description": "Captain Jack is back! Zum zweiten Mal heißt es \"Leinen los\" für den chaotischsten und zugleich kultigsten Piraten der sieben Weltmeere, der eine volle Breitseite säbelscharfer Gags und halsbrecherischer Action abfeuert! Davy Jones, der mysteriöse Captain ",
+      "director": "Gore Verbinski"
+    },
+    {
+      "title": "Planet der Affen",
+      "store_id": null,
+      "year": 2001,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "Als er mit seinem Raumschiff in einen elektro-magnetischen Sturm gerät, wird der Astronaut Leo Davidson (MARK WAHLBERG) quer durchs All geschleudert und muss auf einem unbekannten Planeten notlanden. Mit zerstörtem Shuttle, ohne Waffen und Ausrüstung entd",
+      "director": "Tim Burton"
+    },
+    {
+      "title": "Platoon",
+      "store_id": null,
+      "year": 1986,
+      "genre": "Drama",
+      "description": "Chris Taylor is a young, naive American who, upon his arrival in Vietnam, quickly discovers that he must do battle not only with the Viet Cong, but also with the gnawing fear, physical exhaustion and intense anger growing within him. While his two command",
+      "director": "Oliver Stone"
+    },
+    {
+      "title": "Police Academy",
+      "store_id": null,
+      "year": 1984,
+      "genre": "Comedy",
+      "description": "The film that started it all for the extremely successful sequels, takes a wickedly offbeat look at law, disorder and justice. The Los Angeles Times praises the \"one good belly laugh after another in the raucous tradition of 'Animal House' and 'Porky's'..",
+      "director": "Hugh Wilson"
+    },
+    {
+      "title": "Poltergeist (1982)",
+      "store_id": null,
+      "year": 2014,
+      "genre": "Horror",
+      "description": "A typical family in a quiet suburb of a normal California faces a frightening ordeal when its home",
+      "director": "Tobe Hooper"
+    },
+    {
+      "title": "Poor Things",
+      "store_id": null,
+      "year": 2024,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "Filmmaker Yorgos Lanthimos directs this incredible tale of the fantastical evolution of Bella Baxter",
+      "director": "Yorgos Lanthimos"
+    },
+    {
+      "title": "Porträt einer jungen Frau in Flammen",
+      "store_id": null,
+      "year": 2019,
+      "genre": "Drama",
+      "description": "Ein ungewöhnlicher Auftrag führt die Pariser Malerin Marianne im Jahr 1770 auf eine einsame Insel an der Küste der Bretagne: Sie soll heimlich ein Gemälde von Héloïse anfertigen, die gerade eine Klosterschule für junge adelige Frauen verlassen hat und bal",
+      "director": "Unknown"
+    },
+    {
+      "title": "Predator",
+      "store_id": null,
+      "year": 1987,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "Tief im Dschungel Mittelamerikas entdeckt Major Dutch (Arnold Schwarzenegger) mit seinem Elite-Trupp grausam verstümmelte Leichen, die an Bäumen herunterhängen. Mit diesem Fund beginnt für die Gruppe ein blutiger Albtraum, denn ein unsichtbarer Angreifer ",
+      "director": "John McTiernan"
+    },
+    {
+      "title": "Predator 2 (Uncut)",
+      "store_id": null,
+      "year": 1990,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "Vor Jahren hatte er sich seine Opfer dort gesucht, wo die Welt am unwegsamsten ist - tief im südamerikanischen Dschungel. Heute hat er ein anderes Jagdrevier gefunden - den Dschungel von Los Angeles. Mitten im heißesten Sommer schlägt der Predator wieder ",
+      "director": "Stephen Hopkins"
+    },
+    {
+      "title": "Prestige: Die Meister der Magie",
+      "store_id": null,
+      "year": 2007,
+      "genre": "Thriller",
+      "description": "Der neue Film des gefeierten Regisseurs Christopher Nolan (\"Memento\", \"Batman Begins\") ist ein von Illusionen durchzogener Thriller. In dieser Kriminalgeschichte voller Drehungen und Wendungen entsteht im Viktorianischen England eine brutale Rivalität zwi",
+      "director": "Unknown"
+    },
+    {
+      "title": "Pretty Woman",
+      "store_id": null,
+      "year": 1990,
+      "genre": "Comedy",
+      "description": "Pretty Woman ist einer der erfolgreichsten Kinofilme aller Zeiten! In diesem modernen Märchen spielt Oscar®-Preisträgerin Julia Roberts (Erin Brockovich) das liebenswürdige Callgirl Vivian Ward. Sie trifft auf den verführerischen Edward Lewis (Richard Ger",
+      "director": "Garry Marshall"
+    },
+    {
+      "title": "Prisoners",
+      "store_id": null,
+      "year": 2013,
+      "genre": "Thriller",
+      "description": "Keller Dover (Hugh Jackman) ist ein harter Kerl und steht mit beiden Beinen im Leben. Doch die plötzliche Entführung seiner kleinen Tochter trifft ihn wie ein Schlag. Eine fieberhafte Suche beginnt. Der junge, ambitionierte Detective Loki (Jake Gyllenhaal",
+      "director": "Denis Villeneuve"
+    },
+    {
+      "title": "Project Hail Mary",
+      "store_id": null,
+      "year": 2026,
+      "genre": "Action & Adventure",
+      "description": "Stranded light years from home, Ryland Grace must save the dying sun—with help from an unlikely friend.  ",
+      "director": "Phil Lord & Christopher Miller"
+    },
+    {
+      "title": "Prometheus - Dunkle Zeichen ",
+      "store_id": null,
+      "year": 2012,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "Im Auftrag von Weyland Industries, vertreten durch Meredith Vickers, macht sich eine Forschergruppe und der Androide David auf eine Reise nach den Ursprüngen menschlichen Lebens. Angeführt wird die Gruppe von den Forschern Elizabeth Shaw und Charlie Hollo",
+      "director": "Ridley Scott"
+    },
+    {
+      "title": "Pulp Fiction",
+      "store_id": null,
+      "year": 1994,
+      "genre": "Thriller",
+      "description": "24 Stunden in Los Angeles. Der ganz normale Gangsteralltag. Die Auftragskiller Vincent Vega und Jules Winnfield müssen eine ungewollte Leiche beseitigen, das Pärchen Pumpkin und Honey Bunny rauben ein Restaurant aus und Boxer Butch muss nach einem geplatz",
+      "director": "Quentin Tarantino"
+    },
+    {
+      "title": "Pumping Iron",
+      "store_id": null,
+      "year": 1978,
+      "genre": "Documentary",
+      "description": "Arnold Schwarzenegger stars in this documentary about the 100 days leading up to the 1975 Mr.",
+      "director": "George Butler & Robert Fiore"
+    },
+    {
+      "title": "Puss in Boots",
+      "store_id": null,
+      "year": 2011,
+      "genre": "Kids & Family",
+      "description": "You loved him in Shrek, now see where the one-and-only swashbuckling feline found his fame– and a very big pair of boots– in this hilariously funny film. Lover, fighter and outlaw Puss In Boots (Antonio Banderas) is on the adventure of his nine lives as h",
+      "director": "Chris Miller"
+    },
+    {
+      "title": "Puss In Boots: The Last Wish",
+      "store_id": null,
+      "year": 2022,
+      "genre": "Kids & Family",
+      "description": "Everyone’s favorite leche-loving, swashbuckling, fear-defying feline, Puss in Boots, returns in a",
+      "director": "Joel Crawford & Januel P. Mercado"
+    },
+    {
+      "title": "Rain Man",
+      "store_id": null,
+      "year": 1988,
+      "genre": "Drama",
+      "description": "When Charlie Babbitt goes home to the Midwest for his estranged father's funeral, he learns not only",
+      "director": "Barry Levinson"
+    },
+    {
+      "title": "Rambo: First Blood",
+      "store_id": null,
+      "year": 1983,
+      "genre": "Thriller",
+      "description": "Der hochdekorierte Vietnam-Veteran und ehemalige Elitekämpfer John Rambo ist in einem Provinznest auf der Suche nach einem Kriegskameraden. Die hiesige Polizei hält ihn für einen Landstreicher und nimmt ihn fest. Polizeichef Teasle, der ihn auf der Wache ",
+      "director": "Ted Kotcheff"
+    },
+    {
+      "title": "Rambo: Last Blood",
+      "store_id": null,
+      "year": 2019,
+      "genre": "Action & Adventure",
+      "description": "John Rambo (Sylvester Stallone) hat viele große Schlachten in seinem Leben geschlagen - nun soll endlich Schluss sein. Zurückgezogen lebt der Kriegsveteran inzwischen auf einer abgelegenen Farm in Arizona. Doch der einstige Elitekämpfer kommt nicht zur Ru",
+      "director": "Adrian Grünberg"
+    },
+    {
+      "title": "Red Eye",
+      "store_id": null,
+      "year": 2005,
+      "genre": "Thriller",
+      "description": "Lisa Reisert (Rachel McAdams) is a young woman with more than her share of anxieties about flying.",
+      "director": "Wes Craven"
+    },
+    {
+      "title": "Robocop",
+      "store_id": null,
+      "year": 1987,
+      "genre": "Action & Adventure",
+      "description": "Set in old Detroit, a crime-ridden ghetto of the not too distant future, a cop killed in the line of duty is robotized then dispatched to fight crime. But Robocop is haunted by memories and dreams of who and what he used to be. As he rediscovers his past,",
+      "director": "Paul Verhoeven"
+    },
+    {
+      "title": "Rocky",
+      "store_id": null,
+      "year": 1976,
+      "genre": "Drama",
+      "description": "Rocky Balboa is a struggling Philadelphia boxer who is scorned by his gym's owner, patronized by a loan shark and rebuffed by a shy 'plain-Jane', whose butcher brother keeps engineering a romantic match.  Rocky would have remained in this rut had not heav",
+      "director": "John G. Avildsen"
+    },
+    {
+      "title": "Rogue One: A Star Wars Story",
+      "store_id": null,
+      "year": 2016,
+      "genre": "Action & Adventure",
+      "description": "Lucasfilm präsentiert den ersten Star Wars Stand-Alone-Film. Rogue One: A Star Wars Story, ein episches Abenteuer. In dunklen Zeiten schließt sich eine Guppe unfreiwilliger Helden zusammen, um die Pläne des Todessterns zu stehlen, der ultimativen Waffe de",
+      "director": "Gareth Edwards"
+    },
+    {
+      "title": "Rosemary's Baby",
+      "store_id": null,
+      "year": 1968,
+      "genre": "Horror",
+      "description": "From Director Roman Polanski comes the chilling classic that birthed a new direction in horror. From",
+      "director": "Roman Polanski"
+    },
+    {
+      "title": "Saving Private Ryan",
+      "store_id": null,
+      "year": 1998,
+      "genre": "Drama",
+      "description": "Steven Spielberg directed this powerful, realistic re-creation of WWII's D-day invasion and the",
+      "director": "Steven Spielberg"
+    },
+    {
+      "title": "Shape of Water - Das Flüstern des Wassers",
+      "store_id": null,
+      "year": 2018,
+      "genre": "Drama",
+      "description": "Der meisterhafte Geschichtenerzähler Guillermo del Toro inszeniert mit THE SHAPE OF WATER eine poetische Liebesgeschichte, die circa 1963 vor dem Hintergrund des Kalten Krieges in Amerika spielt. Im versteckten Hochsicherheitslabor der Regierung arbeitet ",
+      "director": "Guillermo del Toro"
+    },
+    {
+      "title": "Sherlock Holmes (2009)",
+      "store_id": null,
+      "year": 2009,
+      "genre": "Action & Adventure",
+      "description": "In a dynamic new portrayal of Arthur Conan Doyle's most famous characters, \"Sherlock Holmes\" sends Holmes (Robert Downey Jr.) and his stalwart partner, Dr. Watson (Jude Law) on their latest challenge. The only woman ever to have bested Holmes, Irene Adler",
+      "director": "Unknown"
+    },
+    {
+      "title": "Sherlock Holmes: A Game of Shadows",
+      "store_id": null,
+      "year": 2011,
+      "genre": "Action & Adventure",
+      "description": "The game is afoot once more! Robert Downey Jr. and Jude Law reprise their roles as Holmes and Watson",
+      "director": "Guy Ritchie"
+    },
+    {
+      "title": "Shrek",
+      "store_id": null,
+      "year": 2001,
+      "genre": "Kids & Family",
+      "description": "Once upon a time in a far away swamp, there lived an ornery ogre named Shrek whose precious solitude is suddenly shattered by an invasion of annoying fairy-tale characters. There are blind mice in his food, a big, bad wolf in his bed, three little homeles",
+      "director": "Vicky Jenson & Andrew Adamson"
+    },
+    {
+      "title": "Shrek 2 - Der tollkühne Held kehrt zurück",
+      "store_id": null,
+      "year": 2004,
+      "genre": "Kids & Family",
+      "description": "Unser Lieblings-Oger ist zurück in SHREK 2 – der tollkühnsten Komödie aller Zeiten, die Zuschauer und Kritiker noch mehr lieben als den Oscar®- gekrönten Vorgänger*! CINEMA meint: „Mehr Witze, höheres Tempo und noch mehr liebenswerte Figuren.“ Glücklich b",
+      "director": "Kelly Asbury, Conrad Vernon & Andrew Adamson"
+    },
+    {
+      "title": "Sicario",
+      "store_id": null,
+      "year": 2015,
+      "genre": "Action & Adventure",
+      "description": "Nachdem die idealistische FBI-Agentin Kate Macer im Geheimversteck eines Drogenkartells einen grausamen Fund macht, meldet sie sich zu einer internationalen Task-Force um Jagd auf die Drahtzieher zu machen. Ihr erster Einsatz führt Kate direkt in das umkä",
+      "director": "Denis Villeneuve"
+    },
+    {
+      "title": "Sideways",
+      "store_id": null,
+      "year": 2005,
+      "genre": "Comedy",
+      "description": "Ein erfolgloser Autor und sein bester Freund, ein ehemaliger Schauspieler, geraten in alle möglichen Schwierigkeiten, als sie vor der Hochzeit seines besten Freundes eine Weinprobenreise antreten.",
+      "director": "Alexander Payne"
+    },
+    {
+      "title": "Sieben",
+      "store_id": null,
+      "year": 1995,
+      "genre": "Thriller",
+      "description": "Maßlosigkeit. Habgier. Trägheit. Zorn. Hochmut. Wollust. Neid.  Zwei Cops (Brad Pitt und Morgan Freeman) jagen einen hochintelligenten, schwer zu fassenden Killer, der eine Reihe grausiger Morde zelebriert - seine Opfer haben jeweils eine der sieben Todsü",
+      "director": "David Fincher"
+    },
+    {
+      "title": "Silver Linings",
+      "store_id": null,
+      "year": 2013,
+      "genre": "Comedy",
+      "description": "Pat Solatano (Bradley Cooper) hat alles verloren: sein Haus, seinen Job und seine Frau. Und so findet er sich, nachdem er gerade auf richterliche Anweisung acht Monate in einer psychiatrischen Anstalt verbracht hat, zuhause bei Mutter (Jacki Weaver) und V",
+      "director": "David O. Russell"
+    },
+    {
+      "title": "Sin City",
+      "store_id": null,
+      "year": 2011,
+      "genre": "Action & Adventure",
+      "description": "Willkommen im dreckigen Sündenpfuhl von Sin City - der Stadt der Verbrecher, Nutten und verlorenen Seelen. Der Stadt, in der das Wort Glück seine Bedeutung verloren hat und die tiefsten menschlichen Abgründe schonungslos offenbart werden. Hier versucht ei",
+      "director": "Robert Rodriguez"
+    },
+    {
+      "title": "Sleepy Hollow",
+      "store_id": null,
+      "year": 1999,
+      "genre": "Horror",
+      "description": "In early colonial America, young policeman Ichabod Crane is sent to the fledgling settlement of New",
+      "director": "Tim Burton"
+    },
+    {
+      "title": "Snatch",
+      "store_id": null,
+      "year": 2001,
+      "genre": "Action & Adventure",
+      "description": "\"Guy Ritchie, writer/director of Lock, Stock and Two Smoking Barrels, delivers another awe-inspiring",
+      "director": "Guy Ritchie"
+    },
+    {
+      "title": "Solo: A Star Wars Story",
+      "store_id": null,
+      "year": 2018,
+      "genre": "Action & Adventure",
+      "description": "Betrete den Millennium Falken und reise in eine weit, weit entfernte Galaxis in Solo: A Star Wars Story, ein episches Abenteuer über den liebenswertesten Schurken der Galaxis. Nach einigen kühnen Streichen in der gefährlichen, kriminellen Unterwelt freund",
+      "director": "Ron Howard"
+    },
+    {
+      "title": "Spaceballs",
+      "store_id": null,
+      "year": 1987,
+      "genre": "Comedy",
+      "description": "An opening shot of one of those enormous, endlessly flowing, across-the-top-of-the-screen George Lucas space cruisers introduces us into the not-quite-so-serious world of director Mel Brooks' planet \"Spaceball\", which is attempting to steal the atmosphere",
+      "director": "Mel Brooks"
+    },
+    {
+      "title": "Species",
+      "store_id": null,
+      "year": 1995,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "When a beautiful human-alien hybrid (Natasha Henstridge) escapes from observation, scientist Xavier Fitch (Ben Kingsley) dispatches a crew of experts to find her before she is able to fulfill her horrific purpose: to mate with unsuspecting men and produce",
+      "director": "Roger Donaldson"
+    },
+    {
+      "title": "Speed",
+      "store_id": null,
+      "year": 1994,
+      "genre": "Action & Adventure",
+      "description": "Er ist ein Cop aus der Anti-Terror-Einheit von Los Angeles. Und so ist der Alarm für Jack Traven nichts ungewöhnliches: Ein Terrorist will drei Millionen Dollar erpressen, oder die Geiseln stürzen in einem Aufzug 35 Stockwerke in die Tiefe.  Doch Jack sch",
+      "director": "Jan de Bont"
+    },
+    {
+      "title": "Spider-Man",
+      "store_id": null,
+      "year": 2002,
+      "genre": "Action & Adventure",
+      "description": "Average teenager Peter Parker is transformed into an extraordinary super hero after he is ",
+      "director": "Sam Raimi"
+    },
+    {
+      "title": "Spider-Man 2 (Extended Cut)",
+      "store_id": null,
+      "year": 2004,
+      "genre": "Action & Adventure",
+      "description": "In SPIDER-MAN 2, the latest installment in the blockbuster Spider-Man  series, based on the classic",
+      "director": "Sam Raimi"
+    },
+    {
+      "title": "Spider-Man 3",
+      "store_id": null,
+      "year": 2007,
+      "genre": "Action & Adventure",
+      "description": "Peter Parker (Tobey Maguire) finally has the girl of his dreams, Mary Jane Watson (Kirsten Dunst), ",
+      "director": "Sam Raimi"
+    },
+    {
+      "title": "Spider-Man: Across the Spider-Verse",
+      "store_id": null,
+      "year": 2023,
+      "genre": "Action & Adventure",
+      "description": "Miles Morales returns for the next chapter of the Oscar®-winning Spider-Verse saga, (2018, Best",
+      "director": "Joaquim Dos Santos, Kemp Powers & Justin K. Thompson"
+    },
+    {
+      "title": "Spider-Man: Far From Home",
+      "store_id": null,
+      "year": 2019,
+      "genre": "Action & Adventure",
+      "description": "Following the events of Avengers: Endgame, Spider-Man must step up to take on new threats in a world",
+      "director": "Jon Watts"
+    },
+    {
+      "title": "Spider-Man: Homecoming",
+      "store_id": null,
+      "year": 2017,
+      "genre": "Action & Adventure",
+      "description": "Spider-Man [Tom Holland] begins to navigate his new identity as the web-slinging super hero under",
+      "director": "Jon Watts"
+    },
+    {
+      "title": "Spider-Man: No Way Home (Extended Version)",
+      "store_id": null,
+      "year": 2022,
+      "genre": "Action & Adventure",
+      "description": "For the first time in the cinematic history of Spider-Man, our friendly neighborhood hero's identity",
+      "director": "Jon Watts"
+    },
+    {
+      "title": "Star Trek",
+      "store_id": null,
+      "year": 2009,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "Die Zukunft beginnt in J.J. Abrams' hochtourigem Hit STAR TREK, der das Publikum im Sturm eroberte. Der Romulaner Nero reist aus der Zukunft zurück, um sich an der Föderation zu rächen. Die Rivalen Kirk und Spock müssen zusammenarbeiten, um ihn davon abzu",
+      "director": "J.J. Abrams"
+    },
+    {
+      "title": "Star Trek Beyond",
+      "store_id": null,
+      "year": 2016,
+      "genre": "Action & Adventure",
+      "description": "From Director Justin Lin and Producer J.J. Abrams comes one of the best-reviewed action movies of",
+      "director": "Justin Lin"
+    },
+    {
+      "title": "Star Trek I: Der Film",
+      "store_id": null,
+      "year": 1979,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "\"Die U.S.S. Enterprise™ startet wieder in die unendlichen Weiten des Universums – in diesem neuen, hervorragend restaurierten Director’s Cut des original Star Trek™-Films. Diese neue Fassung des legendären Regisseurs Robert Wise enthält verbesserte visuel",
+      "director": "Robert Wise"
+    },
+    {
+      "title": "Star Trek II: Der Zorn des Khan (Director's Cut)",
+      "store_id": null,
+      "year": 1982,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "Im23. Jahrhundert: Das Föderationsraumschiff U.S.S. Enterprise befindet sich auf einem Routine-Manöver. Admiral Kirk scheint bedrückt, da diese Inspektion wahrscheinlich die letzte seiner Laufbahn sein wird. Doch Khan ist zurückgekehrt: Unterstützt von ei",
+      "director": "Nicholas Meyer"
+    },
+    {
+      "title": "Star Trek III: Auf der Suche nach Mr. Spock",
+      "store_id": null,
+      "year": 1984,
+      "genre": "Action & Adventure",
+      "description": "Admiral Kirks Sieg über Khan und die Erschaffung des Planeten Genesis sind teuer erkauft: Spock ist tot und McCoy offensichtlich verrückt geworden. Der unerwartete Besuch von Sarek, Spocks Vater, liefert eine überraschende Offenbarung: Spocks Lebensessenz",
+      "director": "Leonard Nimoy"
+    },
+    {
+      "title": "Star Trek Into Darkness",
+      "store_id": null,
+      "year": 2013,
+      "genre": "Action & Adventure",
+      "description": "J.J. Abrams Star Trek Into Darkness is the best-reviewed blockbuster of the year. When a ruthless",
+      "director": "J.J. Abrams"
+    },
+    {
+      "title": "Star Trek IV: The Voyage Home",
+      "store_id": null,
+      "year": 1986,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "It's the 23rd century, and a mysterious alien power is threatening Earth by evaporating the oceans",
+      "director": "Unknown"
+    },
+    {
+      "title": "Star Trek IX: Insurrection",
+      "store_id": null,
+      "year": 1998,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "Engage! Captain Jean-Luc Picard (Patrick Stewart) and his Next Generation crew are back and so is",
+      "director": "Jonathan Frakes"
+    },
+    {
+      "title": "Star Trek V: Am Rande des Universums",
+      "store_id": null,
+      "year": 1989,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "Sternzeit 8454.130. In seinem Urlaub steht Captain Kirk zwei großen Herausforderungen gegenüber: den El Captain zu besteigen und Mr. Spock Lagerfeuerlieder beizubringen. Doch das wird ein kurzer Urlaub: Ein verräterischer Vulkanier entführt die Enterprise",
+      "director": "William Shatner"
+    },
+    {
+      "title": "Star Trek VI: Das unentdeckte Land (Director's Cut)",
+      "store_id": null,
+      "year": 1992,
+      "genre": "Action & Adventure",
+      "description": "Die Enterprise führt einen Kampf für den Frieden in diesem spektakulärsten Star Trek Abenteuer aller Zeiten! Nach Jahren des Krieges bereiten sich die Föderation und das Klingonische Reich auf eine Friedenskonferenz vor. Aber die Aussicht auf intergalakti",
+      "director": "Nicholas Meyer"
+    },
+    {
+      "title": "Star Trek VII: Generations",
+      "store_id": null,
+      "year": 1995,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "Stardate: the 23rd Century. Retired Starfleet officers James T. Kirk, Montgomery Scott and Pavel",
+      "director": "David Carson"
+    },
+    {
+      "title": "Star Trek VIII: Der erste Kontakt",
+      "store_id": null,
+      "year": 1996,
+      "genre": "Action & Adventure",
+      "description": "Captain Jean-Luc Picard (Patrick Stewart) und die Next Generation-Crew in ihrem bisher aufregendsten Abenteuer – einem Action-geladenen Science Fiction- Film, der “alles bisher Dagewesene in den Schatten stellt” (Richard Corliss, Time) Sie nennen sich sel",
+      "director": "Jonathan Frakes & Peter Lauritson"
+    },
+    {
+      "title": "Star Trek X: Nemesis",
+      "store_id": null,
+      "year": 2002,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "In the wake of a joyful wedding between Riker (Jonathan Frakes) and Troi (Marina Sirtis), Picard",
+      "director": "Unknown"
+    },
+    {
+      "title": "Star Wars: Angriff der Klonkrieger",
+      "store_id": null,
+      "year": 2002,
+      "genre": "Action & Adventure",
+      "description": "Sehen Sie zum ersten Mal überhaupt als digitale Veröffentlichung, wie der Grundstein für die Verwandlung von Anakin Skywalker in Star Wars: Episode II - Angriff der Klonkrieger gelegt wird. Zehn Jahre sind seit der Invasion von Naboo vergangen, und die Ga",
+      "director": "George Lucas"
+    },
+    {
+      "title": "Star Wars: Das Erwachen der Macht",
+      "store_id": null,
+      "year": 2015,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "Der visionäre Regisseur J.J. Abrams erweckt das Filmereignis einer ganzen Generation zum Leben. Als Kylo Ren und die Erste Ordnung sich aus der Asche des Imperiums erheben, ist Luke Skywalker verschwunden. Die Schrottsammlerin Rey und der desertierte Stur",
+      "director": "J.J. Abrams"
+    },
+    {
+      "title": "Star Wars: Das Imperium schlägt zurück",
+      "store_id": null,
+      "year": 1980,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "Entdecken Sie zum allerersten Mal den ewigen Konflikt zwischen Gut und Böse im mitreißenden Star Wars: Episode V - Das Imperium schlägt zurück als digitale Veröffentlichung. Nach der Zerstörung des Todessterns nehmen imperiale Streitkräfte die Verfolgung ",
+      "director": "Irvin Kershner"
+    },
+    {
+      "title": "Star Wars: Die dunkle Bedrohung",
+      "store_id": null,
+      "year": 1999,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "Erleben Sie zum allerersten Mal die action-gelandenen Heldentaten und unvergesslichen Abenteuer von Star Wars: Episode I - Die dunkle Bedrohung als digitale Veröffentlichung. Begleiten Sie die ersten schicksalhaften Schritte auf Anakin Skywalkers Weg. Nac",
+      "director": "George Lucas"
+    },
+    {
+      "title": "Star Wars: Die letzten Jedi",
+      "store_id": null,
+      "year": 2017,
+      "genre": "Action & Adventure",
+      "description": "Mit Lucasfilms Star Wars: Die letzten Jedi, wird die Skywalker-Saga fortgesetzt. Die Helden aus Das Erwachen der Macht schließen sich den galaktischen Legenden an und in einem epischen Abenteuer werden Mysterien der Macht entschlüsselt und erschütternde E",
+      "director": "Rian Johnson"
+    },
+    {
+      "title": "Star Wars: Die Rache der Sith",
+      "store_id": null,
+      "year": 2005,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "Entdecken Sie zum allerersten Mal die wahre Macht der Dunklen Seite in Star Wars: Episode III - Die Rache der Sith als digitale Veröffentlichung. Jahre nach dem Beginn der Klonkriege führen die edlemütigen Jedi-Ritter eine gigantische Klonarmee in einem g",
+      "director": "George Lucas"
+    },
+    {
+      "title": "Star Wars: Die Rückkehr der Jedi-Ritter",
+      "store_id": null,
+      "year": 1983,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "Erleben Sie zum allerersten Mal als digitale Veröffentlichung den Triumph der Macht in Star Wars: Episode VI - Die Rückkehr der Jedi-Ritter. Im epischen Finale der Saga bereitet das Imperium eine Niederschlagung der Rebellion mit einem noch mächtigeren To",
+      "director": "Richard Marquand"
+    },
+    {
+      "title": "Star Wars: Eine Neue Hoffnung",
+      "store_id": null,
+      "year": 1978,
+      "genre": "Action & Adventure",
+      "description": "Luke Skywalker macht sich in Star Wars: Episode IV - Eine Neue Hoffnung zum allerersten Mal in digitaler Veröffentlichung zu einer Reise auf, deren Verlauf die Galaxis verändern wird. 19 Jahre nach der Gründung des Galaktischen Imperiums wird Luke Skywalk",
+      "director": "George Lucas"
+    },
+    {
+      "title": "Star Wars: The Rise of Skywalker",
+      "store_id": null,
+      "year": 2019,
+      "genre": "Action & Adventure",
+      "description": "Lucasfilm and director J.J. Abrams join forces once more to take viewers on an epic journey to a",
+      "director": "J.J. Abrams"
+    },
+    {
+      "title": "Starship Troopers",
+      "store_id": null,
+      "year": 1998,
+      "genre": "Action & Adventure",
+      "description": "Eine Handvoll junger Soldaten stellt sich in intergalaktischen Gefechten außerirdischen Insekten, die die menschliche Rasse auszulöschen drohen. Abgesehen von ihrer Absicht, alles menschliche Leben zu vernichten, ist nur wenig über diese „Bugs“ bekannt. J",
+      "director": "Paul Verhoeven"
+    },
+    {
+      "title": "Stirb langsam",
+      "store_id": null,
+      "year": 1988,
+      "genre": "Action & Adventure",
+      "description": "Heiligabend in Los Angeles. Eine Gruppe schwerbewaffneter Männer stürmt ein Bürohochhaus. Die Gangster wollen 624 Mio. Dollar erbeuten, die als Wertpapiere in einem computergesicherten Safe lagern. Eine Partygesellschaft, die im obersten Stock feiert, neh",
+      "director": "John McTiernan"
+    },
+    {
+      "title": "Stirb langsam 2",
+      "store_id": null,
+      "year": 1990,
+      "genre": "Action & Adventure",
+      "description": "\"Washington, wieder kurz vor Weihnachten: Der Cop John McClane will eigentlich nur seine Frau Holly vom Flughafen abholen. Doch auch diesmal klappt Johns Rendezvous nicht so ganz: Eine Gruppe abtrünniger Elite-Soldaten ist angetreten, um die Auslieferung ",
+      "director": "Renny Harlin"
+    },
+    {
+      "title": "Stirb langsam 4.0",
+      "store_id": null,
+      "year": 2007,
+      "genre": "Action & Adventure",
+      "description": "STIRB LANGSAM 4.0, der neueste Teil der äußerst erfolgreichen Stirb-Langsam-Reihe, ist ein spektakuläres Action-Abenteuer in dem sich Detective John McClane mit einer neuen Form des Terrorismus konfrontiert sieht.",
+      "director": "Len Wiseman"
+    },
+    {
+      "title": "Sunshine",
+      "store_id": null,
+      "year": 2007,
+      "genre": "Action & Adventure",
+      "description": "In fünfzig Jahren stirbt die Sonne - und mit ihr stirbt auch die Menschheit. Unsere letzte Hoffnung: Ein Raumschiff, die Icarus II, mit einer internationalen Crew von acht Frauen und Männern. Unter Führung von Kapitän Kaneda soll das Team eine Sprengladun",
+      "director": "Danny Boyle"
+    },
+    {
+      "title": "Super - Shut Up, Crime",
+      "store_id": null,
+      "year": 2011,
+      "genre": "Comedy",
+      "description": "Im normalen Leben ist Frank das, was man landläufig als arme Sau bezeichnet würde: ein unter",
+      "director": "James Gunn"
+    },
+    {
+      "title": "Superbad",
+      "store_id": null,
+      "year": 2007,
+      "genre": "Comedy",
+      "description": "From the guy who brought you Knocked Up and The 40-Year-Old Virgin comes Superbad.  Seth (Jonah Hill",
+      "director": "Greg Mottola"
+    },
+    {
+      "title": "Suspiria",
+      "store_id": null,
+      "year": 2018,
+      "genre": "Thriller",
+      "description": "Fesselnde Neu-Interpretation des Horrorklassikers durch Regisseur Luca Guadagnino. Im West-Berlin der 70er Jahre schließt sich die junge Susie (Dakota Johnson) einem renommierten Tanzensemble an. Zeitgleich verschwindet eine Schülerin unter ungeklärten Um",
+      "director": "Luca Guadagnino"
+    },
+    {
+      "title": "Taking Lives",
+      "store_id": null,
+      "year": 2004,
+      "genre": "Thriller",
+      "description": "A psychological thriller, Taking Lives is the story of an FBI agent who becomes involved with her key witness while tracking a prolific serial killer who assumes the lives and identities of the people he kills. She finds herself surrounded by numerous sus",
+      "director": "D.J. Caruso"
+    },
+    {
+      "title": "Talladega Nights: The Ballad of Ricky Bobby",
+      "store_id": null,
+      "year": 2006,
+      "genre": "Comedy",
+      "description": "NASCAR stock car racing sensation Ricky Bobby (Will Ferrell) is a national hero because of his \"win",
+      "director": "Adam McKay"
+    },
+    {
+      "title": "Taxi Driver",
+      "store_id": null,
+      "year": 2010,
+      "genre": "Drama",
+      "description": "Considered among the best films of all time, Martin Scorsese's Taxi Driver was nominated for Academy Awards® for Best Picture, Best Actor (Robert De Niro), Best Supporting Actress (Jodie Foster) and Best Original Score (Bernard Herrmann). Solitary, aliena",
+      "director": "Martin Scorsese"
+    },
+    {
+      "title": "Tenet",
+      "store_id": null,
+      "year": 2020,
+      "genre": "Action & Adventure",
+      "description": "Armed with only one word—Tenet—and fighting for the survival of the entire world, the Protagonist",
+      "director": "Christopher Nolan"
+    },
+    {
+      "title": "Terminator - Dark Fate",
+      "store_id": null,
+      "year": 2019,
+      "genre": "Action & Adventure",
+      "description": "Sarah Connor und der T-800 sind zurück! Die Story knüpft an die Ereignisse von TERMINATOR 2: TAG DER ABRECHNUNG an.",
+      "director": "Tim Miller"
+    },
+    {
+      "title": "Terminator 2 - Tag der Abrechnung",
+      "store_id": null,
+      "year": 1991,
+      "genre": "Thriller",
+      "description": "Los Angeles, 1994: Zwei Terminatoren aus dem Jahr 2029 suchen nach dem jungen John Connor, dem zukünftigen Revolutionsführer. In letzter Sekunde kann der von Connor in der Zukunft programmierte T-800 den Jungen vor der Killermaschine T-1000 retten. Nachde",
+      "director": "James Cameron"
+    },
+    {
+      "title": "Terminator 3: Rise of the Machines",
+      "store_id": null,
+      "year": 2003,
+      "genre": "Drama",
+      "description": "A decade has passed since John Connor (Nick Stahl) helped save humankind from mass destruction. Now ",
+      "director": "Jonathan Mostow"
+    },
+    {
+      "title": "Terminator Genisys",
+      "store_id": null,
+      "year": 2015,
+      "genre": "Action & Adventure",
+      "description": "NEW MISSION, NEW THREAT, NEW FATE. \"Arnold is back and better than ever\" (Shawn Edwards, FOX-TV) in",
+      "director": "Alan Taylor"
+    },
+    {
+      "title": "Terminator Salvation",
+      "store_id": null,
+      "year": 2009,
+      "genre": "Action & Adventure",
+      "description": "Set in post-apocalyptic 2018, John Connor is the man fated to lead the human resistance against",
+      "director": "McG"
+    },
+    {
+      "title": "The Adventures of Tintin: The Secret of the Unicorn",
+      "store_id": null,
+      "year": 2011,
+      "genre": "Action & Adventure",
+      "description": "A young reporter named Tintin and his dog, a terrier named Snowy, travel the world and set off on ",
+      "director": "Steven Spielberg"
+    },
+    {
+      "title": "The Amazing Spider-Man",
+      "store_id": null,
+      "year": 2012,
+      "genre": "Action & Adventure",
+      "description": "Peter Parker lidia con la secundaria y con una sorprendente crisis sobrehumana como su álter ego el ",
+      "director": "Marc Webb"
+    },
+    {
+      "title": "The Amazing Spider-Man",
+      "store_id": null,
+      "year": 2012,
+      "genre": "Action & Adventure",
+      "description": "Der jugendliche Außenseiter Peter (Andrew Garfield) versucht, das Geheimnis seiner Vergangenheit zu lüften und das Herz seiner Highschool-Liebe Gwen Stacy (Emma Stone) zu erobern. Ein mysteriöser Aktenkoffer seines Vaters, der ihn als Kind verlassen hat, ",
+      "director": "Unknown"
+    },
+    {
+      "title": "The Amazing Spider-Man 2",
+      "store_id": null,
+      "year": 2014,
+      "genre": "Action & Adventure",
+      "description": "It’s great to be Spider-Man (Andrew Garfield). For Peter Parker, there’s no feeling quite like",
+      "director": "Marc Webb"
+    },
+    {
+      "title": "The Avengers",
+      "store_id": null,
+      "year": 2012,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "Marvel präsentiert MARVEL‘S THE AVENGERS, das ultimative Team. Die legendären Superhelden Iron Man, der unglaubliche Hulk, Thor und Captain America versammeln sich zum ersten Mal in einer neuen actiongeladenen Story mit den Schauspielern Robert Downey Jr.",
+      "director": "Joss Whedon"
+    },
+    {
+      "title": "The Batman",
+      "store_id": null,
+      "year": 2022,
+      "genre": "Action & Adventure",
+      "description": "Zwei Jahre lang jagte Bruce Wayne als Batman Verbrecher auf der Straße und geriet immer tiefer in",
+      "director": "Matt Reeves"
+    },
+    {
+      "title": "The Big Lebowski",
+      "store_id": null,
+      "year": 1998,
+      "genre": "Comedy",
+      "description": "From the Academy Award®-winning Coen Brothers comes The Big Lebowski - the hilariously quirky comedy",
+      "director": "Joel Coen"
+    },
+    {
+      "title": "The Big Short",
+      "store_id": null,
+      "year": 2015,
+      "genre": "Drama",
+      "description": "When four outsiders saw what the big banks, media and government refused to, the global collapse of",
+      "director": "Adam McKay"
+    },
+    {
+      "title": "The Bourne Identity",
+      "store_id": null,
+      "year": 2002,
+      "genre": "Action & Adventure",
+      "description": "\"A new action hero is Bourne!\" (Access Hollywood) Get ready for the explosive, action-packed hit",
+      "director": "Doug Liman"
+    },
+    {
+      "title": "The Butterfly Effect (2004)",
+      "store_id": null,
+      "year": 2004,
+      "genre": "Thriller",
+      "description": "Ashton Kutcher stars as a man who has lost track of time. From an early age, crucial memories have disappeared into a black hole of forgetting, his childhood marred by terrifying events he can't remember. What remains are the ghost of a memory and the ter",
+      "director": "Eric Bress & J. Mackye Gruber"
+    },
+    {
+      "title": "The Cabin in the Woods",
+      "store_id": null,
+      "year": 2012,
+      "genre": "Horror",
+      "description": "Ein entspanntes Wochenende in einer Hütte im Wald, in der Mitte von Nirgendwo soll es werden, fernab der Zivilisation und jeglicher Beobachtung, kein Handy-Empfang, kein Internet, kein Mensch weit und breit. Nur fünf Freunde und die Natur - ein Abenteuer,",
+      "director": "Drew Goddard"
+    },
+    {
+      "title": "The Cable Guy",
+      "store_id": null,
+      "year": 1996,
+      "genre": "Comedy",
+      "description": "Jim Carrey is Chip Douglas, cable installer. Raised on television sitcoms, he wants life to look just like My Three Sons. And when he meets single guy Steven Kovacs (Matthew Broderick), he sees his chance for some serious male bonding. But Chip's idea of ",
+      "director": "Ben Stiller"
+    },
+    {
+      "title": "The Cell",
+      "store_id": null,
+      "year": 2000,
+      "genre": "Thriller",
+      "description": "In diesem Science-Fiction-Thriller hat die Kinderpsychologin Catherine Deane (Jennifer Lopez; \"Selena - ein amerikanischer Traum\", \"Manhattan Love Story\") eine Technik entwickelt, um in das Unterbewusstsein ihrer Patienten einzudringen. Der Serienmörder S",
+      "director": "Tarsem Singh"
+    },
+    {
+      "title": "The Dark Knight",
+      "store_id": null,
+      "year": 2008,
+      "genre": "Action & Adventure",
+      "description": "In der Fortsetzung des Action-Hits \"Batman Begins\" spielt Christian Bale unter Christopher Nolans Regie wieder die Rolle des Batman/Bruce Wayne, der nach wie vor gegen das Böse kämpft. Unterstützt von Lieutenant Jim Gordon und Staatsanwalt Harvey Dent set",
+      "director": "Unknown"
+    },
+    {
+      "title": "The Dark Knight Rises",
+      "store_id": null,
+      "year": 2012,
+      "genre": "Action & Adventure",
+      "description": "Der epische Abschluss der \"Dark Knight\"-Trilogie: Vor acht Jahren ist Batman in die Nacht verschwunden - seit diesem Moment befindet sich der Held auf der Flucht. Der Dunkle Ritter nahm die Schuld am Tod von Staatsanwalt Harvey Dent auf sich und opferte s",
+      "director": "Christopher Nolan"
+    },
+    {
+      "title": "The Exorcist (1973)",
+      "store_id": null,
+      "year": 2001,
+      "genre": "Horror",
+      "description": "An innocent girl is evilly possessed – and a doubting priest becomes her last hope. Linda Blair and ",
+      "director": "William Friedkin"
+    },
+    {
+      "title": "The Favourite - Intrigen und Irrsinn",
+      "store_id": null,
+      "year": 2019,
+      "genre": "Comedy",
+      "description": "England befindet sich im frühen 18. Jahrhundert im Krieg mit Frankreich, doch Entenrennen und der Genuss von Ananas erfreuen sich wachsender Beliebtheit. Die gebrechliche Königin Anne sitzt zwar auf dem Thron, doch ihre enge Freundin Lady Sarah regiert da",
+      "director": "Yorgos Lanthimos"
+    },
+    {
+      "title": "The Fugitive",
+      "store_id": null,
+      "year": 1993,
+      "genre": "Action & Adventure",
+      "description": "Harrison Ford stars as the wrongly convicted Dr. Richard Kimble, and Tommy Lee Jones is U.S. Marshal Sam Gerard, his relentless pursuer, in this intense thriller based on the hit television series of the 1960s--The Fugitive. Kimble had the perfect life--a",
+      "director": "Andrew Davis"
+    },
+    {
+      "title": "The Godfather",
+      "store_id": null,
+      "year": 1972,
+      "genre": "Drama",
+      "description": "Francis Ford Coppola's epic masterpiece features Marlon Brando in his Oscar©-winning role as the patriarch of the Corleone family. Director Coppola paints a chilling portrait of the Sicilian clan's rise and near fall from power in America, masterfully bal",
+      "director": "Francis Ford Coppola"
+    },
+    {
+      "title": "The Graduate (50th Anniversary Edition)",
+      "store_id": null,
+      "year": 1968,
+      "genre": "Classics",
+      "description": "Released in 1967, The Graduate is one of the most celebrated and highly influential classics in modern cinema. Truly iconic and utterly groundbreaking in its unique visual style and subject matter, it changed the face of modern film and the minds of expec",
+      "director": "Mike Nichols"
+    },
+    {
+      "title": "The Green Knight",
+      "store_id": null,
+      "year": 2021,
+      "genre": "Action & Adventure",
+      "description": "Basierend auf der zeitlosen Artuslegende erzählt THE GREEN KNIGHT die abenteuerliche Geschichte des tollkühnen Sir Gawain (Dev Patel), Ritter der Tafelrunde. Um sich vor seiner Familie, seinem Volk und letztlich auch sich selbst zu beweisen, begibt sich d",
+      "director": "David Lowery"
+    },
+    {
+      "title": "The Hangover",
+      "store_id": null,
+      "year": 2009,
+      "genre": "Comedy",
+      "description": "From \"Old School\" director Todd Phillips comes a comedy about a bachelor party gone very, very wrong. Two days before his wedding, Doug (Justin Bartha) drives to Las Vegas with his best buddies Phil and Stu (Bradley Cooper and Ed Helms) and his future bro",
+      "director": "Todd Phillips"
+    },
+    {
+      "title": "The Hateful 8",
+      "store_id": null,
+      "year": 2016,
+      "genre": "Western",
+      "description": "Wyoming, einige Jahre nach dem amerikanischen Bürgerkrieg: Eine Kutsche bahnt sich mühsam ihren Weg durch den Schnee in Richtung der Stadt Red Rock. An Bord befinden sich der Kopfgeldjäger John „The Hangman“ Ruth (Kurt Russel), dessen Gefangene Daisy Dome",
+      "director": "Quentin Tarantino"
+    },
+    {
+      "title": "The Hobbit: An Unexpected Journey (Extended Edition)",
+      "store_id": null,
+      "year": 2012,
+      "genre": "Action & Adventure",
+      "description": "The adventure follows Bilbo Baggins, who is swept into an epic quest to reclaim Erebor with the help",
+      "director": "Peter Jackson"
+    },
+    {
+      "title": "The Hobbit: The Battle of the Five Armies (Extended Edition)",
+      "store_id": null,
+      "year": 2014,
+      "genre": "Action & Adventure",
+      "description": "Academy Award-winning filmmaker Peter Jackson returns to Middle-earth with the final of three films",
+      "director": "Peter Jackson"
+    },
+    {
+      "title": "The Hobbit: The Desolation of Smaug (Extended Edition)",
+      "store_id": null,
+      "year": 2013,
+      "genre": "Action & Adventure",
+      "description": "Academy Award® winner Peter Jackson continues his Middle-Earth saga that follows the adventures of Bilbo Baggins (Martin Freeman) who's swept into an epic quest to reclaim the lost Dwarf Kingdom of Erebor from the fearsome dragon Smaug. In the company of ",
+      "director": "Peter Jackson"
+    },
+    {
+      "title": "The Invisible Man (2020)",
+      "store_id": null,
+      "year": 2020,
+      "genre": "Drama",
+      "description": "What you can’t see can hurt you. Trapped in a violent, controlling relationship with a wealthy",
+      "director": "Leigh Whannell"
+    },
+    {
+      "title": "The Killing of a Sacred Deer",
+      "store_id": null,
+      "year": 2017,
+      "genre": "Thriller",
+      "description": "Steven (Colin Farrell) ist ein erfolgreicher Herzchirurg und verheiratet mit der Augenärztin Anna (Nicole Kidman). Mit ihren beiden Kindern Bob und Kim leben sie in einem schönen Haus in einem idyllischen Vorort – eine perfekte Familie. Doch unter der mak",
+      "director": "Yorgos Lanthimos"
+    },
+    {
+      "title": "The Last Boy Scout",
+      "store_id": null,
+      "year": 1991,
+      "genre": "Action & Adventure",
+      "description": "Bruce Willis, Halle Berry and Damon Wayons star in this action-packed mystery about a demoralized",
+      "director": "Tony Scott"
+    },
+    {
+      "title": "The Last Kiss",
+      "store_id": null,
+      "year": 2006,
+      "genre": "Comedy",
+      "description": "A successful 30-year-old (Zach Braff) with the perfect girlfriend (Jacinda Barrett) and a lucrative",
+      "director": "Tony Goldwyn"
+    },
+    {
+      "title": "The Lighthouse (2019)",
+      "store_id": null,
+      "year": 2019,
+      "genre": "Drama",
+      "description": "From Robert Eggers, the visionary filmmaker behind modern horror masterpiece The Witch, comes this",
+      "director": "Robert Eggers"
+    },
+    {
+      "title": "The Lobster",
+      "store_id": null,
+      "year": 2016,
+      "genre": "Romance",
+      "description": "A love story set in a dystopian near-future where single people are arrested and transferred to a",
+      "director": "Yorgos Lanthimos"
+    },
+    {
+      "title": "The Lord of the Rings: The Fellowship of the Ring (Extended Edition)",
+      "store_id": null,
+      "year": 2001,
+      "genre": "Action & Adventure",
+      "description": "Extended Edition. In the first part of J.R.R. Tolkien's epic masterpiece, The Lord of the Rings, a",
+      "director": "Peter Jackson"
+    },
+    {
+      "title": "The Lost World: Jurassic Park",
+      "store_id": null,
+      "year": 1997,
+      "genre": "Action & Adventure",
+      "description": "Director Steven Spielberg takes us back to the scene of Jurassic Park in The Lost World, the",
+      "director": "Steven Spielberg"
+    },
+    {
+      "title": "The Mask",
+      "store_id": null,
+      "year": 1997,
+      "genre": "Comedy",
+      "description": "When he dons an ancient Norse mask, perennial loser Stanley Ipkiss moves at warp speed, knows people's every desire and can satisfy every whim, and dances like Fred Astaire, Barishnikov and Gumby combined. He's s-s-s-smokin'! Golden Globe-winner Jim Carre",
+      "director": "Chuck Russell"
+    },
+    {
+      "title": "The Matrix Reloaded",
+      "store_id": null,
+      "year": 2003,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "In the second chapter of the Matrix trilogy, Zion falls under siege to the Machine Army. Only hours",
+      "director": "Lilly Wachowski & Lana Wachowski"
+    },
+    {
+      "title": "The Matrix Resurrections",
+      "store_id": null,
+      "year": 2021,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "From visionary filmmaker Lana Wachowski comes “The Matrix Resurrections,” the long-awaited fourth",
+      "director": "Lana Wachowski"
+    },
+    {
+      "title": "The Matrix Revolutions",
+      "store_id": null,
+      "year": 2003,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "In this explosive final chapter of the Matrix trilogy, Neo, Morpheus and Trinity battle to defend",
+      "director": "Lilly Wachowski & Lana Wachowski"
+    },
+    {
+      "title": "The Naked Gun: From the Files of Police Squad!",
+      "store_id": null,
+      "year": 1988,
+      "genre": "Comedy",
+      "description": "Celebrate the 30th Anniversary of the hysterical hit comedy from the files of Police Squad.",
+      "director": "Unknown"
+    },
+    {
+      "title": "The Neon Demon",
+      "store_id": null,
+      "year": 2016,
+      "genre": "Drama",
+      "description": "Los Angeles - Stadt der unbegrenzten Möglichkeiten, Glamourwelt, Schauplatz zahlloser Träume und Abgründe. Als das junge aufstrebende Model Jesse (Elle Fanning) aus der staubigen Provinz nach L.A. kommt, scheinen ihre Träume im Handumdrehen Realität zu we",
+      "director": "Nicolas Winding Refn"
+    },
+    {
+      "title": "The Nice Guys",
+      "store_id": null,
+      "year": 2016,
+      "genre": "Action & Adventure",
+      "description": "Privatdetektiv Holland March und Knochenbrecher Jackson Healy haben wenig gemeinsam: Bis sich beide in den Fall der vermissten Amelia, der Tochter der Bezirksrichterin von L.A., verstrickt sehen. Dann passiert auch noch ein Mord an einem Porno-Star, der s",
+      "director": "Shane Black"
+    },
+    {
+      "title": "The Northman",
+      "store_id": null,
+      "year": 2022,
+      "genre": "Action & Adventure",
+      "description": "From visionary director Robert Eggers comes The Northman, an action-filled epic that follows a young",
+      "director": "Robert Eggers"
+    },
+    {
+      "title": "The Notebook",
+      "store_id": null,
+      "year": 2004,
+      "genre": "Romance",
+      "description": "As teenagers, Allie (Rachel McAdams) and Noah (Ryan Gosling) begin a whirlwind courtship that soon blossoms into tender intimacy. The young couple is quickly separated by Allie’s upper-class parents who insist that Noah isn’t right for her. Several years ",
+      "director": "Nick Cassavetes"
+    },
+    {
+      "title": "The Ring",
+      "store_id": null,
+      "year": 2002,
+      "genre": "Horror",
+      "description": "This cinematic thrill ride will keep you on the edge of your seat from the stunning opening to the",
+      "director": "Gore Verbinski"
+    },
+    {
+      "title": "The Rules of Attraction (2002)",
+      "store_id": null,
+      "year": 2002,
+      "genre": "Comedy",
+      "description": "From the co-writer of Pulp Fiction. An all-star cast including Jessica Biel, James Van Der Beek, and",
+      "director": "Roger Avary"
+    },
+    {
+      "title": "The Shallows",
+      "store_id": null,
+      "year": 2016,
+      "genre": "Action & Adventure",
+      "description": "In the taut thriller, when Nancy (Blake Lively) is surfing on a secluded beach, she finds herself on",
+      "director": "Jaume Collet-Serra"
+    },
+    {
+      "title": "The Shawshank Redemption",
+      "store_id": null,
+      "year": 1995,
+      "genre": "Drama",
+      "description": "ショーシャンク刑務所に、若き銀行の副頭取だったアンディ・デュフレーンが、妻と間男を殺害した罪で入所してきた。最初は刑務所の「しきたり」にも逆らい孤立していたアンディだったが、刑務所内の古株で“調達係”",
+      "director": "Frank Darabont"
+    },
+    {
+      "title": "The Shining",
+      "store_id": null,
+      "year": 1980,
+      "genre": "Horror",
+      "description": "Academy Award winner Jack Nicholson and Shelley Duvall star in director Stanley Kubrick's disturbing",
+      "director": "Stanley Kubrick"
+    },
+    {
+      "title": "The Silence of the Lambs",
+      "store_id": null,
+      "year": 1991,
+      "genre": "Thriller",
+      "description": "Clarice Starling, a gutsy FBI trainee haunted by her past, risks her life in an attempt to save a",
+      "director": "Jonathan Demme"
+    },
+    {
+      "title": "The Social Network",
+      "store_id": null,
+      "year": 2010,
+      "genre": "Drama",
+      "description": "David Fincher’s The Social Network is the stunning tale of a new breed of cultural insurgent: a punk genius who sparked a revolution and changed the face of human interaction for a generation, and perhaps forever. Shot through with emotional brutality and",
+      "director": "David Fincher"
+    },
+    {
+      "title": "The Terminator",
+      "store_id": null,
+      "year": 1984,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "A cyborg (part man, part machine) is sent from the 21st century to present-day Los Angeles to assassinate a seemingly innocent women whose child will play an important part in the world from which the killer came.",
+      "director": "James Cameron"
+    },
+    {
+      "title": "The Witch",
+      "store_id": null,
+      "year": 2016,
+      "genre": "Horror",
+      "description": "Robert Eggers writes and directs The Witch a terrifying horror film set in the bleak wilderness of",
+      "director": "Robert Eggers"
+    },
+    {
+      "title": "There Will Be Blood",
+      "store_id": null,
+      "year": 2011,
+      "genre": "Drama",
+      "description": "The story chronicles the life and times of one Daniel Plainview (Daniel Day-Lewis), who transforms himself from a down-and-out silver miner raising a son on his own into a self-made oil tycoon. When Plainview gets a mysterious tip-off that there’s a littl",
+      "director": "Paul Thomas Anderson"
+    },
+    {
+      "title": "There Will be Blood",
+      "store_id": null,
+      "year": 2011,
+      "genre": "Drama",
+      "description": "Anfang des 20. Jahrhunderts stößt der Goldschürfer Daniel Plainview eher zufällig auf Öl. Vom Ölfieber gepackt kauft er mehr und mehr Land auf und wird schließlich fündig. Er wird zu einem wohlhabenden Ölmagnaten. Seine Gier führt aber nicht nur zu Ausein",
+      "director": "Paul Thomas Anderson"
+    },
+    {
+      "title": "Thor",
+      "store_id": null,
+      "year": 2011,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "Die Welt hat viele Helden … aber nur einer von ihnen ist ein Gott. Als der arrogante Krieger Thor (Chris Hemsworth) von seiner Heimatwelt Asgard auf die Erde verbannt wird, muss er darum kämpfen seine verlorenen Kräfte wiederzugewinnen. Verfolgt von einer",
+      "director": "Kenneth Branagh"
+    },
+    {
+      "title": "Thor: Tag der Entscheidung",
+      "store_id": null,
+      "year": 2017,
+      "genre": "Action & Adventure",
+      "description": "In Marvel Studios Thor: Tag der Entscheidung ist Thor ohne seinen mächtigen Hammer am anderen Ende des Universums gefangen und muss in einem Wettlauf gegen die Zeit versuchen, nach Asgard zu gelangen, um Ragnarök zu verhindern. Seine Welt, seine Heimat un",
+      "director": "Taika Waititi"
+    },
+    {
+      "title": "Thor: The Dark Kingdom",
+      "store_id": null,
+      "year": 2013,
+      "genre": "Action & Adventure",
+      "description": "In Thor – The Dark Kingdom werden die Abenteuer des sagenhaften Donnergottes Thor weitererzählt. In diesem Film muss er die Erde und alle neun Welten vor einem düsteren Gegner schützen, der älter als das Universum ist. Nach den Ereignissen von Thor und Ma",
+      "director": "Alan Taylor"
+    },
+    {
+      "title": "Tomb Raider - Lara Croft",
+      "store_id": null,
+      "year": 2001,
+      "genre": "Action & Adventure",
+      "description": "Lara Croft muss die beiden getrennt versteckten Hälften des mächtigen allsehenden Auges vor dem Zugriff des berühmt-berüchtigten Bundes der Erleuchteten bewahren, um Böses zu verhindern. Atemberaubende Action an den faszinierendsten Drehorten der Welt mit",
+      "director": "Simon West"
+    },
+    {
+      "title": "Top Gun",
+      "store_id": null,
+      "year": 1986,
+      "genre": "Action & Adventure",
+      "description": "A hip, heart-pounding combination of action, music and incredible aerial photography helped make Top",
+      "director": "Tony Scott"
+    },
+    {
+      "title": "Top Gun: Maverick",
+      "store_id": null,
+      "year": 2022,
+      "genre": "Action & Adventure",
+      "description": "After more than thirty years of service as a top naval aviator, Pete “Maverick” Mitchell (Tom Cruise",
+      "director": "Joseph Kosinski"
+    },
+    {
+      "title": "Triangle of Sadness",
+      "store_id": null,
+      "year": 2022,
+      "genre": "Comedy",
+      "description": "Mit sorgsam inszenierten Instagramfotos nehmen die Models Carl (Harris Dickinson) und Yaya (Charlbi Dean) ihre Follower auf eine Reise durch ihre perfekte (Mode-)Welt mit – und zwar rund um die Uhr. Als das junge Paar die Einladung zu einer Luxuskreuzfahr",
+      "director": "Unknown"
+    },
+    {
+      "title": "Tropic Thunder",
+      "store_id": null,
+      "year": 2008,
+      "genre": "Comedy",
+      "description": "en Stiller, Jack Black and Robert Downey Jr. sind die Spitze der Starbesetzung in der wahnwitzigen Komödie Tropic Thunder. Als sich drei der größten Hollywood-Stars aufmachen, um im Dschungel von Vietnam einen Kriegsfilm zu drehen, haben sie noch keine Ah",
+      "director": "Ben Stiller"
+    },
+    {
+      "title": "Troy",
+      "store_id": null,
+      "year": 2004,
+      "genre": "Action & Adventure",
+      "description": "Brad Pitt stars in an epic tale of passion, heroism, betrayal and war that has been passed from generation to generation since the dawn of civilization--the story of the battle for Troy.  A thousand years before the time of Christ, Trojan prince Paris (Or",
+      "director": "Wolfgang Petersen"
+    },
+    {
+      "title": "True Lies - Wahre Lügen",
+      "store_id": null,
+      "year": 1994,
+      "genre": "Action & Adventure",
+      "description": "Arnold Schwarzenegger spielt den Spezialagenten Harry Tasker, ein Topspion im strenggeheimen Omega-Sektor, der außerdem noch Tango tanzt. Doch für seine vernachlässigte Frau Helen (Jamie Lee Curtis) ist er nur ein langweiliger Computervertreter. Während H",
+      "director": "James Cameron"
+    },
+    {
+      "title": "Under the Skin",
+      "store_id": null,
+      "year": 2014,
+      "genre": "Sci-Fi & Fantasy",
+      "description": "Ein außerirdisches Wesen schlüpft als schwarze Masse in die synthetische Haut eines Menschen und sieht dann aus wie eine sinnliche Frau. Sie nennt sich LAURA und lockt Anhalter und einsame Männer in die Falle, ohne dabei etwas zu finden. Die Menschen werd",
+      "director": "Jonathan Glazer"
+    },
+    {
+      "title": "Unforgiven",
+      "store_id": null,
+      "year": 1993,
+      "genre": "Western",
+      "description": "Clint Eastwood and Morgan Freeman play retired, down-on-their-luck outlaws who pick up their guns one last time to collect a bounty offered by the vengeful prostitutes of the remote Wyoming town of Big Whiskey. Richard Harris is an ill-fated interloper, a",
+      "director": "Unknown"
+    },
+    {
+      "title": "Us (2019)",
+      "store_id": null,
+      "year": 2019,
+      "genre": "Horror",
+      "description": "From Academy Award®-winning visionary Jordan Peele comes another original nightmare. Starring Oscar",
+      "director": "Jordan Peele"
+    },
+    {
+      "title": "V for Vendetta",
+      "store_id": null,
+      "year": 2006,
+      "genre": "Action & Adventure",
+      "description": "From Lilly and Lana Wachowski and Joel Silver, the masterminds behind The Matrix trilogy, comes another intriguing, action-packed fantasy-thriller. Great Britain has become a fascist state. Now, a shadowy freedom fighter known only as \"V\" (Hugo Weaving) b",
+      "director": "James McTeigue"
+    },
+    {
+      "title": "V for Vendetta",
+      "store_id": null,
+      "year": 2006,
+      "genre": "Action & Adventure",
+      "description": "From the Lilly and Lana Wachowski and Joel Silver, the masterminds behind The Matrix trilogy, comes",
+      "director": "James McTeigue"
+    },
+    {
+      "title": "Venom",
+      "store_id": null,
+      "year": 2018,
+      "genre": "Action & Adventure",
+      "description": "Tom Hardy stars as the lethal protector and anti-hero Venom - one of Marvel’s most enigmatic and",
+      "director": "Ruben Fleischer"
+    },
+    {
+      "title": "Venom: Let There Be Carnage",
+      "store_id": null,
+      "year": 2021,
+      "genre": "Action & Adventure",
+      "description": "Tom Hardy returns to the big screen as the lethal protector Venom, one of Marvel’s greatest and most",
+      "director": "Andy Serkis"
+    },
+    {
+      "title": "Venom: The Last Dance",
+      "store_id": null,
+      "year": 2024,
+      "genre": "Action & Adventure",
+      "description": "In Venom: The Last Dance, Tom Hardy returns as Venom, one of Marvel's greatest and most complex",
+      "director": "Kelly Marcel"
+    },
+    {
+      "title": "Wall-E",
+      "store_id": null,
+      "year": 2008,
+      "genre": "Kids & Family",
+      "description": "Nachdem die gesamte Menschheit ihren völlig verschmutzten Heimatplaneten in die Weiten des Weltalls verlassen hat, bleibt das Aufräumen der Erde den Robotern überlassen. 700 Jahre später ist nur noch der kleine Roboter WALL-E übrig und macht unermüdlich g",
+      "director": "Andrew Stanton"
+    },
+    {
+      "title": "War of the Worlds (2005)",
+      "store_id": null,
+      "year": 2005,
+      "genre": "Action & Adventure",
+      "description": "An iconic star, a legendary filmmaker and an all-time sci-fi classic come together with spectacular",
+      "director": "Steven Spielberg"
+    },
+    {
+      "title": "WarGames",
+      "store_id": null,
+      "year": 1983,
+      "genre": "Drama",
+      "description": "A teenager, bored by traditional high school subjects like biology but fascinated by computers, accidentally taps into the Pentagon's top-secret computer...the USA's NORAD system. He starts what he innocently believes is a computer game called \"Global The",
+      "director": "John Badham"
+    },
+    {
+      "title": "Watchmen Ultimate Cut",
+      "store_id": null,
+      "year": 2009,
+      "genre": "Action & Adventure",
+      "description": "See the Ultimate Cut like never before in this exquisitely remastered version that intertwines the",
+      "director": "Zack Snyder"
+    },
+    {
+      "title": "We're the Millers",
+      "store_id": null,
+      "year": 2013,
+      "genre": "Comedy",
+      "description": "Jason Sudeikis stars in this buzz-worthy comedy as a small-time suburban pot-dealer who likes to",
+      "director": "Rawson Marshall Thurber"
+    },
+    {
+      "title": "Wonder Woman (2017)",
+      "store_id": null,
+      "year": 2017,
+      "genre": "Action & Adventure",
+      "description": "Before she was Wonder Woman, she was Diana, princess of the Amazons, trained to be an unconquerable",
+      "director": "Patty Jenkins"
+    },
+    {
+      "title": "Wonder Woman 1984",
+      "store_id": null,
+      "year": 2020,
+      "genre": "Romance",
+      "description": "Fast forward to the 1980s as Wonder Woman’s next big screen adventure finds her facing a wide array",
+      "director": "Patty Jenkins"
+    },
+    {
+      "title": "X-Men 2",
+      "store_id": null,
+      "year": 2003,
+      "genre": "Action & Adventure",
+      "description": "Sie sind das nächste Glied in der Evolutionskette. Jeder von ihnen kam mit einer einzigartigen genetischen Mutation auf die Welt: mit einer außergewöhnlichen Fähigkeit, die sich erstmals in der Jugend zeigt. In einer zunehmend von Vorurteilen und Hass beh",
+      "director": "Bryan Singer"
+    },
+    {
+      "title": "X-Men: Apocalypse",
+      "store_id": null,
+      "year": 2016,
+      "genre": "Action & Adventure",
+      "description": "Seit Anbeginn der Menschheit wurde er als Gott verehrt: Apocalypse, der erste und mächtigste Mutant des Marvel X-Men Universums, vereint die Kräfte vieler verschiedener Mutanten und ist dadurch unsterblich und unbesiegbar. Nachdem Apocalypse nach tausende",
+      "director": "Bryan Singer"
+    },
+    {
+      "title": "X-Men: Zukunft ist Vergangenheit",
+      "store_id": null,
+      "year": 2014,
+      "genre": "Action & Adventure",
+      "description": "In X-MEN: ZUKUNFT IST VERGANGENHEIT kämpft das ultimative X-MEN Ensemble auf zwei Zeitebenen ums Überleben. Die beliebten Charaktere der originären X-MEN Trilogie verbinden sich mit ihren Vorgängern aus X-MEN - ERSTE ENTSCHEIDUNG für einen alles entscheid",
+      "director": "Bryan Singer"
+    },
+    {
+      "title": "Yakari - Der Kinofilm",
+      "store_id": null,
+      "year": 2020,
+      "genre": "Kids & Family",
+      "description": "Yakari hat einen Traum: Er möchte eines Tages auf Kleiner Donner reiten, dem Wildpferd, das noch von keinem Sioux gezähmt werden konnte. Als die Jäger seines Stammes eine Herde Mustangs einfangen, kann Kleiner Donner mit einem mächtigen Sprung wieder entk",
+      "director": "Toby Genkel & Xavier Giacometti"
+    },
+    {
+      "title": "Zack Snyder’s Justice League",
+      "store_id": null,
+      "year": 2021,
+      "genre": "Action & Adventure",
+      "description": "In ZACK SNYDER’S JUSTICE LEAGUE, determined to ensure Superman’s (Henry Cavill) ultimate sacrifice",
+      "director": "Zack Snyder"
+    },
+    {
+      "title": "Zodiac: Die Spur des Killers",
+      "store_id": null,
+      "year": 2007,
+      "genre": "Thriller",
+      "description": "Der Amoklauf eines Irren, der nie geschnappt wurde; der unfassbare Chiffre-Killer, der das ganze Land in Angst und Schrecken versetzte - Amerikas Gegenstück zu Jack the Ripper. Wie viele Morde der wohl legendärste Serienmörder der USA wirklich beging, wir",
+      "director": "David Fincher"
+    }
+  ]
+}
