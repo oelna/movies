@@ -3,8 +3,8 @@
   "source_generated_at": "2026-11-03T11:48:02Z",
   "language": "de-DE",
   "count": 392,
-  "matched_count": 388,
-  "review_count": 4,
+  "matched_count": 392,
+  "review_count": 0,
   "movies": [
     {
       "title": "10 Cloverfield Lane",
@@ -75,54 +75,148 @@
     {
       "title": "11:14 - Elevenfourteen",
       "store_id": null,
-      "year": 2013,
+      "year": 2004,
       "genre": "Drama",
-      "description": "Ein angetrunkener Autofahrer und eine durchtriebene Teenagerin bei einem Schäferstündchen auf dem Friedhof, drei Jungs, die nichts als Blödsinn im Kopf haben, eine Tankstellenangestellte, die von ihrem besten Freund überfallen wird, und ein Vater in panis",
+      "description": "Es ist 11:14 Uhr am Abend in einer kalifornischen Kleinstadt. Ein Autofahrer fährt einen Passanten an, der plötzlich auftaucht. Als die Polizei eintrifft, nimmt das Unglück seinen Lauf, denn im Streifenwagen sitzen bereits zwei andere Straftäter. Nach fünfzehn Minuten ist der Zuschauer schon relativ verwirrt: Wer sind alle diese Charaktere und warum hat man den Eindruck, dass hinter diesem simplen Anfang noch viel mehr steckt und die Schicksale der Leinwandfiguren auf die abstruseste Art und Weise miteinander verstrickt sind? Wer im Kinosessel durchhält, wird dafür belohnt. Denn an diesem Abend führen fünf verschiedene Wege zur Uhrzeit 11:14, die nacheinander in Zeitsprüngen erzählt werden und immer neue Verbindungen offenbaren. Auch wenn manchmal eine Figur aus einem anderen Handlungsstrang nur am Bildrand in einer einzigen Sequenz auftaucht, erhält man damit eine entscheidende Information über den Hergang des so schicksalsträchtigen Abends.",
       "director": "Greg Marcks",
       "source_key": "dc2cb8d4e1c6b525b573",
       "library_year": 2013,
-      "tmdb_id": null,
-      "tmdb_url": null,
-      "tmdb_checked_at": "2026-11-04T10:36:31Z",
+      "tmdb_id": 9282,
+      "tmdb_url": "https://www.themoviedb.org/movie/9282",
+      "tmdb_checked_at": "2026-11-04T11:38:09Z",
       "match": {
-        "status": "unmatched",
-        "method": "no_plausible_candidates",
-        "override_id": null
+        "status": "matched",
+        "method": "manual_override",
+        "override_id": 9282
       },
+      "original_title": "11:14",
+      "release_date": "2004-08-20",
+      "runtime_minutes": 86,
       "genres": [
-        "Drama"
+        "Thriller",
+        "Komödie",
+        "Krimi"
       ],
       "directors": [
         "Greg Marcks"
       ],
-      "cast": [],
-      "review_candidates": []
+      "cast": [
+        {
+          "name": "Rachael Leigh Cook",
+          "character": "Cheri"
+        },
+        {
+          "name": "Ben Foster",
+          "character": "Eddie"
+        },
+        {
+          "name": "Clark Gregg",
+          "character": "Officer Hannagan"
+        },
+        {
+          "name": "Colin Hanks",
+          "character": "Mark"
+        },
+        {
+          "name": "Shawn Hatosy",
+          "character": "Duffy"
+        },
+        {
+          "name": "Barbara Hershey",
+          "character": "Norma"
+        },
+        {
+          "name": "Stark Sands",
+          "character": "Tim"
+        },
+        {
+          "name": "Hilary Swank",
+          "character": "Buzzy"
+        },
+        {
+          "name": "Patrick Swayze",
+          "character": "Frank"
+        },
+        {
+          "name": "Henry Thomas",
+          "character": "Jack"
+        }
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/j7tPW4DKrwHZJkVZRSQVtZuGUMa.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/72jbXJIXiGdLzrqfbKynVhtnl5b.jpg"
     },
     {
       "title": "11:14 Elevenfourteen",
       "store_id": null,
-      "year": 2011,
+      "year": 2004,
       "genre": "Thriller",
-      "description": "Ein angetrunkener Autofahrer (Henry Thomas) und eine durchtriebene Teenagerin (Rachael Leigh Cook) bei einem Schäferstündchen auf dem Friedhof, drei Jungs, die nichts als Blödsinn im Kopf haben, eine Tankstellenangestellte (Hilary Swank), die von ihrem be",
+      "description": "Es ist 11:14 Uhr am Abend in einer kalifornischen Kleinstadt. Ein Autofahrer fährt einen Passanten an, der plötzlich auftaucht. Als die Polizei eintrifft, nimmt das Unglück seinen Lauf, denn im Streifenwagen sitzen bereits zwei andere Straftäter. Nach fünfzehn Minuten ist der Zuschauer schon relativ verwirrt: Wer sind alle diese Charaktere und warum hat man den Eindruck, dass hinter diesem simplen Anfang noch viel mehr steckt und die Schicksale der Leinwandfiguren auf die abstruseste Art und Weise miteinander verstrickt sind? Wer im Kinosessel durchhält, wird dafür belohnt. Denn an diesem Abend führen fünf verschiedene Wege zur Uhrzeit 11:14, die nacheinander in Zeitsprüngen erzählt werden und immer neue Verbindungen offenbaren. Auch wenn manchmal eine Figur aus einem anderen Handlungsstrang nur am Bildrand in einer einzigen Sequenz auftaucht, erhält man damit eine entscheidende Information über den Hergang des so schicksalsträchtigen Abends.",
       "director": "Greg Marcks",
       "source_key": "86ba355701d6ca972b48",
       "library_year": 2011,
-      "tmdb_id": null,
-      "tmdb_url": null,
-      "tmdb_checked_at": "2026-11-04T10:36:31Z",
+      "tmdb_id": 9282,
+      "tmdb_url": "https://www.themoviedb.org/movie/9282",
+      "tmdb_checked_at": "2026-11-04T11:38:09Z",
       "match": {
-        "status": "unmatched",
-        "method": "no_plausible_candidates",
-        "override_id": null
+        "status": "matched",
+        "method": "manual_override",
+        "override_id": 9282
       },
+      "original_title": "11:14",
+      "release_date": "2004-08-20",
+      "runtime_minutes": 86,
       "genres": [
-        "Thriller"
+        "Thriller",
+        "Komödie",
+        "Krimi"
       ],
       "directors": [
         "Greg Marcks"
       ],
-      "cast": [],
-      "review_candidates": []
+      "cast": [
+        {
+          "name": "Rachael Leigh Cook",
+          "character": "Cheri"
+        },
+        {
+          "name": "Ben Foster",
+          "character": "Eddie"
+        },
+        {
+          "name": "Clark Gregg",
+          "character": "Officer Hannagan"
+        },
+        {
+          "name": "Colin Hanks",
+          "character": "Mark"
+        },
+        {
+          "name": "Shawn Hatosy",
+          "character": "Duffy"
+        },
+        {
+          "name": "Barbara Hershey",
+          "character": "Norma"
+        },
+        {
+          "name": "Stark Sands",
+          "character": "Tim"
+        },
+        {
+          "name": "Hilary Swank",
+          "character": "Buzzy"
+        },
+        {
+          "name": "Patrick Swayze",
+          "character": "Frank"
+        },
+        {
+          "name": "Henry Thomas",
+          "character": "Jack"
+        }
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/j7tPW4DKrwHZJkVZRSQVtZuGUMa.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/72jbXJIXiGdLzrqfbKynVhtnl5b.jpg"
     },
     {
       "title": "12 Monkeys",
@@ -12228,26 +12322,71 @@
       "store_id": null,
       "year": 1988,
       "genre": "Comedy",
-      "description": "Paul Winkelmann hat vor drei Jahren die Leitung des familieneigenen Möbel- und Dekorationsgeschäftes übernommen. Trotz seiner 56 Jahre lebt er in offensichtlich glücklicher Abhängigkeit von seiner Mutter Louise. Der Haussegen hängt schief, als sich Paul e",
+      "description": "Der ewige Mamabub Paul Winkelmann lernt auf seine alten Tage noch seine Traumfrau kennen. Die Diplompsychologin Margarethe beschert dem verklemmt-tolpatschigen 56jährigen einen zweiten Frühling. Frau Mutter gefällt das plötzliche Interesse des Sohnes für die Frauen weniger. Schon gar, als \"Pussi\" seine Margarethe tollkühn zur Dienstreise nach Italien einlädt. Die anschließende Familienzusammenführung am Kaffeetisch gerät zum Small-Talk-Fiasko. Trotzdem finden die alternden Turteltäubchen zueinander.",
       "director": "Vicco von Bülow",
       "source_key": "f516f669b422da2b4ae8",
       "library_year": 1988,
-      "tmdb_id": null,
-      "tmdb_url": null,
-      "tmdb_checked_at": "2026-11-04T10:36:31Z",
+      "tmdb_id": 4645,
+      "tmdb_url": "https://www.themoviedb.org/movie/4645",
+      "tmdb_checked_at": "2026-11-04T11:38:09Z",
       "match": {
-        "status": "unmatched",
-        "method": "no_results",
-        "override_id": null
+        "status": "matched",
+        "method": "manual_override",
+        "override_id": 4645
       },
+      "original_title": "Ödipussi",
+      "release_date": "1988-03-10",
+      "runtime_minutes": 88,
       "genres": [
-        "Comedy"
+        "Komödie"
       ],
       "directors": [
-        "Vicco von Bülow"
+        "Loriot"
       ],
-      "cast": [],
-      "review_candidates": []
+      "cast": [
+        {
+          "name": "Loriot",
+          "character": "Paul Winkelmann"
+        },
+        {
+          "name": "Evelyn Hamann",
+          "character": "Margarethe Tietze"
+        },
+        {
+          "name": "Katharina Brauren",
+          "character": "Paul's Mother"
+        },
+        {
+          "name": "Edda Seippel",
+          "character": "Gerda Tietze"
+        },
+        {
+          "name": "Richard Lauffen",
+          "character": "Kurt Tietze"
+        },
+        {
+          "name": "Klaus Schultz",
+          "character": "Mr. Weber"
+        },
+        {
+          "name": "Rosemarie Fendel",
+          "character": "Frau Westphal"
+        },
+        {
+          "name": "Walter Hoor",
+          "character": "Ballett Master"
+        },
+        {
+          "name": "Rose Renée Roth",
+          "character": "Aunt Mechthild"
+        },
+        {
+          "name": "Udo Thomer",
+          "character": "Mr. Meier-Grabenhorst"
+        }
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/akKq4D7XoE7zmNbhRSAeOJgsoL4.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/A9YapTDvV4iBKikYl6V1nBJaoxF.jpg"
     },
     {
       "title": "Léon, der Profi (Director's Cut)",
@@ -12618,28 +12757,75 @@
     {
       "title": "Mario Puzo's The Godfather, Coda: The Death of Michael Corleone",
       "store_id": null,
-      "year": 2020,
+      "year": 1990,
       "genre": "Drama",
-      "description": "Director/screenwriter Francis Ford Coppola brings his definitive edit and restoration of the final",
+      "description": "Der alternde Don Michael Corleone möchte den Familienbetrieb legalisieren und sich langsam aus dem Geschäft zurückziehen. Während er sich als Förderer der katholischen Kirche versucht, macht ihm vor allem ein Mensch zu schaffen: Vincent Mancini, Michaels zukünftiger Schwiegersohn und potentieller Nachfolger. Dieser schmiedet nämlich ganz andere Pläne.",
       "director": "Francis Ford Coppola",
       "source_key": "19cb62d49557b0232ea1",
       "library_year": 2020,
-      "tmdb_id": null,
-      "tmdb_url": null,
-      "tmdb_checked_at": "2026-11-04T10:36:31Z",
+      "tmdb_id": 242,
+      "tmdb_url": "https://www.themoviedb.org/movie/242",
+      "tmdb_checked_at": "2026-11-04T11:38:09Z",
       "match": {
-        "status": "unmatched",
-        "method": "no_plausible_candidates",
-        "override_id": null
+        "status": "matched",
+        "method": "manual_override",
+        "override_id": 242
       },
+      "original_title": "The Godfather Part III",
+      "release_date": "1990-12-25",
+      "runtime_minutes": 162,
       "genres": [
-        "Drama"
+        "Krimi",
+        "Drama",
+        "Thriller"
       ],
       "directors": [
         "Francis Ford Coppola"
       ],
-      "cast": [],
-      "review_candidates": []
+      "cast": [
+        {
+          "name": "Al Pacino",
+          "character": "Michael Corleone"
+        },
+        {
+          "name": "Diane Keaton",
+          "character": "Kay Adams"
+        },
+        {
+          "name": "Talia Shire",
+          "character": "Connie Corleone Rizzi"
+        },
+        {
+          "name": "Andy Garcia",
+          "character": "Vincent Mancini"
+        },
+        {
+          "name": "Eli Wallach",
+          "character": "Don Altobello"
+        },
+        {
+          "name": "Joe Mantegna",
+          "character": "Joey Zasa"
+        },
+        {
+          "name": "George Hamilton",
+          "character": "B.J. Harrison"
+        },
+        {
+          "name": "Bridget Fonda",
+          "character": "Grace Hamilton"
+        },
+        {
+          "name": "Sofia Coppola",
+          "character": "Mary Corleone"
+        },
+        {
+          "name": "Raf Vallone",
+          "character": "Cardinal Lamberto"
+        }
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/iVjSuqHFFOqCFM4rdhUyysYWnnj.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/zNnjHLDtV8Ti3aworltaeaLMov4.jpg"
     },
     {
       "title": "Mars Attacks!",

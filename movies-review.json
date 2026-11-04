@@ -1,38 +1,5 @@
 {
   "source_generated_at": "2026-11-03T11:48:02Z",
-  "count": 4,
-  "review": [
-    {
-      "source_key": "dc2cb8d4e1c6b525b573",
-      "title": "11:14 - Elevenfourteen",
-      "library_year": 2013,
-      "director": "Greg Marcks",
-      "reason": "no_plausible_candidates",
-      "candidates": []
-    },
-    {
-      "source_key": "86ba355701d6ca972b48",
-      "title": "11:14 Elevenfourteen",
-      "library_year": 2011,
-      "director": "Greg Marcks",
-      "reason": "no_plausible_candidates",
-      "candidates": []
-    },
-    {
-      "source_key": "f516f669b422da2b4ae8",
-      "title": "Loriot: Ödipussi",
-      "library_year": 1988,
-      "director": "Vicco von Bülow",
-      "reason": "no_results",
-      "candidates": []
-    },
-    {
-      "source_key": "19cb62d49557b0232ea1",
-      "title": "Mario Puzo's The Godfather, Coda: The Death of Michael Corleone",
-      "library_year": 2020,
-      "director": "Francis Ford Coppola",
-      "reason": "no_plausible_candidates",
-      "candidates": []
-    }
-  ]
+  "count": 0,
+  "review": []
 }
