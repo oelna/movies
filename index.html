@@ -1,0 +1,253 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>Movie library</title>
+  <style>
+    :root {
+      color-scheme: light dark;
+      --background: #ffffff;
+      --foreground: #1f2328;
+      --muted: #59636e;
+      --border: #d1d9e0;
+      --subtle: #f6f8fa;
+      --link: #0969da;
+      --error: #d1242f;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --background: #0d1117;
+        --foreground: #f0f6fc;
+        --muted: #9198a1;
+        --border: #3d444d;
+        --subtle: #151b23;
+        --link: #4493f8;
+        --error: #f85149;
+      }
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      padding: 32px 20px;
+      background: var(--background);
+      color: var(--foreground);
+      font: 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
+    }
+    main {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 32px;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+    }
+    h1 {
+      margin: 0 0 16px;
+      padding-bottom: 0.3em;
+      border-bottom: 1px solid var(--border);
+      font-size: 2em;
+      line-height: 1.25;
+      font-weight: 600;
+    }
+    .metadata { display: flex; flex-wrap: wrap; gap: 8px 28px; margin: 0 0 20px; }
+    .metadata div { display: flex; gap: 8px; }
+    dt, .note { color: var(--muted); }
+    dd { margin: 0; font-variant-numeric: tabular-nums; }
+    .table-container { overflow-x: auto; }
+    table { width: 100%; min-width: 600px; border-collapse: collapse; table-layout: fixed; }
+    col.title { width: 43%; }
+    col.director { width: 27%; }
+    col.year { width: 15%; }
+    th, td { padding: 10px 14px; border: 1px solid var(--border); text-align: left; vertical-align: top; }
+    th { background: var(--subtle); font-weight: 600; }
+    tbody tr:nth-child(even) { background: var(--subtle); }
+    td { overflow-wrap: anywhere; }
+    .year-cell { font-variant-numeric: tabular-nums; }
+    th button {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+      width: 100%;
+      min-height: 24px;
+      padding: 0;
+      border: 0;
+      background: transparent;
+      color: inherit;
+      font: inherit;
+      text-align: left;
+      cursor: pointer;
+    }
+    th button:hover, summary:hover { color: var(--link); }
+    th button span { flex-shrink: 0; color: var(--muted); font-weight: 400; }
+    :focus-visible { outline: 2px solid var(--link); outline-offset: 4px; border-radius: 2px; }
+    summary { cursor: pointer; }
+    .description { margin: 12px 0 2px; white-space: pre-wrap; }
+    .note { margin: 16px 0 0; font-size: 14px; }
+    #status { margin: 0 0 16px; }
+    #status.error { color: var(--error); }
+    .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; border: 0; }
+    [hidden] { display: none !important; }
+    @media (max-width: 700px) {
+      body { padding: 20px 12px; }
+      main { padding: 12px; border: 0; }
+      h1 { font-size: 1.75em; }
+      .metadata { flex-direction: column; }
+      th, td { padding: 10px; }
+    }
+    @media (pointer: coarse) {
+      th button, summary { min-height: 44px; }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Movie library</h1>
+    <dl class="metadata">
+      <div><dt>Total movies</dt><dd id="movie-count">—</dd></div>
+      <div><dt>Last refresh</dt><dd><time id="last-refresh">—</time></dd></div>
+    </dl>
+    <p id="status" role="status">Loading movies…</p>
+    <noscript><p>Enable JavaScript to load and sort the movie library.</p></noscript>
+    <div class="table-container" id="table-container" role="region" aria-label="Movie library table" tabindex="0" hidden>
+      <table>
+        <caption class="sr-only">Movies. Select a column heading to sort; expand a title to read its description.</caption>
+        <colgroup><col class="title"><col class="director"><col class="year"><col class="year"></colgroup>
+        <thead>
+          <tr>
+            <th scope="col" aria-sort="ascending"><button type="button" data-sort="title">Title <span aria-hidden="true">↑</span></button></th>
+            <th scope="col"><button type="button" data-sort="director">Director <span aria-hidden="true">↕</span></button></th>
+            <th scope="col"><button type="button" data-sort="year">Release year <span aria-hidden="true">↕</span></button></th>
+            <th scope="col"><button type="button" data-sort="purchaseYear">Purchase year <span aria-hidden="true">↕</span></button></th>
+          </tr>
+        </thead>
+        <tbody id="movies"></tbody>
+      </table>
+    </div>
+    <p class="note">Years are from Apple TV metadata. Purchase year is the year the movie was added to your library.</p>
+    <p id="sort-status" class="sr-only" role="status"></p>
+  </main>
+  <script>
+    (() => {
+      'use strict';
+      const body = document.getElementById('movies');
+      const status = document.getElementById('status');
+      const buttons = [...document.querySelectorAll('[data-sort]')];
+      const collator = new Intl.Collator(undefined, { numeric: true, sensitivity: 'base' });
+      let rows = [];
+      let sortKey = 'title';
+      let ascending = true;
+
+      function text(value) {
+        return typeof value === 'string' ? value.trim() : '';
+      }
+
+      function parseDate(value) {
+        if (typeof value !== 'string' || !value.trim()) return null;
+        const date = new Date(value);
+        return Number.isNaN(date.getTime()) ? null : date;
+      }
+
+      function createRow(movie, index) {
+        const director = text(movie.director);
+        const added = parseDate(movie.addedDate);
+        const year = Number(movie.year);
+        const values = {
+          title: text(movie.title) || 'Untitled',
+          director: director && director.toLowerCase() !== 'unknown' ? director : null,
+          year: Number.isInteger(year) && year > 0 ? year : null,
+          purchaseYear: added ? added.getUTCFullYear() : null
+        };
+        const row = document.createElement('tr');
+        const titleCell = document.createElement('td');
+        const details = document.createElement('details');
+        const summary = document.createElement('summary');
+        summary.textContent = values.title;
+        const description = document.createElement('p');
+        description.className = 'description';
+        description.textContent = text(movie.description) || 'No description available.';
+        details.append(summary, description);
+        titleCell.append(details);
+        row.append(titleCell);
+        for (const key of ['director', 'year', 'purchaseYear']) {
+          const cell = document.createElement('td');
+          cell.textContent = values[key] ?? '—';
+          if (key !== 'director') cell.className = 'year-cell';
+          row.append(cell);
+        }
+        return { values, row, index };
+      }
+
+      function sortRows(announce = false) {
+        rows.sort((a, b) => {
+          const left = a.values[sortKey];
+          const right = b.values[sortKey];
+          // Unknown values stay last in either direction. Preserve duplicate entries.
+          if (left === null || right === null) {
+            if (left !== right) return left === null ? 1 : -1;
+            return a.index - b.index;
+          }
+          const comparison = typeof left === 'number' ? left - right : collator.compare(left, right);
+          return comparison * (ascending ? 1 : -1) || a.index - b.index;
+        });
+        const fragment = document.createDocumentFragment();
+        for (const { row } of rows) fragment.append(row);
+        // Reuse rows so descriptions remain expanded when sorting.
+        body.append(fragment);
+        for (const button of buttons) {
+          const active = button.dataset.sort === sortKey;
+          const label = button.childNodes[0].textContent.trim();
+          if (active) button.parentElement.setAttribute('aria-sort', ascending ? 'ascending' : 'descending');
+          else button.parentElement.removeAttribute('aria-sort');
+          button.querySelector('span').textContent = active ? (ascending ? '↑' : '↓') : '↕';
+          button.setAttribute('aria-label', `Sort by ${label.toLowerCase()}, ${active && ascending ? 'descending' : 'ascending'}`);
+          if (active && announce) document.getElementById('sort-status').textContent = `Sorted by ${label.toLowerCase()}, ${ascending ? 'ascending' : 'descending'}.`;
+        }
+      }
+
+      for (const button of buttons) {
+        button.addEventListener('click', () => {
+          ascending = sortKey === button.dataset.sort ? !ascending : true;
+          sortKey = button.dataset.sort;
+          sortRows(true);
+        });
+      }
+
+      async function loadMovies() {
+        try {
+          const response = await fetch('./movies.json', { cache: 'no-store' });
+          if (!response.ok) throw new Error(`HTTP ${response.status}`);
+          const data = await response.json();
+          if (!data || !Array.isArray(data.movies) || data.movies.some(movie => !movie || typeof movie !== 'object' || Array.isArray(movie))) {
+            throw new Error('Invalid movie data');
+          }
+          rows = data.movies.map(createRow);
+          document.getElementById('movie-count').textContent = rows.length.toLocaleString();
+          const refreshed = parseDate(data.generated_at);
+          const refreshElement = document.getElementById('last-refresh');
+          if (refreshed) {
+            refreshElement.dateTime = refreshed.toISOString();
+            refreshElement.textContent = new Intl.DateTimeFormat(undefined, {
+              year: 'numeric', month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit',
+              timeZone: 'UTC', timeZoneName: 'short'
+            }).format(refreshed);
+          } else refreshElement.textContent = 'Unavailable';
+          sortRows();
+          status.textContent = rows.length ? '' : 'No movies in the library yet.';
+          status.hidden = rows.length > 0;
+          document.getElementById('table-container').hidden = rows.length === 0;
+        } catch (error) {
+          status.className = 'error';
+          status.setAttribute('role', 'alert');
+          status.textContent = location.protocol === 'file:'
+            ? 'Open this page through a local web server or GitHub Pages so it can load movies.json.'
+            : 'Could not load the movie library. Check that movies.json is available beside this page, then reload.';
+          console.error('Movie library:', error);
+        }
+      }
+      loadMovies();
+    })();
+  </script>
+</body>
+</html>
