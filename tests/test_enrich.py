@@ -71,8 +71,8 @@ class LibraryTests(unittest.TestCase):
 		cls.by_title = {m["title"]: m for m in cls.movies}
 
 	def test_real_library_is_valid(self):
-		self.assertEqual(self.source["count"], 392)
-		self.assertEqual(len(self.movies), 392)
+		self.assertGreater(len(self.movies), 0)
+		self.assertEqual(self.source["count"], len(self.movies))
 		self.assertTrue(all(isinstance(m.get("title"), str) and m["title"] for m in self.movies))
 		self.assertTrue(all("year" in m and "director" in m for m in self.movies))
 		self.assertTrue(all(m.get("store_id") is None for m in self.movies))
@@ -153,14 +153,15 @@ class LibraryTests(unittest.TestCase):
 		with self.assertRaises(e.EnrichmentError):
 			e.override_for({"2001: A Space Odyssey": {"tmdb_id": "not-valid"}}, movie)
 
-	def test_all_392_entries_stay_in_mock_enrichment(self):
+	def test_all_library_entries_stay_in_mock_enrichment(self):
 		api = FakeTMDB()
 		payload, review = e.process(self.source, api, {}, clock=datetime(2026, 11, 4, tzinfo=timezone.utc))
-		self.assertEqual(payload["count"], 392)
-		self.assertEqual(len(payload["movies"]), 392)
+		expected_count = len(self.movies)
+		self.assertEqual(payload["count"], expected_count)
+		self.assertEqual(len(payload["movies"]), expected_count)
 		self.assertEqual(payload["count"], payload["matched_count"] + review["count"])
 		self.assertEqual([m["title"] for m in payload["movies"]], [m["title"] for m in self.movies])
-		self.assertEqual(len({m["source_key"] for m in payload["movies"]}), 392)
+		self.assertEqual(len({m["source_key"] for m in payload["movies"]}), expected_count)
 		self.assertGreater(payload["matched_count"], 0)
 		self.assertTrue(any(m["match"]["method"] == "title_director_year_conflict" for m in payload["movies"]))
 
@@ -173,6 +174,19 @@ class LibraryTests(unittest.TestCase):
 		second, _ = e.process(source, api2, {}, previous=first, clock=start + timedelta(days=1))
 		self.assertEqual(api2.calls, [])
 		self.assertEqual(first, second)
+
+	def test_added_date_is_preserved_in_fresh_and_cached_enrichment(self):
+		movie = dict(self.by_title["2001: A Space Odyssey"], addedDate="2020-07-01T10:34:56Z")
+		source = {"movies": [movie]}
+		start = datetime(2026, 11, 4, tzinfo=timezone.utc)
+		first, _ = e.process(source, FakeTMDB(), {}, clock=start)
+		self.assertEqual(first["movies"][0]["addedDate"], movie["addedDate"])
+		# A cache created before this exporter change must pick up the new field.
+		del first["movies"][0]["addedDate"]
+		api = FakeTMDB()
+		second, _ = e.process(source, api, {}, previous=first, clock=start + timedelta(days=1))
+		self.assertEqual(api.calls, [])
+		self.assertEqual(second["movies"][0]["addedDate"], movie["addedDate"])
 
 	def test_expiration_refreshes_by_id_without_research(self):
 		api = FakeTMDB()

@@ -47,6 +47,8 @@ To run export only, without Git:
 
 The Apple TV AppleScript track ID is **not** an iTunes Store ID. This package makes **no requests to Apple's catalog API**, and `store_id` remains unchanged.
 
+Each movie includes `addedDate`, taken from TV's `date added` property (when the track was added to the playlist, not necessarily its purchase date). It is an ISO 8601 UTC timestamp such as `2026-11-09T12:34:56Z`, or `null` if unavailable. Run the exporter again to populate it in `movies.json`; enrichment preserves this field, including when reusing cached TMDB results.
+
 ## Enrichment, matching, and output
 
 The GitHub workflow runs:
@@ -103,7 +105,7 @@ The initial 392-film run requires TMDB requests. Offline tests cannot verify liv
 python3 -m unittest discover -s tests -v
 ```
 
-Tests are network-free and use the uploaded 392-record input, including its duplicates, mixed-language titles and edition suffixes. Additional mocked TMDB responses test matching, director/year conflicts, ambiguous remakes, and repeat runs.
+Tests are network-free and use the current `movies.json`, including its duplicates, mixed-language titles and edition suffixes. Count checks follow the current library size and verify that enrichment preserves every entry. Additional mocked TMDB responses test matching, director/year conflicts, ambiguous remakes, and repeat runs.
 
 ## Publishing / licensing
 
