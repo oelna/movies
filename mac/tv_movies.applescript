@@ -1,8 +1,15 @@
 -- Export Apple TV's Movies playlist as a tab-separated interchange stream.
--- Each row has five fields: title, year, genre, description, director.
+-- Each row has six fields: title, year, genre, description, director, addedDate.
 -- No movie files are downloaded. The local TV app handles cloud library access.
 -- Literal tabs/newlines in metadata are replaced with spaces for TSV safety.
 -- This file intentionally does NOT invent a store ID from the local track ID.
+
+use framework "Foundation"
+
+on formatAddedDate(inputDate, timestampFormatter)
+	if inputDate is missing value then return ""
+	return (timestampFormatter's stringFromDate:inputDate) as text
+end formatAddedDate
 
 on cleanField(inputValue)
 	if inputValue is missing value then return ""
@@ -20,6 +27,8 @@ end cleanField
 
 on run
 	set movieRows to {}
+	-- Foundation formats the actual instant in UTC, independent of locale or DST.
+	set timestampFormatter to current application's NSISO8601DateFormatter's alloc()'s init()
 	tell application "TV"
 		set movieTracks to (every track of playlist "Movies")
 		repeat with movieTrack in movieTracks
@@ -29,6 +38,7 @@ on run
 				set movieGenre to ""
 				set movieDescription to ""
 				set movieDirector to ""
+				set movieAddedDate to ""
 				try
 					set movieYear to my cleanField(year of movieTrack)
 				end try
@@ -41,7 +51,10 @@ on run
 				try
 					set movieDirector to my cleanField(director of movieTrack)
 				end try
-				set end of movieRows to movieTitle & tab & movieYear & tab & movieGenre & tab & movieDescription & tab & movieDirector
+				try
+					set movieAddedDate to my formatAddedDate(date added of movieTrack, timestampFormatter)
+				end try
+				set end of movieRows to movieTitle & tab & movieYear & tab & movieGenre & tab & movieDescription & tab & movieDirector & tab & movieAddedDate
 			end if
 		end repeat
 	end tell

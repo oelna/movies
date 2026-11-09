@@ -36,12 +36,12 @@ trap '/bin/rm -rf -- "$TMP_DIR"; /bin/rm -f -- "$OUT_TMP"' EXIT
 # The AppleScript removes embedded tabs and newlines from the metadata.
 /usr/bin/osascript "$SCRIPT" > "$TMP_DIR/movies.tsv" || die "Apple TV query failed; previous JSON left unchanged"
 
-# Validate the five-column interchange stream before importing it. Movie
+# Validate the six-column interchange stream before importing it. Movie
 # titles/descriptions are allowed to contain literal quotation marks; the
 # companion AppleScript replaces only tabs and line endings in each field.
 RAW_COUNT="$(/usr/bin/awk -F '\t' '
-	NF != 5 {
-		if (bad < 5) printf "Malformed AppleScript row %d (found %d fields, expected 5)\n", NR, NF > "/dev/stderr"
+	NF != 6 {
+		if (bad < 5) printf "Malformed AppleScript row %d (found %d fields, expected 6)\n", NR, NF > "/dev/stderr"
 		bad++
 	}
 	END {
@@ -61,7 +61,7 @@ RAW_COUNT="$(/usr/bin/awk -F '\t' '
 .bail on
 .mode ascii
 .separator "\t" "\n"
-CREATE TABLE movies (title TEXT, year TEXT, genre TEXT, description TEXT, director TEXT);
+CREATE TABLE movies (title TEXT, year TEXT, genre TEXT, description TEXT, director TEXT, addedDate TEXT);
 .import "$TMP_DIR/movies.tsv" movies
 .mode list
 SELECT count(*) FROM movies WHERE trim(title) <> '';
@@ -76,7 +76,8 @@ SELECT json_object(
 			'year', CASE WHEN year GLOB '[12][0-9][0-9][0-9]' AND CAST(year AS INTEGER) BETWEEN 1880 AND 2100 THEN CAST(year AS INTEGER) ELSE NULL END,
 			'genre', nullif(genre, ''),
 			'description', nullif(description, ''),
-			'director', nullif(director, '')
+			'director', nullif(director, ''),
+			'addedDate', nullif(addedDate, '')
 		))
 		FROM (SELECT * FROM movies WHERE trim(title) <> '' ORDER BY title COLLATE NOCASE)
 	))
