@@ -1,9 +1,9 @@
 {
   "source": "apple_tv_and_tmdb",
-  "source_generated_at": "2026-11-03T11:48:02Z",
+  "source_generated_at": "2026-11-09T11:14:54Z",
   "language": "de-DE",
-  "count": 392,
-  "matched_count": 392,
+  "count": 393,
+  "matched_count": 393,
   "review_count": 0,
   "movies": [
     {
@@ -70,7 +70,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/kbrhW3WfutKdIPd70orhh1gVZ8n.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/dMERTVrObB7TkRVIFmcndR2sZFH.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/dMERTVrObB7TkRVIFmcndR2sZFH.jpg",
+      "addedDate": "2020-01-29T09:08:21Z"
     },
     {
       "title": "11:14 - Elevenfourteen",
@@ -143,7 +144,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/j7tPW4DKrwHZJkVZRSQVtZuGUMa.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/72jbXJIXiGdLzrqfbKynVhtnl5b.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/72jbXJIXiGdLzrqfbKynVhtnl5b.jpg",
+      "addedDate": "2021-08-30T05:16:14Z"
     },
     {
       "title": "11:14 Elevenfourteen",
@@ -216,7 +218,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/j7tPW4DKrwHZJkVZRSQVtZuGUMa.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/72jbXJIXiGdLzrqfbKynVhtnl5b.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/72jbXJIXiGdLzrqfbKynVhtnl5b.jpg",
+      "addedDate": "2018-04-05T15:26:28Z"
     },
     {
       "title": "12 Monkeys",
@@ -289,7 +292,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/l872D4V4sl13A8UOZRUk5TMSRV6.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/mKIkGoyuR71qz6FdiEiOjxvBQcS.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mKIkGoyuR71qz6FdiEiOjxvBQcS.jpg",
+      "addedDate": "2021-05-28T20:32:24Z"
     },
     {
       "title": "1917",
@@ -362,7 +366,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/gIy8NMWpS4Hw6RAcTOhBYSfp3qB.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/2lBOQK06tltt8SQaswgb8d657Mv.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2lBOQK06tltt8SQaswgb8d657Mv.jpg",
+      "addedDate": "2020-12-18T07:32:12Z"
     },
     {
       "title": "2001: A Space Odyssey",
@@ -435,7 +440,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/g16ONGwG7l3R94JFPKCx1orZvYD.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/w5IDXtifKntw0ajv2co7jFlTQDM.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/w5IDXtifKntw0ajv2co7jFlTQDM.jpg",
+      "addedDate": "2020-03-05T15:29:44Z"
     },
     {
       "title": "28 Days Later",
@@ -508,7 +514,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/7mSUDqA2Iwn1asMrPVl9FVapik3.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/aJFwk1clMal1prxAvKAgHxKPAf.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/aJFwk1clMal1prxAvKAgHxKPAf.jpg",
+      "addedDate": "2018-08-06T05:52:32Z"
     },
     {
       "title": "28 Years Later",
@@ -581,7 +588,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/ygCqIBzLOgm1QmBDhDwKs9XE5PY.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/6WqqEjiycNvDLjbEClM1zCwIbDD.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/6WqqEjiycNvDLjbEClM1zCwIbDD.jpg",
+      "addedDate": "2026-08-21T01:12:45Z"
     },
     {
       "title": "300",
@@ -654,7 +662,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/8J7MQf95w9ani1T1PsvyFNzQP6V.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/lgBZlJ1LHQel5nneNQMoesmvc7l.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lgBZlJ1LHQel5nneNQMoesmvc7l.jpg",
+      "addedDate": "2024-11-27T21:38:49Z"
     },
     {
       "title": "A Clockwork Orange",
@@ -726,7 +735,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/mB07QYollr6luCA9koLaywmZWDY.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/nLFxvLokHe3bQmrmAfljIfax2jQ.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nLFxvLokHe3bQmrmAfljIfax2jQ.jpg",
+      "addedDate": "2022-07-03T05:31:28Z"
     },
     {
       "title": "A History of Violence",
@@ -799,7 +809,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/tYn6WVRwTyvK7B6LA6n1aU74LnB.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/iZHJsUYxhjI6kbooHoQRWXv6F8E.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/iZHJsUYxhjI6kbooHoQRWXv6F8E.jpg",
+      "addedDate": "2021-12-17T07:45:42Z"
     },
     {
       "title": "A Quiet Place",
@@ -860,7 +871,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/m6OdNzxFMU4CCZIFThzLP8Hj00L.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/nHRUtBwFNnNN70vcQ7lAsjc2T6S.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nHRUtBwFNnNN70vcQ7lAsjc2T6S.jpg",
+      "addedDate": "2019-08-28T05:51:58Z"
     },
     {
       "title": "Ace Ventura: Pet Detective",
@@ -933,7 +945,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/h8fixwTBtiEHRHFLjzgulZeHXwp.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/nbvREKIjX16mwNZtFqAoQTTHPnQ.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nbvREKIjX16mwNZtFqAoQTTHPnQ.jpg",
+      "addedDate": "2019-07-01T06:14:38Z"
     },
     {
       "title": "Ace Ventura: When Nature Calls",
@@ -1006,7 +1019,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/5qWRDf3nYfneEnrIQRoUXqBnLY6.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/h5Y9T4OoFpMrONhVBZvN2X2DfAB.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/h5Y9T4OoFpMrONhVBZvN2X2DfAB.jpg",
+      "addedDate": "2018-08-20T07:05:49Z"
     },
     {
       "title": "Alien (Director’s Cut)",
@@ -1074,7 +1088,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/v7Xe3j8QmG1PN4K6MPRlB6munoj.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/AmR3JG1VQVxU8TfAvljUhfSFUOx.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/AmR3JG1VQVxU8TfAvljUhfSFUOx.jpg",
+      "addedDate": "2017-04-26T07:01:28Z"
     },
     {
       "title": "Alien - Das unheimliche Wesen aus einer fremden Welt",
@@ -1142,7 +1157,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/v7Xe3j8QmG1PN4K6MPRlB6munoj.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/AmR3JG1VQVxU8TfAvljUhfSFUOx.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/AmR3JG1VQVxU8TfAvljUhfSFUOx.jpg",
+      "addedDate": "2019-09-18T13:46:42Z"
     },
     {
       "title": "Alien 3",
@@ -1215,7 +1231,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/hONVLDoB9kI8EtLPgxTaaYXJbLY.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/lU0zVj8KcQVkPczdGGraYGiRC72.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lU0zVj8KcQVkPczdGGraYGiRC72.jpg",
+      "addedDate": "2019-09-18T13:44:18Z"
     },
     {
       "title": "Alien 4 - Die Wiedergeburt",
@@ -1288,7 +1305,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/sY6kHvQoRpDFPaV7LcspGSoCCN2.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/ikr0UILfvRerzMNoBTtJtyuWAEV.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ikr0UILfvRerzMNoBTtJtyuWAEV.jpg",
+      "addedDate": "2018-06-07T17:17:51Z"
     },
     {
       "title": "Alien vs. Predator",
@@ -1362,7 +1380,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/5EmLbFXlr1hKvCsj83LymMcjsxY.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/xvq1RLaiwSdHwPHe7WUhqZa1rCA.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xvq1RLaiwSdHwPHe7WUhqZa1rCA.jpg",
+      "addedDate": "2019-09-18T13:43:48Z"
     },
     {
       "title": "Alien: Covenant",
@@ -1434,7 +1453,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/t9um1fYgmnl8k03mjGducRnjbcw.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/iXXPaQPfQowpQ5UvhsHLj9BgFhe.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/iXXPaQPfQowpQ5UvhsHLj9BgFhe.jpg",
+      "addedDate": "2018-03-02T09:51:38Z"
     },
     {
       "title": "Aliens - Die Rückkehr",
@@ -1507,7 +1527,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/cEEizIC3BNqxWgKEvuMrfWIB3R8.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/4kix6fAblJIH6eMs0Ku2loyZJXK.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4kix6fAblJIH6eMs0Ku2loyZJXK.jpg",
+      "addedDate": "2018-06-07T17:20:33Z"
     },
     {
       "title": "Almost Famous",
@@ -1579,7 +1600,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/vq5gTyQ7nRdsUsNA6fqZwlaQoGN.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/AqLtFRKVX2G0ghMnMnQoSGan4pY.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/AqLtFRKVX2G0ghMnMnQoSGan4pY.jpg",
+      "addedDate": "2019-01-10T15:37:57Z"
     },
     {
       "title": "American Beauty",
@@ -1650,7 +1672,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/n2qAP6G67MrmS7At2NLhlZlYqB7.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/2ndw55F40IkALzWyjCCza3M6nqM.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2ndw55F40IkALzWyjCCza3M6nqM.jpg",
+      "addedDate": "2020-10-06T15:25:13Z"
     },
     {
       "title": "American Psycho",
@@ -1723,7 +1746,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/5Tx1PH4mejIhvC5mtAc94FtgueF.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/5oaMV2q0qzxkIW2ukU3lldLu5q2.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5oaMV2q0qzxkIW2ukU3lldLu5q2.jpg",
+      "addedDate": "2020-10-26T19:17:46Z"
     },
     {
       "title": "Annihilation",
@@ -1795,7 +1819,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/ryfGULRp6SxOaF1IF3RUfgJfhG8.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/9trZvBr44UGedUOiGo3jgSUw13e.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9trZvBr44UGedUOiGo3jgSUw13e.jpg",
+      "addedDate": "2021-04-26T07:41:41Z"
     },
     {
       "title": "Antichrist (2009)",
@@ -1840,7 +1865,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/bXAJd0AUIExb8B5EA3sxsYupPo5.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/utABPVjXBlM8NUOBecCyLLuzQSe.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/utABPVjXBlM8NUOBecCyLLuzQSe.jpg",
+      "addedDate": "2018-07-01T07:29:51Z"
     },
     {
       "title": "Apocalypse Now: Final Cut",
@@ -1912,7 +1938,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/u8rsAW9xWcsA511NBsOEsbSnVlC.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/49fzLedFVKgGgFChLMuulDJBY1c.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/49fzLedFVKgGgFChLMuulDJBY1c.jpg",
+      "addedDate": "2021-03-15T07:52:05Z"
     },
     {
       "title": "Arielle, die Meerjungfrau",
@@ -1986,7 +2013,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/ktxb2W9QdNERw2jJaud5Nzawai4.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/qGZXYHvWR1TYOU9raCaEABrj9m7.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qGZXYHvWR1TYOU9raCaEABrj9m7.jpg",
+      "addedDate": "2020-12-14T07:53:02Z"
     },
     {
       "title": "Arizona Junior",
@@ -2058,7 +2086,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/7kpXInsfX6C7kX364cRPgDS4b5R.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/oSFshBf9Wrv5UcmZYAmy28BwSSh.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/oSFshBf9Wrv5UcmZYAmy28BwSSh.jpg",
+      "addedDate": "2018-02-01T21:07:29Z"
     },
     {
       "title": "Army of Darkness",
@@ -2131,7 +2160,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/uoXtlwLBYy6FUEYW58JeaqGj4c1.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/8WIufsaJgm7VWgAc5ALWdJ8v2kB.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8WIufsaJgm7VWgAc5ALWdJ8v2kB.jpg",
+      "addedDate": "2026-04-16T04:27:56Z"
     },
     {
       "title": "Arrival",
@@ -2204,7 +2234,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/4gUgPIhPBoamMdbvqHyjMmb2K60.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/8MUZz7oPXQftFTslZpRP3CVMOoq.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8MUZz7oPXQftFTslZpRP3CVMOoq.jpg",
+      "addedDate": "2017-12-03T09:01:11Z"
     },
     {
       "title": "Austin Powers - Spion in geheimer Missionarsstellung",
@@ -2277,7 +2308,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/la8qitybehLp2ycZwNKutrVJ7Jp.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/xI1tAzzUk2v9nON6DLAHzcOLK42.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xI1tAzzUk2v9nON6DLAHzcOLK42.jpg",
+      "addedDate": "2020-07-30T05:30:08Z"
     },
     {
       "title": "Austin Powers in Goldmember",
@@ -2349,7 +2381,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/xtDejB4o3gWjRucPmnklZbLFCRY.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/kuPpElzfYnzsCye0hF8EbJSrvwo.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kuPpElzfYnzsCye0hF8EbJSrvwo.jpg",
+      "addedDate": "2025-09-26T08:21:31Z"
     },
     {
       "title": "Avatar - Aufbruch nach Pandora",
@@ -2422,7 +2455,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/8VV4YUwOGxgolFZTo2SgNwsfznR.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
+      "addedDate": "2021-05-27T10:46:53Z"
     },
     {
       "title": "Avengers: Age of Ultron",
@@ -2495,7 +2529,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/woAP8YaiVIuo7YXTeqVQEhXBdfz.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/kIBK5SKwgqIIuRKhhWrJn3XkbPq.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kIBK5SKwgqIIuRKhhWrJn3XkbPq.jpg",
+      "addedDate": "2018-08-24T06:08:22Z"
     },
     {
       "title": "Avengers: Infinity War",
@@ -2569,7 +2604,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/2hj7diAFcApL2YfWwjiYCuRI4WW.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+      "addedDate": "2018-08-24T06:08:22Z"
     },
     {
       "title": "Bad Boys",
@@ -2642,7 +2678,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/qPkh6XyGdXEd9ricw8DkSpOeKVs.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/wOLTJxfv98miIQcn0oNXq9fIgXM.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/wOLTJxfv98miIQcn0oNXq9fIgXM.jpg",
+      "addedDate": "2020-10-12T06:04:16Z"
     },
     {
       "title": "Barbarian",
@@ -2715,7 +2752,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/uwO45ODnzQMYZIhnrPb2K5IoMqz.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/kSeU4uk19t82k6Cao7hc6ktDYhF.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kSeU4uk19t82k6Cao7hc6ktDYhF.jpg",
+      "addedDate": "2026-10-30T12:46:18Z"
     },
     {
       "title": "Batman Begins",
@@ -2788,7 +2826,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/b3UIToGx8JIpRqUTGkaoyaNLuU3.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/9IIBboV7MCT0bTxzXHmWK1Hq558.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9IIBboV7MCT0bTxzXHmWK1Hq558.jpg",
+      "addedDate": "2017-10-19T16:11:52Z"
     },
     {
       "title": "Batman Forever",
@@ -2861,7 +2900,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/i0fJS8M5UKoETjjJ0zwUiKaR8tr.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/snlu32RmjldF9b068UURJg8sQtn.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/snlu32RmjldF9b068UURJg8sQtn.jpg",
+      "addedDate": "2019-07-01T06:18:22Z"
     },
     {
       "title": "Beverly Hills Cop",
@@ -2934,7 +2974,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/bVcnpMNCkCjOsQF597e0DMCdVMs.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/p256RduW9wMC3uhGJTerywmGiiX.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/p256RduW9wMC3uhGJTerywmGiiX.jpg",
+      "addedDate": "2020-10-09T18:45:51Z"
     },
     {
       "title": "Black Panther (2018)",
@@ -3007,7 +3048,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/l6y476RPWK35Y7zmiMPcih4uU7A.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/b6ZJZHUdMEFECvGiDpJjlfUWela.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/b6ZJZHUdMEFECvGiDpJjlfUWela.jpg",
+      "addedDate": "2018-12-15T09:25:05Z"
     },
     {
       "title": "Black Swan",
@@ -3080,7 +3122,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/f5yFgSs9wMCP9lNnRGUM1QI0tXs.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/eDLp4uFdqP1gpy9oMrutwH6Q64I.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/eDLp4uFdqP1gpy9oMrutwH6Q64I.jpg",
+      "addedDate": "2026-10-30T22:31:25Z"
     },
     {
       "title": "Blade Runner (The Final Cut)",
@@ -3153,7 +3196,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/iD88HsailBEKNBoxj82CxtXesHX.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/2spEHYDcyE9r9mS7AFEscfKVDzO.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2spEHYDcyE9r9mS7AFEscfKVDzO.jpg",
+      "addedDate": "2019-03-17T07:17:15Z"
     },
     {
       "title": "Blade Runner 2049",
@@ -3225,7 +3269,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/cdaf9yNZ7T0eZcrGiOilrVrTYHB.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/gNdLJU9TxrpGx4dkZidjys3fyy0.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/gNdLJU9TxrpGx4dkZidjys3fyy0.jpg",
+      "addedDate": "2020-08-24T16:58:32Z"
     },
     {
       "title": "Booksmart",
@@ -3296,7 +3341,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/fyHEqMHRGCfzulmJc0qyJHqEnUi.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/cheDSO3mYmsAFQlRM91o7MK6Wcc.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cheDSO3mYmsAFQlRM91o7MK6Wcc.jpg",
+      "addedDate": "2021-01-06T08:17:33Z"
     },
     {
       "title": "Borat",
@@ -3367,7 +3413,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/pGfzx3CHxyaliB0c6vr7lGAspyu.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/mEagEZkyUp18shDqX05w4zxTnEM.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mEagEZkyUp18shDqX05w4zxTnEM.jpg",
+      "addedDate": "2019-05-13T06:32:17Z"
     },
     {
       "title": "Bram Stoker's Dracula",
@@ -3439,7 +3486,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/5jkixIm1Tm2lRMkkZHW8Dr5envx.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/fGuhbAlDpvmNuC0vkz1vsIzYwsq.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fGuhbAlDpvmNuC0vkz1vsIzYwsq.jpg",
+      "addedDate": "2020-04-10T10:12:44Z"
     },
     {
       "title": "Cape Fear (1991)",
@@ -3512,7 +3560,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/ggeXjbGEcUin9xY6AMeCMoxzVBR.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/ntgpger7OwFNlEldxuvvFHDKzjW.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ntgpger7OwFNlEldxuvvFHDKzjW.jpg",
+      "addedDate": "2020-09-14T13:00:41Z"
     },
     {
       "title": "Captain Fantastic - Einmal Wildnis und zurück",
@@ -3584,7 +3633,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/kXclITruSbAkx3vWU5LZnhXimYf.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/d84M69u6Q202dm6EvhVxbiqrK9f.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/d84M69u6Q202dm6EvhVxbiqrK9f.jpg",
+      "addedDate": "2025-12-15T13:24:24Z"
     },
     {
       "title": "Captain Marvel",
@@ -3658,7 +3708,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/A7wZNpzhgS6mnER16YWrmvOHPiZ.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/qAzYK4YPSWDc7aa4R43LcwRIAyb.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qAzYK4YPSWDc7aa4R43LcwRIAyb.jpg",
+      "addedDate": "2019-12-14T08:20:44Z"
     },
     {
       "title": "Catch Me If You Can",
@@ -3730,7 +3781,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/bJLrws4RmIw6UdXQJ6Ok4UOvKo0.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/eS3xZQ1C8lt6mm4K5lTmjbYn2HE.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/eS3xZQ1C8lt6mm4K5lTmjbYn2HE.jpg",
+      "addedDate": "2019-02-18T06:41:35Z"
     },
     {
       "title": "Chappie",
@@ -3803,7 +3855,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/7AtBU52GutGeAqCa1nf0c0e66FY.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/qX5T5GVAcq2UKaaiAx5SZp1AtlY.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qX5T5GVAcq2UKaaiAx5SZp1AtlY.jpg",
+      "addedDate": "2022-12-26T07:09:50Z"
     },
     {
       "title": "Children of Men",
@@ -3876,7 +3929,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/ylTP94REqRh3qANFTlKQtRmwxZh.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/www52jvhbB0ppe9s0zxbf9EYox.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/www52jvhbB0ppe9s0zxbf9EYox.jpg",
+      "addedDate": "2019-08-19T08:17:24Z"
     },
     {
       "title": "Closer",
@@ -3948,7 +4002,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/1pgjZ2M7kUNtXQr5tNeHTpWiBIm.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/s7oDV92ltdecJ7BTfGSOgsDi900.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/s7oDV92ltdecJ7BTfGSOgsDi900.jpg",
+      "addedDate": "2018-06-09T06:54:09Z"
     },
     {
       "title": "Clueless",
@@ -4020,7 +4075,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/AoeWEfurXBC6Qy3VNn1oPX18YlI.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/65d0MccsiRSPTVicregKQL8owoo.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/65d0MccsiRSPTVicregKQL8owoo.jpg",
+      "addedDate": "2021-07-26T05:43:49Z"
     },
     {
       "title": "Cobain: Montage of Heck",
@@ -4092,7 +4148,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/hQEkK4WnTtQXIp5QOnVTsK3xYRM.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/n1BjnpeFJ8hVXae8SIlkjJ7BkJO.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/n1BjnpeFJ8hVXae8SIlkjJ7BkJO.jpg",
+      "addedDate": "2024-06-17T21:58:42Z"
     },
     {
       "title": "Collateral",
@@ -4165,7 +4222,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/kEHij5T1x6o6FG4zgeLtQ63mUTb.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/qVzmXKKOTtd3szkiCheCNrfa394.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qVzmXKKOTtd3szkiCheCNrfa394.jpg",
+      "addedDate": "2026-10-20T04:31:39Z"
     },
     {
       "title": "Conan der Barbar",
@@ -4238,7 +4296,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/znDAdEHJoxYGNG8nRGYziRYuTVS.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/fNp2ikvY8WZTyVbK1iXW84RLbO5.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fNp2ikvY8WZTyVbK1iXW84RLbO5.jpg",
+      "addedDate": "2021-05-27T10:43:56Z"
     },
     {
       "title": "Cube",
@@ -4299,7 +4358,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/dazcnmnFJgwkrYG1xJUtn3AbMpt.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/3TimUBrXMVblpnTsyg4HssGVbBv.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3TimUBrXMVblpnTsyg4HssGVbBv.jpg",
+      "addedDate": "2020-10-26T19:18:24Z"
     },
     {
       "title": "Das Boot - The Director’s Cut",
@@ -4372,7 +4432,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/arqCQXHqgzZG2m5111FV4nA13RN.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/zzzhbZnSPMOON9uGt0LsdUJWYoC.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/zzzhbZnSPMOON9uGt0LsdUJWYoC.jpg",
+      "addedDate": "2024-06-17T21:56:30Z"
     },
     {
       "title": "Das Dschungelbuch (1967)",
@@ -4445,7 +4506,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/x9hMtM8ZNwtR0N5YjyA31Cq6Mon.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/3sbmRuIpYEH5dMvec4z4JxKQHoj.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3sbmRuIpYEH5dMvec4z4JxKQHoj.jpg",
+      "addedDate": "2020-12-14T07:51:07Z"
     },
     {
       "title": "Das fünfte Element",
@@ -4518,7 +4580,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/eBdnpdow5NQaLns92NhLGdRSWGa.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/jW21PoKwqs79wk6bfiYezox63mK.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jW21PoKwqs79wk6bfiYezox63mK.jpg",
+      "addedDate": "2021-06-29T19:57:02Z"
     },
     {
       "title": "Das perfekte Verbrechen",
@@ -4589,7 +4652,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/fpNeKLHs44gAO1R1Wzhi91xcGuA.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/mujUrk2diGe5vRCb3kdpHZeobRs.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mujUrk2diGe5vRCb3kdpHZeobRs.jpg",
+      "addedDate": "2020-04-01T14:30:59Z"
     },
     {
       "title": "Deadpool",
@@ -4662,7 +4726,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/VEfCqkbK062Egob26rYQWAJoE7.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/rFj9IKlL75B2pXhZA60jkNWvxeW.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rFj9IKlL75B2pXhZA60jkNWvxeW.jpg",
+      "addedDate": "2019-03-17T07:19:03Z"
     },
     {
       "title": "Deadpool 2",
@@ -4735,7 +4800,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/mbUbTCc5oc5chSfVmJEAfcz19mn.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
+      "addedDate": "2019-10-31T07:27:35Z"
     },
     {
       "title": "Demolition Man",
@@ -4808,7 +4874,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/ksvz65xTFUArI9QWE4w1CqGTn3z.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/4pl165EUdvveHCr4J4YcHVA1MnD.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4pl165EUdvveHCr4J4YcHVA1MnD.jpg",
+      "addedDate": "2020-03-09T07:49:47Z"
     },
     {
       "title": "Der große Diktator",
@@ -4880,7 +4947,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/v4V885dMlbOmqzxu6Wv8fhYXVOf.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/c8Pi8F1FzpNebtgXcSjC9nWCdSW.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/c8Pi8F1FzpNebtgXcSjC9nWCdSW.jpg",
+      "addedDate": "2020-04-19T10:13:28Z"
     },
     {
       "title": "Der Herr der Ringe: Die Rückkehr des Königs (Special Extended Edition)",
@@ -4953,7 +5021,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/uFjlP9U9UOZAzGB25HUtmlEpXbc.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/ctiw6FZK4N36LmkjSklWEbuvlq9.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ctiw6FZK4N36LmkjSklWEbuvlq9.jpg",
+      "addedDate": "2018-12-17T22:54:41Z"
     },
     {
       "title": "Der Herr der Ringe: Die zwei Türme (Special Extended Edition)",
@@ -5026,7 +5095,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/tgBCeAjPwXeUaf8LsRL0LzBIcdR.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/6G73mNyooWAEQTpckPSnFxFoNmc.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/6G73mNyooWAEQTpckPSnFxFoNmc.jpg",
+      "addedDate": "2018-12-17T22:54:41Z"
     },
     {
       "title": "Der König der Löwen",
@@ -5100,7 +5170,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/2yiOlsfujLV3uiMd0VbbT8QBHFX.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/wXsQvli6tWqja51pYxXNG1LFIGV.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/wXsQvli6tWqja51pYxXNG1LFIGV.jpg",
+      "addedDate": "2020-12-14T07:52:13Z"
     },
     {
       "title": "Der Maschinist - The Machinist",
@@ -5172,7 +5243,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/ylKHcr2W1WDmo7jc0KuxcWSnY8P.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/hi3lxLd93iKwCmVAfhMV9m1k2jr.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hi3lxLd93iKwCmVAfhMV9m1k2jr.jpg",
+      "addedDate": "2021-08-09T06:26:51Z"
     },
     {
       "title": "Der Pate: Teil II ",
@@ -5244,7 +5316,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/ydzBlAMJTo9jOG5i8aRpZec0jF3.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/pGzqRKrYeK4LogoysNro0vG8d8N.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/pGzqRKrYeK4LogoysNro0vG8d8N.jpg",
+      "addedDate": "2023-11-21T11:59:42Z"
     },
     {
       "title": "Die lustige Welt der Tiere",
@@ -5281,7 +5354,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/yJOyAazP57pQ8T5Oc6Ulumc2eMO.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/hKlX0gBFHRO0S86m6PqGXFxaRAZ.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hKlX0gBFHRO0S86m6PqGXFxaRAZ.jpg",
+      "addedDate": "2025-02-24T14:44:14Z"
     },
     {
       "title": "Die Nackte Kanone: 2 1/2",
@@ -5353,7 +5427,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/ryABfU5CcSiRgKigB8MNnBg56E7.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/kCW0C3Bv5IsasICx3StdNEejfB5.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kCW0C3Bv5IsasICx3StdNEejfB5.jpg",
+      "addedDate": "2018-08-03T06:47:28Z"
     },
     {
       "title": "Die Simpsons – Der Film",
@@ -5426,7 +5501,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/7Pi8egnTOvXJqCkottfzJsm3j4E.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/8ln5VUVk7gnNGIb2VNgw8nICDVt.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8ln5VUVk7gnNGIb2VNgw8nICDVt.jpg",
+      "addedDate": "2019-05-13T06:30:59Z"
     },
     {
       "title": "Die Tribute von Panem - Catching Fire",
@@ -5499,7 +5575,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/goLUaKDwTip1fikpCHDA6oCIfkV.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/eHaazLxM5LRMh0ySkVy7SK6wUWt.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/eHaazLxM5LRMh0ySkVy7SK6wUWt.jpg",
+      "addedDate": "2025-08-25T15:56:23Z"
     },
     {
       "title": "Die Tribute von Panem - The Hunger Games",
@@ -5573,7 +5650,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/8o3MlFkqI9O8PXRXDApyoN4HNPc.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/eVYChqJavS1DCXFeJE2lzVUMLKp.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/eVYChqJavS1DCXFeJE2lzVUMLKp.jpg",
+      "addedDate": "2025-08-25T15:56:03Z"
     },
     {
       "title": "Die unendliche Geschichte",
@@ -5646,7 +5724,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/2vwm7KtIHa4tN6mtNqyqQzlwbgl.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/rKmOe5pb5a6P1HmQAzpRw20gORp.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rKmOe5pb5a6P1HmQAzpRw20gORp.jpg",
+      "addedDate": "2025-04-14T08:54:08Z"
     },
     {
       "title": "Die unglaubliche Reise in einem verrückten Flugzeug",
@@ -5719,7 +5798,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/h8ly6xf2DUbipJgmzmpBLq4QpAm.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/wQyvrsNSTzFVEGgarZbFkFyIciy.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/wQyvrsNSTzFVEGgarZbFkFyIciy.jpg",
+      "addedDate": "2019-01-07T22:17:47Z"
     },
     {
       "title": "Dirty Harry",
@@ -5792,7 +5872,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/4Sj8e5BezKEgNvx6QG91eMiNtni.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/mJjOZSaTTqG3an5MkkOX3x18lYX.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mJjOZSaTTqG3an5MkkOX3x18lYX.jpg",
+      "addedDate": "2020-03-05T15:37:06Z"
     },
     {
       "title": "District 9",
@@ -5863,7 +5944,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/x4PVikCbtYJX1pglNlSMY7l96Y9.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/jhM3wgWUrrOkz9r4xwV5cV5RhI4.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jhM3wgWUrrOkz9r4xwV5cV5RhI4.jpg",
+      "addedDate": "2021-03-14T08:37:37Z"
     },
     {
       "title": "Doctor Strange (2016)",
@@ -5936,7 +6018,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/mzPnP190YLV4KFL3ZgsP7AsPEd2.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/kkoiH8ZWxJ9WSAjOadGtuHUQxbm.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kkoiH8ZWxJ9WSAjOadGtuHUQxbm.jpg",
+      "addedDate": "2018-08-24T06:10:38Z"
     },
     {
       "title": "Don Juan DeMarco",
@@ -6009,7 +6092,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/7U7UglyQQpG7aDSlwgggwqX6ICy.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/nnrITCU29fAVFDngn3eEwBsECPX.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nnrITCU29fAVFDngn3eEwBsECPX.jpg",
+      "addedDate": "2018-12-01T07:43:45Z"
     },
     {
       "title": "Donnie Darko",
@@ -6082,7 +6166,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/yPtjm9QVsXLMsrYFEFZGzdXqsbz.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/msCHK5Kh1YbdZ0zPJ2nzPUhhSN9.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/msCHK5Kh1YbdZ0zPJ2nzPUhhSN9.jpg",
+      "addedDate": "2023-03-11T10:09:01Z"
     },
     {
       "title": "Drinking Buddies",
@@ -6155,7 +6240,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/iunbsMWtkwfrtRzU7hdCHhPjjJf.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/d8CHsjcTWV7HylrAXdR9UtY3HFG.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/d8CHsjcTWV7HylrAXdR9UtY3HFG.jpg",
+      "addedDate": "2020-07-01T06:43:52Z"
     },
     {
       "title": "Drive",
@@ -6228,7 +6314,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/bKkioOHOi0ZD4dM7lnNBaOsmoQ0.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/hoyAALgfmjMEK7O1wZ4r8wT91RP.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hoyAALgfmjMEK7O1wZ4r8wT91RP.jpg",
+      "addedDate": "2020-12-21T19:27:51Z"
     },
     {
       "title": "Dune",
@@ -6300,7 +6387,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/34Hr4bEzF30jd6sEvI4HihEUEI8.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/jYEW5xZkZk2WTrdbMGAPFuBqbDc.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jYEW5xZkZk2WTrdbMGAPFuBqbDc.jpg",
+      "addedDate": "2021-12-31T17:02:44Z"
     },
     {
       "title": "Dune: Part Two",
@@ -6372,7 +6460,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/zYLP7Uiqz6XqoiQLAu4XQ6DRUMz.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/eZ239CUp1d6OryZEBPnO2n87gMG.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/eZ239CUp1d6OryZEBPnO2n87gMG.jpg",
+      "addedDate": "2024-05-29T06:21:39Z"
     },
     {
       "title": "Dungeons & Dragons Honor Among Thieves",
@@ -6446,7 +6535,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/x7F5trNnQIbil166689NT8cATgT.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/AdBXP8e6K3FYdDrMx3Wr6WZqCYF.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/AdBXP8e6K3FYdDrMx3Wr6WZqCYF.jpg",
+      "addedDate": "2026-09-22T05:56:49Z"
     },
     {
       "title": "Dunkirk (2017)",
@@ -6519,7 +6609,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/pcVC6wvEVodaUxkTsUkXlgVrXHF.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/pTwF9hLkqAtuOqXMdOyPwz4AgnI.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/pTwF9hLkqAtuOqXMdOyPwz4AgnI.jpg",
+      "addedDate": "2020-03-05T07:37:39Z"
     },
     {
       "title": "Easy A",
@@ -6590,7 +6681,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/7yBY6J83pNxDmroijh3YIMMFWbc.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/30rvmoEBqovm723agDJ3QddWXcY.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/30rvmoEBqovm723agDJ3QddWXcY.jpg",
+      "addedDate": "2021-04-16T05:47:51Z"
     },
     {
       "title": "Eraser",
@@ -6663,7 +6755,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/mXhbxTRAn15TWUa1r2lM373tUDz.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/8n6ZCFJWwK7UiX7NYuIEvHLRPYG.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8n6ZCFJWwK7UiX7NYuIEvHLRPYG.jpg",
+      "addedDate": "2024-01-05T14:02:07Z"
     },
     {
       "title": "Everything Everywhere All at Once",
@@ -6737,7 +6830,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/kiros9XpKnh6bzC4sfZhtHaQ0Y7.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/fIwiFha3WPu5nHkBeMQ4GzEk0Hv.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fIwiFha3WPu5nHkBeMQ4GzEk0Hv.jpg",
+      "addedDate": "2024-04-30T20:57:23Z"
     },
     {
       "title": "Evolution",
@@ -6810,7 +6904,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/h8CBygeqQdsbTfw4PV12TvFEPOJ.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/uQVXQ7VI0jbLDo5QwGGyLQUd1so.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/uQVXQ7VI0jbLDo5QwGGyLQUd1so.jpg",
+      "addedDate": "2022-02-17T15:34:42Z"
     },
     {
       "title": "Ex_Machina",
@@ -6882,7 +6977,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/3w5SKDygaRrZDivTeYhPKa2L0Ru.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/uqOuJ50EtTj7kkDIXP8LCg7G45D.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/uqOuJ50EtTj7kkDIXP8LCg7G45D.jpg",
+      "addedDate": "2017-10-02T07:05:33Z"
     },
     {
       "title": "Falling Down",
@@ -6955,7 +7051,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/2TUXI0uX7kUq2yoO2JA1irXGx7G.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/cS45swrlrTJijH1RblBLe8LlW2p.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cS45swrlrTJijH1RblBLe8LlW2p.jpg",
+      "addedDate": "2019-02-02T11:51:00Z"
     },
     {
       "title": "Fargo (1996)",
@@ -7028,7 +7125,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/6QqEsIx9KuLqD8auHmXWe7vJhOy.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/747dgDfL5d8esobk7h4odaOFhUq.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/747dgDfL5d8esobk7h4odaOFhUq.jpg",
+      "addedDate": "2021-03-08T07:52:49Z"
     },
     {
       "title": "Fearless Vampire Killers",
@@ -7100,7 +7198,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/aXFdyoMYWsL97WyHCHLyWf0qT84.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/pmO4NERkXjJiCfpEuLT1raZS5fA.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/pmO4NERkXjJiCfpEuLT1raZS5fA.jpg",
+      "addedDate": "2020-04-03T05:27:40Z"
     },
     {
       "title": "Fight Club",
@@ -7172,7 +7271,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/5sLBZtBzmL9Xd5MdGyqymgM9kPY.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/c6OLXfKAk5BKeR6broC8pYiCquX.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/c6OLXfKAk5BKeR6broC8pYiCquX.jpg",
+      "addedDate": "2018-12-10T07:37:13Z"
     },
     {
       "title": "First Reformed",
@@ -7243,7 +7343,42 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/wHM2C1LGmbtiQZz3c69aPCBAOCe.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/mLwIDLa1FMkbKLteZRTatyvWLHX.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mLwIDLa1FMkbKLteZRTatyvWLHX.jpg",
+      "addedDate": "2020-06-14T09:46:14Z"
+    },
+    {
+      "title": "Flow",
+      "store_id": null,
+      "year": 2024,
+      "genre": "Kids & Family",
+      "description": "Kaum hat sich die kleine schwarze Katze den Schlaf aus den Augen gerieben, muss sie erschrocken feststellen, dass eine gewaltige Flut die alte Welt unter sich begräbt. Gerade noch so rettet sie sich auf ein Segelboot, wo nach und nach auch ein diebisches Äffchen, ein gutmütiger Labrador, ein schläfriges Wasserschwein und ein stolzer Sekretärvogel Zuflucht finden. Schon bald wird klar: Ihre Verschiedenheit ist ihre Stärke und gemeinsam stellen sie sich den Herausforderungen der neuen Welt.",
+      "director": "Unknown",
+      "addedDate": "2026-11-09T06:43:25Z",
+      "source_key": "4948dc14c8bf9589ed54",
+      "library_year": 2025,
+      "tmdb_id": 823219,
+      "tmdb_url": "https://www.themoviedb.org/movie/823219",
+      "tmdb_checked_at": "2026-11-09T11:25:17Z",
+      "match": {
+        "status": "matched",
+        "method": "manual_override",
+        "override_id": 823219
+      },
+      "original_title": "Straume",
+      "release_date": "2024-08-29",
+      "runtime_minutes": 84,
+      "genres": [
+        "Abenteuer",
+        "Animation",
+        "Familie",
+        "Fantasy"
+      ],
+      "directors": [
+        "Gints Zilbalodis"
+      ],
+      "cast": [],
+      "poster_url": "https://image.tmdb.org/t/p/w500/4iRNBHBHbvDAg3BY4Sy0SIErwV2.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/pZfpUMEJzw9BZHtXuZzzOrRxtMa.jpg"
     },
     {
       "title": "Fluch der Karibik",
@@ -7316,7 +7451,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/k150viTPWY84dvtw2GgWE6K1CNV.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/uRNgkJSkNBFbbn9fPsEjDIy8Sh3.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/uRNgkJSkNBFbbn9fPsEjDIy8Sh3.jpg",
+      "addedDate": "2020-07-21T05:32:23Z"
     },
     {
       "title": "Forrest Gump",
@@ -7389,7 +7525,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/zUWRCzac72YuO9k5kEWSe0aGbs7.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/66Kn4XWhkuPkJxOJyPEx4U2CUfN.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/66Kn4XWhkuPkJxOJyPEx4U2CUfN.jpg",
+      "addedDate": "2021-06-21T11:01:40Z"
     },
     {
       "title": "Friday the 13th",
@@ -7460,7 +7597,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/lMu5mFfepZqUru9wJthvMvMTcGK.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/edVRp9npNwQwJtD05KyZlzp1J2p.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/edVRp9npNwQwJtD05KyZlzp1J2p.jpg",
+      "addedDate": "2020-10-05T18:19:05Z"
     },
     {
       "title": "Full Metal Jacket",
@@ -7532,7 +7670,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/hi9TcrQZ6HjFoNMhgnxTM7wF4Gy.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/3k2TRmqMjgt7tcwkYwZQdctnty3.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3k2TRmqMjgt7tcwkYwZQdctnty3.jpg",
+      "addedDate": "2020-01-09T08:40:37Z"
     },
     {
       "title": "Furiosa: A Mad Max Saga",
@@ -7605,7 +7744,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/jhq0IGZLeWwJbj2gCAevaT8MlSS.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/raph7qjAGTMXaIjVxt6ZDSXRzUr.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/raph7qjAGTMXaIjVxt6ZDSXRzUr.jpg",
+      "addedDate": "2024-12-26T07:38:07Z"
     },
     {
       "title": "Furiosa: A Mad Max Saga: Black & Chrome",
@@ -7678,7 +7818,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/jhq0IGZLeWwJbj2gCAevaT8MlSS.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/raph7qjAGTMXaIjVxt6ZDSXRzUr.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/raph7qjAGTMXaIjVxt6ZDSXRzUr.jpg",
+      "addedDate": "2025-06-16T07:35:16Z"
     },
     {
       "title": "Für ein paar Dollar mehr",
@@ -7749,7 +7890,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/7dCfBO7edmrh1OwwnaU2HonVKvD.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/hs6OPto38fF589ScpGhl7uSU4MI.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hs6OPto38fF589ScpGhl7uSU4MI.jpg",
+      "addedDate": "2025-03-15T21:20:57Z"
     },
     {
       "title": "Für eine Handvoll Dollar",
@@ -7820,7 +7962,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/zz6TyEpT5kcepvo2SFSsisy95io.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/9gMkOYzk7P9QXwndhLRAC8cMZcJ.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9gMkOYzk7P9QXwndhLRAC8cMZcJ.jpg",
+      "addedDate": "2023-06-21T19:14:01Z"
     },
     {
       "title": "Galaxy Quest",
@@ -7893,7 +8036,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/zwXktS3WhnXmqPCq9saItITes7f.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/yzQ0mkz1OUJKtUK1NWp53jiGcaJ.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/yzQ0mkz1OUJKtUK1NWp53jiGcaJ.jpg",
+      "addedDate": "2020-04-16T05:44:42Z"
     },
     {
       "title": "Game Night (2018)",
@@ -7967,7 +8111,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/cA0jTNbZhvjrUP8UxiVgjbByaQS.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/aKPCZwkSZy2ASLo0QKeYmcoplfA.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/aKPCZwkSZy2ASLo0QKeYmcoplfA.jpg",
+      "addedDate": "2024-06-25T06:01:21Z"
     },
     {
       "title": "Garden State",
@@ -8040,7 +8185,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/h3iqYiGS6F3y7GxaS4AT8nFxZ2i.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/2mu6XkJE0B6nK5jeOvXOyWPVmhw.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2mu6XkJE0B6nK5jeOvXOyWPVmhw.jpg",
+      "addedDate": "2020-06-01T06:04:31Z"
     },
     {
       "title": "Gattaca",
@@ -8112,7 +8258,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/s6EyefhKuCnFl3AOo2zX4TIi6qc.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/hPsCR1ny6GnctJkWqeJwihTDD7T.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hPsCR1ny6GnctJkWqeJwihTDD7T.jpg",
+      "addedDate": "2021-11-17T16:10:07Z"
     },
     {
       "title": "Get Out",
@@ -8185,7 +8332,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/vXhbLURmAKe8hYXboFk8zzp3HlT.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/bBQHALHRAaaORlPNXv7fNcRXYdx.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bBQHALHRAaaORlPNXv7fNcRXYdx.jpg",
+      "addedDate": "2020-03-01T09:20:44Z"
     },
     {
       "title": "Girls Club ",
@@ -8257,7 +8405,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/9t5LVPdaWSuUvWgw5UjOgwi4UkL.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/nP3y0TkR6XniFs9J53qQkg4Bnnk.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nP3y0TkR6XniFs9J53qQkg4Bnnk.jpg",
+      "addedDate": "2024-04-30T21:02:57Z"
     },
     {
       "title": "Gladiator (Extended Cut)",
@@ -8330,7 +8479,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/32wJunadteAxUkXnbQ1lHjjp5pa.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/Ar7QuJ7sJEiC0oP3I8fKBKIQD9u.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/Ar7QuJ7sJEiC0oP3I8fKBKIQD9u.jpg",
+      "addedDate": "2020-01-24T10:45:55Z"
     },
     {
       "title": "Goodfellas (Remastered Feature)",
@@ -8402,7 +8552,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/9HJ5o6PYEa03UwnJhQ2thO8CFPW.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/gILte6Zd7m1YneIr6MVhh30S9pr.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/gILte6Zd7m1YneIr6MVhh30S9pr.jpg",
+      "addedDate": "2019-02-02T11:49:42Z"
     },
     {
       "title": "Gravity",
@@ -8463,7 +8614,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/4h7YZtlvjXijWkvorbirHzJRlyh.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/a2n6bKD7qhCPCAEALgsAhWOAQcc.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/a2n6bKD7qhCPCAEALgsAhWOAQcc.jpg",
+      "addedDate": "2018-06-21T07:38:59Z"
     },
     {
       "title": "Green Room",
@@ -8536,7 +8688,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/sx2LspEzjc2oPC6HeAooS87HCtV.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/qRjahAq8JVoJBT2x18x2A01kxZT.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qRjahAq8JVoJBT2x18x2A01kxZT.jpg",
+      "addedDate": "2018-04-30T07:03:44Z"
     },
     {
       "title": "Guardians of the Galaxy",
@@ -8609,7 +8762,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/9pbW0r2YIkyWCOieSAUPrmS9cDp.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/uLtVbjvS1O7gXL8lUOwsFOH4man.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/uLtVbjvS1O7gXL8lUOwsFOH4man.jpg",
+      "addedDate": "2018-08-24T06:10:07Z"
     },
     {
       "title": "Guardians of the Galaxy Vol. 2",
@@ -8682,7 +8836,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/ckujEWphKR2NG3vLLhUaLzJEGny.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/aJn9XeesqsrSLKcHfHP4u5985hn.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
+      "addedDate": "2018-08-24T06:10:07Z"
     },
     {
       "title": "Heat",
@@ -8755,7 +8910,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/9fMjOLFXGGRcrazhstY8VzpFPm5.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/uI22JkEMediWyiRqhllNqeeGtW0.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/uI22JkEMediWyiRqhllNqeeGtW0.jpg",
+      "addedDate": "2026-03-09T07:02:19Z"
     },
     {
       "title": "Hellboy",
@@ -8827,7 +8983,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/3kuiYIE27JyNE4Ov4JGzAw64QTN.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/avwEj8wiywFH6FZ6h2wzvyJpiH7.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/avwEj8wiywFH6FZ6h2wzvyJpiH7.jpg",
+      "addedDate": "2019-01-30T12:29:42Z"
     },
     {
       "title": "Hellboy II: The Golden Army",
@@ -8899,7 +9056,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/A9T6jTID9gOeJgAkmpIs3Yhx3tp.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/gqQKxYVIaYv53Qoy72nQqQxdXYF.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/gqQKxYVIaYv53Qoy72nQqQxdXYF.jpg",
+      "addedDate": "2019-04-02T18:39:01Z"
     },
     {
       "title": "Her (2013)",
@@ -8972,7 +9130,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/eCOtqtfvn7mxGl6nfmq4b1exJRc.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/1YnZchmaGc8dchgRPDpR1KGrixA.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/1YnZchmaGc8dchgRPDpR1KGrixA.jpg",
+      "addedDate": "2020-10-05T18:18:11Z"
     },
     {
       "title": "Hereditary",
@@ -9045,7 +9204,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/rJa82jhAd0ipMVCtg43CNsfncX0.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/pS9Aub8MPyQbENblGD8mHeaqMuv.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/pS9Aub8MPyQbENblGD8mHeaqMuv.jpg",
+      "addedDate": "2019-04-18T05:34:41Z"
     },
     {
       "title": "Heretic",
@@ -9118,7 +9278,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/fjtzICSuwDf9dMDUtBLMHz08KOQ.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/ag66gJCiZ06q1GSJuQlhGLi3Udx.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ag66gJCiZ06q1GSJuQlhGLi3Udx.jpg",
+      "addedDate": "2026-07-06T04:55:25Z"
     },
     {
       "title": "Hot Fuzz - Zwei abgewichste Profis",
@@ -9191,7 +9352,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/2XZ5B1yTAaRur9YW1sryHEkyx7E.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/9rMSCFH9zhv1vILpEZQlUJs9iUm.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9rMSCFH9zhv1vILpEZQlUJs9iUm.jpg",
+      "addedDate": "2024-08-23T08:12:56Z"
     },
     {
       "title": "Hot Rod",
@@ -9263,7 +9425,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/hy4g48Y1SuaZhlNBVYgZtu4H22v.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/R0p2aJVD7NTrCJFbDlTPKoVCCz.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/R0p2aJVD7NTrCJFbDlTPKoVCCz.jpg",
+      "addedDate": "2018-08-03T06:48:59Z"
     },
     {
       "title": "Hot Shots!",
@@ -9336,7 +9499,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/iRiwP5WAwJdQx1qps8iNxBEa5ze.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/4RriqSJFCQkYpRhxFnQGh3sxZYY.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4RriqSJFCQkYpRhxFnQGh3sxZYY.jpg",
+      "addedDate": "2018-08-20T07:07:35Z"
     },
     {
       "title": "Hot Shots! Der zweite Versuch",
@@ -9409,7 +9573,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/6hRhqMFz4J71T2aHnAOmcJfOPsN.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/lKoEEg7Nf1FUPSzRR0oMtPIqiyX.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lKoEEg7Nf1FUPSzRR0oMtPIqiyX.jpg",
+      "addedDate": "2019-07-21T05:59:51Z"
     },
     {
       "title": "Hulk (2003)",
@@ -9482,7 +9647,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/6NdjC4Ke3clvslxx8DfaAytwcbH.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/8vQBXqDbb30qNpBcNYwTesSg75.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8vQBXqDbb30qNpBcNYwTesSg75.jpg",
+      "addedDate": "2020-06-14T10:02:23Z"
     },
     {
       "title": "Identity",
@@ -9554,7 +9720,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/hHxL40oBvuzNYNUVDlUsCnRwBrz.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/iiPBXynI88EgnpunHoUlBCnLpSE.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/iiPBXynI88EgnpunHoUlBCnLpSE.jpg",
+      "addedDate": "2017-04-04T07:30:17Z"
     },
     {
       "title": "Inception",
@@ -9627,7 +9794,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/t5WUY5ZSxwVIVExaMZmmIj88BKA.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
+      "addedDate": "2019-06-05T05:34:14Z"
     },
     {
       "title": "Independence Day",
@@ -9700,7 +9868,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/xCTFGyQksFAvcmUMCc2hZG4hmdr.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/kFI1oF6KVnLEbUT7yLIbKXeyvu.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kFI1oF6KVnLEbUT7yLIbKXeyvu.jpg",
+      "addedDate": "2018-07-04T13:31:01Z"
     },
     {
       "title": "Indiana Jones and the Last Crusade",
@@ -9772,7 +9941,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/kaAhHlHv2SU7AK5xOMYzsqe2mrr.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/7KGdTzKux4fp5sW7hUM33NWqBU1.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7KGdTzKux4fp5sW7hUM33NWqBU1.jpg",
+      "addedDate": "2020-04-30T19:09:52Z"
     },
     {
       "title": "Indiana Jones and the Raiders of the Lost Ark",
@@ -9844,7 +10014,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/8cWx3s2Wfo15DzUyIE8scg3eNdb.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/zPACwR32amTNvzId9qyapCWXYDJ.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/zPACwR32amTNvzId9qyapCWXYDJ.jpg",
+      "addedDate": "2022-07-03T05:27:04Z"
     },
     {
       "title": "Indiana Jones and the Temple of Doom",
@@ -9916,7 +10087,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/7NBTcdNtaTEYoKRP8VdXRgWO6rk.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/f133nWlU6yUkZqqwcCXCbTEJWHr.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/f133nWlU6yUkZqqwcCXCbTEJWHr.jpg",
+      "addedDate": "2022-12-03T21:54:49Z"
     },
     {
       "title": "Inglourious Basterds",
@@ -9989,7 +10161,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/7Nq9bqyloLwYLkrG7q0tHI6kO45.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/hwNtEmmugU5Yd7hpfprNWI0DGIn.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hwNtEmmugU5Yd7hpfprNWI0DGIn.jpg",
+      "addedDate": "2019-08-14T07:28:04Z"
     },
     {
       "title": "Insomnia (2002)",
@@ -10062,7 +10235,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/nDjJyjHkNfWllvBVsbA7BIB7J8C.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/jU8MC5uSgBkZXyZYGtZgMsMsfeN.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jU8MC5uSgBkZXyZYGtZgMsMsfeN.jpg",
+      "addedDate": "2020-08-24T17:03:05Z"
     },
     {
       "title": "Interstellar (2014)",
@@ -10135,7 +10309,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/hHdhfkkzt0Mwec33Ux177Z7CO8w.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/8sNiAPPYU14PUepFNeSNGUTiHW.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8sNiAPPYU14PUepFNeSNGUTiHW.jpg",
+      "addedDate": "2017-11-01T11:00:11Z"
     },
     {
       "title": "Interview With the Vampire: The Vampire Chronicles",
@@ -10208,7 +10383,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/6I0YePV2dowtoxZ2COHja17h6Uk.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/3fChciF2G1wXHsyTfJD9y7uN6Il.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3fChciF2G1wXHsyTfJD9y7uN6Il.jpg",
+      "addedDate": "2020-04-01T14:29:56Z"
     },
     {
       "title": "Iron Man",
@@ -10281,7 +10457,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/wyEqQ7dvnYPR0z8M8ZDW5VSvRwZ.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/cKvDv2LpwVEqbdXWoQl4XgGN6le.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cKvDv2LpwVEqbdXWoQl4XgGN6le.jpg",
+      "addedDate": "2019-07-05T07:57:05Z"
     },
     {
       "title": "Iron Man 2",
@@ -10354,7 +10531,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/nAhGVbqwWXjUMAaZvlmPr6nJOfR.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/7lmBufEG7P7Y1HClYK3gCxYrkgS.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7lmBufEG7P7Y1HClYK3gCxYrkgS.jpg",
+      "addedDate": "2019-08-24T06:21:03Z"
     },
     {
       "title": "Iron Man 3",
@@ -10427,7 +10605,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/h0vJ6sTYWQmqenNqRa1IiW1t0Ys.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/4TSqtluelcWByj8YZdqwzQVjI0O.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4TSqtluelcWByj8YZdqwzQVjI0O.jpg",
+      "addedDate": "2019-09-29T05:39:06Z"
     },
     {
       "title": "It Follows (2014)",
@@ -10499,7 +10678,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/iwnQ1JH1wdWrGYkgWySptJ5284A.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/ikaRI4yMxKOje5SmOlAhOBUnicL.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ikaRI4yMxKOje5SmOlAhOBUnicL.jpg",
+      "addedDate": "2019-11-01T08:08:34Z"
     },
     {
       "title": "Jack Reacher",
@@ -10573,7 +10753,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/lGv7QsiMuRbRcmKEk65H2QZkjzf.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/iwvP8XVpYVmJ3xfF9xdBi5uAOWl.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/iwvP8XVpYVmJ3xfF9xdBi5uAOWl.jpg",
+      "addedDate": "2026-09-22T05:55:51Z"
     },
     {
       "title": "Jack Reacher: Never Go Back",
@@ -10646,7 +10827,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/axzrn13RTnUjXOSe1kS0RWh5Ors.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/ww1eIoywghjoMzRLRIcbJLuKnJH.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ww1eIoywghjoMzRLRIcbJLuKnJH.jpg",
+      "addedDate": "2026-09-22T05:55:51Z"
     },
     {
       "title": "Jackie Brown",
@@ -10719,7 +10901,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/dyRpD0W6bJbdvNy9mRuviajaYPj.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/gvaeY5kz3wHrMU6xLdnybziwYXw.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/gvaeY5kz3wHrMU6xLdnybziwYXw.jpg",
+      "addedDate": "2020-01-11T07:20:57Z"
     },
     {
       "title": "Jagd auf Roter Oktober",
@@ -10791,7 +10974,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/t761Bq9wNC28JpKbJldaOC9ZqOR.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/5jCpCFrku6wmCZOYZWhHOC2j8IU.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5jCpCFrku6wmCZOYZWhHOC2j8IU.jpg",
+      "addedDate": "2022-03-19T09:08:47Z"
     },
     {
       "title": "John Wick",
@@ -10863,7 +11047,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/erBsqm9gNvq7pQTPrkXdRpF6CFw.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/ff2ti5DkA9UYLzyqhQfI2kZqEuh.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ff2ti5DkA9UYLzyqhQfI2kZqEuh.jpg",
+      "addedDate": "2026-08-21T01:12:04Z"
     },
     {
       "title": "John Wick: Kapitel 4",
@@ -10936,7 +11121,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/uDFv0wYODTdRUvljRMs3LaX9nq3.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/7I6VUdPj6tQECNHdviJkUHD2u89.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7I6VUdPj6tQECNHdviJkUHD2u89.jpg",
+      "addedDate": "2026-06-01T20:21:34Z"
     },
     {
       "title": "Joker",
@@ -11009,7 +11195,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/t3ZtGpIqoQgMY5hMHSLJSD8aguU.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/rlay2M5QYvi6igbGcFjq8jxeusY.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rlay2M5QYvi6igbGcFjq8jxeusY.jpg",
+      "addedDate": "2024-10-13T08:22:47Z"
     },
     {
       "title": "Jurassic Park",
@@ -11081,7 +11268,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/zgvLWNSKBrufJM8OAtVxJ2s7Nf8.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/4SyDTF02R5BepqSdQmOaNCHObzF.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4SyDTF02R5BepqSdQmOaNCHObzF.jpg",
+      "addedDate": "2017-10-19T16:16:55Z"
     },
     {
       "title": "Jurassic Park III",
@@ -11155,7 +11343,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/qrMK9LcVAIrOY4meJDvfIoF8fx0.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/8v8x4vVbRgrsdU3M4drnD7HQbfe.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8v8x4vVbRgrsdU3M4drnD7HQbfe.jpg",
+      "addedDate": "2019-05-13T14:20:07Z"
     },
     {
       "title": "Kill Bill: Vol. 1",
@@ -11227,7 +11416,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/blQvG2f7Lm8DFOn4lAfAZ1zEHVG.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/iffzIhuLAO38Po6sh1s6ZEVwlNL.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/iffzIhuLAO38Po6sh1s6ZEVwlNL.jpg",
+      "addedDate": "2018-06-21T07:33:55Z"
     },
     {
       "title": "Kill Bill: Vol. 2",
@@ -11300,7 +11490,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/qUkZvuQT6mF6UAc8x9bGRn8WC4M.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/pgG6tzJzC8mjGqhaT8IWwEk00xf.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/pgG6tzJzC8mjGqhaT8IWwEk00xf.jpg",
+      "addedDate": "2018-07-02T18:48:12Z"
     },
     {
       "title": "King Kong (2005)",
@@ -11373,7 +11564,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/y68X15hwEJTW2PaJkl5rrJpnHyt.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/mRM2NB0i3wv4HqxXvwIjEVi4Qqq.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mRM2NB0i3wv4HqxXvwIjEVi4Qqq.jpg",
+      "addedDate": "2018-05-28T11:24:44Z"
     },
     {
       "title": "Knives Out - Mord ist Familiensache",
@@ -11446,7 +11638,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/ftCASOlSQ6QtjS3TIJB7xXHW5H9.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/4HWAQu28e2yaWrtupFPGFkdNU7V.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4HWAQu28e2yaWrtupFPGFkdNU7V.jpg",
+      "addedDate": "2020-12-01T07:49:32Z"
     },
     {
       "title": "L.A. Crash",
@@ -11517,7 +11710,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/tvGtnPrTBvulcnnemyULfRvCMEZ.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/l5LNCgS4hbNMnt5acKFT9G3LcMl.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/l5LNCgS4hbNMnt5acKFT9G3LcMl.jpg",
+      "addedDate": "2021-02-01T21:41:40Z"
     },
     {
       "title": "Lady Macbeth",
@@ -11588,7 +11782,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/31QqTDaVuq8r9FQqJRayFpE2oLJ.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/wztoDoglCOuiEfzl1FS6mglBioF.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/wztoDoglCOuiEfzl1FS6mglBioF.jpg",
+      "addedDate": "2021-12-24T08:05:16Z"
     },
     {
       "title": "Last Night in Soho",
@@ -11661,7 +11856,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/azdy7STEzLAyrhzeKZfl15jZYMN.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/nPWy5KISy7BbUOQcg588dflKzTL.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nPWy5KISy7BbUOQcg588dflKzTL.jpg",
+      "addedDate": "2022-09-12T05:50:52Z"
     },
     {
       "title": "Lethal Weapon",
@@ -11734,7 +11930,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/1a4XXSgPediL7bc8AgblESgH9qz.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/xinJKZQiqkdJhoYc2SXuEnhehXz.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xinJKZQiqkdJhoYc2SXuEnhehXz.jpg",
+      "addedDate": "2020-03-05T07:36:02Z"
     },
     {
       "title": "Lethal Weapon 2",
@@ -11807,7 +12004,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/cl8uqdLWE4V2U7SuzfaddgHNvWO.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/uY8i4RABFyBpH2cmFWMVLEswopD.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/uY8i4RABFyBpH2cmFWMVLEswopD.jpg",
+      "addedDate": "2020-09-17T07:28:42Z"
     },
     {
       "title": "Lethal Weapon 3",
@@ -11880,7 +12078,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/x8OVzHEC4gSb7TyBo95wxMjgy08.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/kmt9XmhmX36sJduuDVFlTgEWh9U.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kmt9XmhmX36sJduuDVFlTgEWh9U.jpg",
+      "addedDate": "2020-03-05T07:42:10Z"
     },
     {
       "title": "Lilo & Stitch",
@@ -11955,7 +12154,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/7pSdc2cuvlDrlR5nqlq4bEU1hYa.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/AcxbOWUbwtIEDisfuhNGHQNfnMK.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/AcxbOWUbwtIEDisfuhNGHQNfnMK.jpg",
+      "addedDate": "2020-07-23T18:11:53Z"
     },
     {
       "title": "Little Women",
@@ -12027,7 +12227,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/mj3FDGE6BTN0k5hRAE83yBQKXPr.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/lqxxwTRk0l7CubY6JkJdhnwJEkn.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lqxxwTRk0l7CubY6JkJdhnwJEkn.jpg",
+      "addedDate": "2021-05-09T15:19:18Z"
     },
     {
       "title": "Live Die Repeat: Edge of Tomorrow",
@@ -12099,7 +12300,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/1ajE3sEyuEvfuqTTwK4XLKO8ROe.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/4V1yIoAKPMRQwGBaSses8Bp2nsi.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4V1yIoAKPMRQwGBaSses8Bp2nsi.jpg",
+      "addedDate": "2019-06-26T09:31:02Z"
     },
     {
       "title": "Logan - The Wolverine",
@@ -12172,7 +12374,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/y4KWNN6ROnKaefdTFdu5kKMVN59.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/4DZxWNSAyksN6N3JkvpJ53Yq6zU.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4DZxWNSAyksN6N3JkvpJ53Yq6zU.jpg",
+      "addedDate": "2019-11-19T07:51:56Z"
     },
     {
       "title": "Look Who's Talking",
@@ -12244,7 +12447,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/x6FWITmMb8aGNUxWKUipkzqMip6.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/q6EN30g9zFkYuKujLVfv9EKZnZB.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/q6EN30g9zFkYuKujLVfv9EKZnZB.jpg",
+      "addedDate": "2020-04-16T05:44:05Z"
     },
     {
       "title": "Loriot: Pappa ante portas",
@@ -12315,7 +12519,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/vtJOj6mkZ8kKwDNjUgZmYwEforq.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/770r9zi6lzjDPBcvepyZv83IEeQ.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/770r9zi6lzjDPBcvepyZv83IEeQ.jpg",
+      "addedDate": "2019-11-18T21:30:24Z"
     },
     {
       "title": "Loriot: Ödipussi",
@@ -12386,7 +12591,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/akKq4D7XoE7zmNbhRSAeOJgsoL4.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/A9YapTDvV4iBKikYl6V1nBJaoxF.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/A9YapTDvV4iBKikYl6V1nBJaoxF.jpg",
+      "addedDate": "2022-09-12T05:42:45Z"
     },
     {
       "title": "Léon, der Profi (Director's Cut)",
@@ -12459,7 +12665,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/opbFMtNw76Bine2UjWfZ2TSpzVg.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/fj0hwDJEOOHllRim2BMt5L7tbjf.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fj0hwDJEOOHllRim2BMt5L7tbjf.jpg",
+      "addedDate": "2018-06-21T07:31:15Z"
     },
     {
       "title": "Mad Max",
@@ -12532,7 +12739,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/nlyVSuwvacjEDdnDZVqsJaTdeJU.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/mWQg2INejtX1PCWRAN4vseadA6H.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mWQg2INejtX1PCWRAN4vseadA6H.jpg",
+      "addedDate": "2020-04-03T05:28:09Z"
     },
     {
       "title": "Mad Max 2: Der Vollstrecker",
@@ -12605,7 +12813,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/c0LcCMUcMMImdYYbfHchfTUF29j.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/MMSI9WzRmOdqXarevQ3Kqnytrx.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/MMSI9WzRmOdqXarevQ3Kqnytrx.jpg",
+      "addedDate": "2021-04-07T19:51:37Z"
     },
     {
       "title": "Mad Max 3: Beyond Thunderdome",
@@ -12679,7 +12888,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/n3TM8ZHG4R6aZSbt3GhSTigRzaD.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/cO8zcdPhLT3UdykkXCvfhIVrgHK.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cO8zcdPhLT3UdykkXCvfhIVrgHK.jpg",
+      "addedDate": "2023-10-20T09:12:36Z"
     },
     {
       "title": "Mad Max 4: Fury Road",
@@ -12752,7 +12962,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/6zI7lI5Usf5z6wXH9KPWvGWvKS7.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/gqrnQA6Xppdl8vIb2eJc58VC1tW.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/gqrnQA6Xppdl8vIb2eJc58VC1tW.jpg",
+      "addedDate": "2019-05-22T07:26:15Z"
     },
     {
       "title": "Mario Puzo's The Godfather, Coda: The Death of Michael Corleone",
@@ -12825,7 +13036,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/iVjSuqHFFOqCFM4rdhUyysYWnnj.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/zNnjHLDtV8Ti3aworltaeaLMov4.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/zNnjHLDtV8Ti3aworltaeaLMov4.jpg",
+      "addedDate": "2023-11-21T12:00:59Z"
     },
     {
       "title": "Mars Attacks!",
@@ -12898,7 +13110,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/5qR81mv7npXFPlZwow5HkfrWSsB.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/ELsTifJ2lu4vsMhoHeZ5EnncHw.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ELsTifJ2lu4vsMhoHeZ5EnncHw.jpg",
+      "addedDate": "2020-06-01T06:05:00Z"
     },
     {
       "title": "Marvel Studios' Avengers: Endgame",
@@ -12972,7 +13185,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/ibO8Pj0aA1nwj3Q9FMpMcYZkdCA.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+      "addedDate": "2019-12-22T07:48:34Z"
     },
     {
       "title": "Matrix",
@@ -13045,7 +13259,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/iVmDLujHcV1zaMnaahKWn4TcCS6.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/tlm8UkiQsitc8rSuIAscQDCnP8d.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/tlm8UkiQsitc8rSuIAscQDCnP8d.jpg",
+      "addedDate": "2017-11-20T20:52:09Z"
     },
     {
       "title": "Meine Braut, ihr Vater und ich",
@@ -13117,7 +13332,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/hbTnBCzB0fqskEgbUUrMosz4vci.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/qcVrlyPFlPgCsmzorvELvpJN9Be.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qcVrlyPFlPgCsmzorvELvpJN9Be.jpg",
+      "addedDate": "2024-11-27T21:38:03Z"
     },
     {
       "title": "Men In Black",
@@ -13191,7 +13407,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/ebkJnaXRREQEzd3yMKuEDC827We.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/aJMhYOP80cVBtq5ku3uyqASF3Ol.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/aJMhYOP80cVBtq5ku3uyqASF3Ol.jpg",
+      "addedDate": "2020-08-24T16:57:17Z"
     },
     {
       "title": "Midsommar",
@@ -13264,7 +13481,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/53p7M8w35cGCjQVsgVLpPIYEck0.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/aAM3cQmYGjjLQ24m0F0RWfjKQ57.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/aAM3cQmYGjjLQ24m0F0RWfjKQ57.jpg",
+      "addedDate": "2020-10-26T19:16:11Z"
     },
     {
       "title": "Minority Report",
@@ -13337,7 +13555,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/pW1k71rXEZoXESdg9OTuorEDfvV.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/PrMb3oeEluauy0q9ZO5xL33A6C.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/PrMb3oeEluauy0q9ZO5xL33A6C.jpg",
+      "addedDate": "2022-09-12T05:48:00Z"
     },
     {
       "title": "Mission: Impossible",
@@ -13410,7 +13629,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/dNClI7niLaky8fS96fO5JF2UvgR.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/sra8XnL96OyLHENcglmZJg6HA8z.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sra8XnL96OyLHENcglmZJg6HA8z.jpg",
+      "addedDate": "2023-12-18T06:23:50Z"
     },
     {
       "title": "Mission: Impossible - Dead Reckoning",
@@ -13483,7 +13703,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/nrQiVtkneYx9doR1ARG6HDrImpv.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/628Dep6AxEtDxjZoGP78TsOxYbK.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/628Dep6AxEtDxjZoGP78TsOxYbK.jpg",
+      "addedDate": "2025-10-20T12:26:58Z"
     },
     {
       "title": "Mission: Impossible - Fallout",
@@ -13555,7 +13776,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/sXzh9I53LWGbVqBucXiHMLXlVGm.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/5jnoAA74Qwb5w6B9FMvnc20n6Ie.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5jnoAA74Qwb5w6B9FMvnc20n6Ie.jpg",
+      "addedDate": "2020-10-05T18:16:36Z"
     },
     {
       "title": "Mission: Impossible - Phantom Protokoll",
@@ -13628,7 +13850,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/qW9vtDoRyeslZDX1i8zdQckw8Q4.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/hqyjzDRCs1N5gEsh2gklzPdsEFD.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hqyjzDRCs1N5gEsh2gklzPdsEFD.jpg",
+      "addedDate": "2023-05-17T19:47:42Z"
     },
     {
       "title": "Mission: Impossible - Rogue Nation",
@@ -13700,7 +13923,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/t4MxhCDLlWPg0ZhSJFD4n4ElKpD.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/vYIUN5rrCncHFY8WvcuXQlM4hk5.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vYIUN5rrCncHFY8WvcuXQlM4hk5.jpg",
+      "addedDate": "2023-05-17T19:47:10Z"
     },
     {
       "title": "Mission: Impossible - The Final Reckoning",
@@ -13773,7 +13997,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/pon10ZnAfQFSl7FeT2947agNUKL.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/xPNDRM50a58uvv1il2GVZrtWjkZ.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xPNDRM50a58uvv1il2GVZrtWjkZ.jpg",
+      "addedDate": "2025-10-20T12:26:58Z"
     },
     {
       "title": "Mission: Impossible II",
@@ -13846,7 +14071,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/egqhogOAaR5nuljs89mVRJWCSyL.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/24DZfupDlhXeTchmcOkoGRhP5Vg.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/24DZfupDlhXeTchmcOkoGRhP5Vg.jpg",
+      "addedDate": "2023-12-18T06:23:50Z"
     },
     {
       "title": "Mission: Impossible III",
@@ -13919,7 +14145,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/oEOuuYZ82Geduj8dlNEdL7SRPwr.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/bYKeB9uUcPmvikjouEEQ86uvPw9.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bYKeB9uUcPmvikjouEEQ86uvPw9.jpg",
+      "addedDate": "2023-12-18T06:23:50Z"
     },
     {
       "title": "Moon",
@@ -13991,7 +14218,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/wVXMA2iqJfcDHpH798pVw5qfcme.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/mvUAo9ACgmLpS4Ofc2IwD4n7WCt.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mvUAo9ACgmLpS4Ofc2IwD4n7WCt.jpg",
+      "addedDate": "2019-06-03T10:33:53Z"
     },
     {
       "title": "Moonrise Kingdom",
@@ -14064,7 +14292,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/zfdzruZYrME0ZOSnLyrEVSlTsds.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/bsYv9IFIGfpAV0oUbe7YTiyxhox.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bsYv9IFIGfpAV0oUbe7YTiyxhox.jpg",
+      "addedDate": "2021-06-29T20:06:40Z"
     },
     {
       "title": "mother!",
@@ -14137,7 +14366,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/56Q4fzC7qOeCMAbvAi8MTzu0duq.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/2wS8pMZgvzq7kaZb5LHX54poQnA.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2wS8pMZgvzq7kaZb5LHX54poQnA.jpg",
+      "addedDate": "2019-04-18T05:33:41Z"
     },
     {
       "title": "Männer, die auf Ziegen starren",
@@ -14209,7 +14439,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/zW75KJrdMTsgKAv6yutOHAEq9u2.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/lAJpYAepH7bic2TmE7ZP8q404P4.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lAJpYAepH7bic2TmE7ZP8q404P4.jpg",
+      "addedDate": "2025-08-22T10:03:56Z"
     },
     {
       "title": "Naked Gun 33 1/3: The Final Insult",
@@ -14281,7 +14512,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/s8tUoDrKDCQUEwBZ5YKDZFciLGx.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/rZBc0S32bVNYOGJ5sKYsHhOwIT5.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rZBc0S32bVNYOGJ5sKYsHhOwIT5.jpg",
+      "addedDate": "2020-04-07T16:23:10Z"
     },
     {
       "title": "Night On Earth",
@@ -14353,7 +14585,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/ktejUHCo6c8DekpOtR3uSb6oDXr.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/s7lwxcX5iZuOdoQhM77WyQaPtWv.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/s7lwxcX5iZuOdoQhM77WyQaPtWv.jpg",
+      "addedDate": "2021-06-29T19:59:15Z"
     },
     {
       "title": "Nightcrawler",
@@ -14426,7 +14659,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/mS31LPorjccfhz0vugcokkSXGQg.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/aCnpRvVBqltC8ZuVP67C4fdUCb4.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/aCnpRvVBqltC8ZuVP67C4fdUCb4.jpg",
+      "addedDate": "2021-01-29T07:52:44Z"
     },
     {
       "title": "Nightmare On Elm Street: Mörderische Träume",
@@ -14497,7 +14731,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/nQIhO6n3xmdC9k6wjtbFaTlKPeG.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/nzSjTiecdosBfwMGAdpt9CxltCI.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nzSjTiecdosBfwMGAdpt9CxltCI.jpg",
+      "addedDate": "2019-06-01T06:36:54Z"
     },
     {
       "title": "Nosferatu",
@@ -14569,7 +14804,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/yig53WzBjX84iSYWKb2BCYYxFLM.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/gprjiZWY43vxSKngMha1wfb5TGG.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/gprjiZWY43vxSKngMha1wfb5TGG.jpg",
+      "addedDate": "2025-12-05T05:58:17Z"
     },
     {
       "title": "Oblivion",
@@ -14643,7 +14879,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/hE8f0jzayDPJjF647OkvC1H3aUp.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/2kVt8oj1cSz4GAP0Hi8SESOiH0T.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2kVt8oj1cSz4GAP0Hi8SESOiH0T.jpg",
+      "addedDate": "2017-10-02T07:05:56Z"
     },
     {
       "title": "Ocean's Eleven (2001)",
@@ -14715,7 +14952,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/vtNXxWKcvp9m9EyLyOavDpRVx4g.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/ncoqdHs1poUaBqyKic9YI8ai7MP.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ncoqdHs1poUaBqyKic9YI8ai7MP.jpg",
+      "addedDate": "2020-04-01T18:13:56Z"
     },
     {
       "title": "Ocean's Thirteen",
@@ -14787,7 +15025,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/hgs7voJWZJNWfrdKgizabRvK1ne.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/uS18gs16EXfFJhjA11cXj4WWPMb.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/uS18gs16EXfFJhjA11cXj4WWPMb.jpg",
+      "addedDate": "2025-06-17T08:55:23Z"
     },
     {
       "title": "Ocean's Twelve",
@@ -14859,7 +15098,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/dTdCW9RqHv6sBhy6fbyRECMO5mJ.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/5b5HrewiViLWEdMR4dmbd7ajQ8Q.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5b5HrewiViLWEdMR4dmbd7ajQ8Q.jpg",
+      "addedDate": "2025-06-17T08:55:05Z"
     },
     {
       "title": "Ohne Limit",
@@ -14932,7 +15172,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/qNiokXLGyAt5Ln8OC3XSJdiDdOK.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/9V6Yq2ZVUmyAPcPyDcCBPnkluKF.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9V6Yq2ZVUmyAPcPyDcCBPnkluKF.jpg",
+      "addedDate": "2020-06-30T07:34:20Z"
     },
     {
       "title": "Once Upon A Time In... Hollywood",
@@ -15005,7 +15246,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/5RnMRADLB7Goin16z6l4dPIBCJR.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/kKTPv9LKKs5L3oO1y5FNObxAPWI.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kKTPv9LKKs5L3oO1y5FNObxAPWI.jpg",
+      "addedDate": "2021-05-09T05:58:53Z"
     },
     {
       "title": "Only God Forgives",
@@ -15078,7 +15320,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/3ZwglNKpwv8oFaTUv1PoBMZGGdo.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/pRrQMx00P8LaXGwJXYJ2tRGoVOs.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/pRrQMx00P8LaXGwJXYJ2tRGoVOs.jpg",
+      "addedDate": "2022-12-01T19:12:31Z"
     },
     {
       "title": "Oppenheimer",
@@ -15151,7 +15394,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/9AiHV08v8RyyuHcO5wuTaTXBxfe.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/neeNHeXjMF5fXoCJRsOmkNGC7q.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/neeNHeXjMF5fXoCJRsOmkNGC7q.jpg",
+      "addedDate": "2024-12-25T07:55:38Z"
     },
     {
       "title": "Otto - Der Film",
@@ -15223,7 +15467,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/zq9WOpfKtNkDKY101aceXm1dft2.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/24iylGgh5R2afK0vZTkUjVs4lxW.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/24iylGgh5R2afK0vZTkUjVs4lxW.jpg",
+      "addedDate": "2022-09-12T05:48:46Z"
     },
     {
       "title": "Overlord",
@@ -15296,7 +15541,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/tVgzZ8Zs4ALtL38bpLLeAh9KCnJ.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/10wHo9VmDvBW9wtSZ26bgjm9GKY.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/10wHo9VmDvBW9wtSZ26bgjm9GKY.jpg",
+      "addedDate": "2020-10-26T19:19:13Z"
     },
     {
       "title": "Paddington",
@@ -15369,7 +15615,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/rbkTRrKmjUPCVNXGDp2u2OGKX8n.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/kfofK4GzJsJZhCShqZY438c8Y4Y.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kfofK4GzJsJZhCShqZY438c8Y4Y.jpg",
+      "addedDate": "2020-12-14T07:55:11Z"
     },
     {
       "title": "Paddington 2",
@@ -15442,7 +15689,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/A4HbS3Tl2RAmnDvDeUcHWr3OfJc.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/iJgNOTSBNrC90U2xyYq9ln0b35o.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/iJgNOTSBNrC90U2xyYq9ln0b35o.jpg",
+      "addedDate": "2021-03-15T07:48:36Z"
     },
     {
       "title": "Paddington in Peru",
@@ -15515,7 +15763,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/gfrVBu4GCAcsoVbzYgemhk3izn2.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/7N7CtZftqEvgojR3QloukU0oWPg.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7N7CtZftqEvgojR3QloukU0oWPg.jpg",
+      "addedDate": "2025-10-30T09:43:59Z"
     },
     {
       "title": "Panic Room",
@@ -15588,7 +15837,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/g0QKf4bQmG4lkuadfjJ6A5fIQlk.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/gJfd2SzUsvY1q1iszthJ3ryuvEA.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/gJfd2SzUsvY1q1iszthJ3ryuvEA.jpg",
+      "addedDate": "2020-10-12T06:03:22Z"
     },
     {
       "title": "Paris, Texas / Digital Remastered",
@@ -15659,7 +15909,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/wyidUZqH28S7IAAdbHsgrg7xjZU.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/fWrq3u16gaBJ6nYNWcR3XaOhQPq.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fWrq3u16gaBJ6nYNWcR3XaOhQPq.jpg",
+      "addedDate": "2017-09-19T08:54:40Z"
     },
     {
       "title": "Pirates of the Caribbean - Am Ende der Welt",
@@ -15732,7 +15983,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/ynZqp6JiraskebRAsd9FgJCT9ww.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/1jHxkVXMI5s3vRiyiZooUy1shB5.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/1jHxkVXMI5s3vRiyiZooUy1shB5.jpg",
+      "addedDate": "2020-07-23T18:10:35Z"
     },
     {
       "title": "Pirates of the Caribbean - Fluch der Karibik 2",
@@ -15805,7 +16057,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/zvfiQaOqNYvy6qVgWuvK71lv91c.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/vr6n6ZFUZvedvIlhfYcbCWcaKyW.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vr6n6ZFUZvedvIlhfYcbCWcaKyW.jpg",
+      "addedDate": "2020-06-22T05:56:19Z"
     },
     {
       "title": "Planet der Affen",
@@ -15879,7 +16132,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/avqRPFcg1E24IqsFOzMK5LPYhFR.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/1HQoPSRZR5CdNPvuSWTvz3aSQQt.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/1HQoPSRZR5CdNPvuSWTvz3aSQQt.jpg",
+      "addedDate": "2019-10-09T06:04:34Z"
     },
     {
       "title": "Platoon",
@@ -15952,7 +16206,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/4qvTVyoYRu8KPfOV1HF7p74QVjU.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/5hRvPi8z7XaGQJi1OZ3QKyJiAaA.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5hRvPi8z7XaGQJi1OZ3QKyJiAaA.jpg",
+      "addedDate": "2021-06-29T14:35:49Z"
     },
     {
       "title": "Police Academy",
@@ -16024,7 +16279,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/9ydY1hqKDmKKByOKjwzNuRt78oS.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/6qAYgsvnH4wUS9fAcrxUvUtCM6x.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/6qAYgsvnH4wUS9fAcrxUvUtCM6x.jpg",
+      "addedDate": "2020-10-01T05:39:16Z"
     },
     {
       "title": "Poltergeist (1982)",
@@ -16095,7 +16351,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/fsSMplZEzPtAbMlL2uRZIDktrQi.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/bvkPno6U02lLyvPWCnmibq4eIaN.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bvkPno6U02lLyvPWCnmibq4eIaN.jpg",
+      "addedDate": "2019-05-01T08:41:31Z"
     },
     {
       "title": "Poor Things",
@@ -16168,7 +16425,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/37x8UdSpwoTOva5AUdnHw5VCDD1.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/zh6IdheEYinU4TPtorWsjx6qPQE.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/zh6IdheEYinU4TPtorWsjx6qPQE.jpg",
+      "addedDate": "2026-01-24T21:09:49Z"
     },
     {
       "title": "Porträt einer jungen Frau in Flammen",
@@ -16232,7 +16490,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/cIH0olQrBg5yntTAl6vOvY0t3ep.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/ivJ5UzT6IzucLVfbZwCCwiJJoBz.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ivJ5UzT6IzucLVfbZwCCwiJJoBz.jpg",
+      "addedDate": "2022-05-23T07:28:15Z"
     },
     {
       "title": "Predator",
@@ -16306,7 +16565,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/zg044e8FXt1C3aSdP18DgGcNInL.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/YL3GPOiDcNraIJOVDCZsoOBoDy.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/YL3GPOiDcNraIJOVDCZsoOBoDy.jpg",
+      "addedDate": "2017-03-09T09:15:05Z"
     },
     {
       "title": "Predator 2 (Uncut)",
@@ -16379,7 +16639,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/zguyTvqPPuPgrREt29OkaLubLGF.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/8GGAXEXaTPMDGa0sCPyFcitvlD9.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8GGAXEXaTPMDGa0sCPyFcitvlD9.jpg",
+      "addedDate": "2019-10-09T06:03:27Z"
     },
     {
       "title": "Prestige: Die Meister der Magie",
@@ -16452,7 +16713,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/rN2eGbRpbJw8ZFVDiQfDxsknirP.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/yaExZh6qE2cfyK3o4kAMEq0mkgy.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/yaExZh6qE2cfyK3o4kAMEq0mkgy.jpg",
+      "addedDate": "2020-03-05T15:35:46Z"
     },
     {
       "title": "Pretty Woman",
@@ -16524,7 +16786,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/bPmMtOhywC8reIMNajAptfpjMZ4.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/rleTwPqymtOpeD2bR7asJGEmldV.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rleTwPqymtOpeD2bR7asJGEmldV.jpg",
+      "addedDate": "2021-05-17T10:39:12Z"
     },
     {
       "title": "Prisoners",
@@ -16597,7 +16860,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/d7DS20nwYT6WzbN2IvTvXvKPWjT.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/3RFmTz5h2UuFWEV4oH00XICBR9y.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3RFmTz5h2UuFWEV4oH00XICBR9y.jpg",
+      "addedDate": "2021-12-17T07:53:24Z"
     },
     {
       "title": "Project Hail Mary",
@@ -16670,7 +16934,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/qUraey7aJVaqx6NhlXl5Q7Z1rEX.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "addedDate": "2026-09-23T12:02:23Z"
     },
     {
       "title": "Prometheus - Dunkle Zeichen ",
@@ -16743,7 +17008,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/2xNRe3DXBXEHIr51oc2FsWOyIlJ.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/qDG5SlGkWNsjSJWiGTBMFI8DpzA.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qDG5SlGkWNsjSJWiGTBMFI8DpzA.jpg",
+      "addedDate": "2019-06-04T16:32:48Z"
     },
     {
       "title": "Pulp Fiction",
@@ -16816,7 +17082,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/hOg9USqmQmglmr5kGvpyg1XkhqN.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+      "addedDate": "2018-06-21T07:32:38Z"
     },
     {
       "title": "Pumping Iron",
@@ -16888,7 +17155,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/x0zmAcHKzvfjd6nBwUF6T659JjT.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/pqpOzayMENfhXNE9wzXdRGwUSho.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/pqpOzayMENfhXNE9wzXdRGwUSho.jpg",
+      "addedDate": "2025-02-24T14:42:10Z"
     },
     {
       "title": "Puss in Boots",
@@ -16963,7 +17231,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/i3bF1sUdsWkAhYWcdpUTnaNINTh.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/c5MCkebYhFuhmi32x760HfcvLIO.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/c5MCkebYhFuhmi32x760HfcvLIO.jpg",
+      "addedDate": "2024-09-09T06:45:23Z"
     },
     {
       "title": "Puss In Boots: The Last Wish",
@@ -17038,7 +17307,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/kav9SgYBGE7ikJXO5ktlEILJYPI.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/jr8tSoJGj33XLgFBy6lmZhpGQNu.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jr8tSoJGj33XLgFBy6lmZhpGQNu.jpg",
+      "addedDate": "2023-10-05T12:28:57Z"
     },
     {
       "title": "Rain Man",
@@ -17109,7 +17379,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/bzLcU0z0hyEWqgIAKvnsbxkCeaM.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/b3tos7Tsd6lsTe52Nn4TMrEQg65.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/b3tos7Tsd6lsTe52Nn4TMrEQg65.jpg",
+      "addedDate": "2023-12-31T10:01:16Z"
     },
     {
       "title": "Rambo: First Blood",
@@ -17182,7 +17453,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/hJWuFpjvMuz9kDuoSFMnLPTg7Vm.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/hCxxOJojCUFyuahDx167glJgp7E.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hCxxOJojCUFyuahDx167glJgp7E.jpg",
+      "addedDate": "2018-09-03T08:17:02Z"
     },
     {
       "title": "Rambo: Last Blood",
@@ -17255,7 +17527,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/mVMm6BGBdB1HOpTyBCXaO2Nlt2T.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/spYx9XQFODuqEVoPpvaJI1ksAVt.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/spYx9XQFODuqEVoPpvaJI1ksAVt.jpg",
+      "addedDate": "2025-08-16T07:06:03Z"
     },
     {
       "title": "Red Eye",
@@ -17327,7 +17600,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/ylWzfTbFqZBfZf58KAtw8Ibwsue.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/1uRkvEDPvZUIGtGnJz895ajvb7Y.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/1uRkvEDPvZUIGtGnJz895ajvb7Y.jpg",
+      "addedDate": "2017-04-19T10:13:44Z"
     },
     {
       "title": "Robocop",
@@ -17400,7 +17674,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/kYXkZRA5DVrfU30NTnSlMifYHoK.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/xcaX6BZ1JUPSVMH2gBkWIckLLaA.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xcaX6BZ1JUPSVMH2gBkWIckLLaA.jpg",
+      "addedDate": "2021-06-29T20:04:03Z"
     },
     {
       "title": "Rocky",
@@ -17471,7 +17746,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/raayaQ9WTUGolsYHPWc2bGonu58.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/bacOuUnRBoAO1NjMfsAGX2EKRrS.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bacOuUnRBoAO1NjMfsAGX2EKRrS.jpg",
+      "addedDate": "2019-06-10T07:06:45Z"
     },
     {
       "title": "Rogue One: A Star Wars Story",
@@ -17544,7 +17820,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/xRGeAT2dAYmHT5ucsYBj4xegKdV.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/6t8ES1d12OzWyCGxBeDYLHoaDrT.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/6t8ES1d12OzWyCGxBeDYLHoaDrT.jpg",
+      "addedDate": "2021-04-26T07:45:25Z"
     },
     {
       "title": "Rosemary's Baby",
@@ -17617,7 +17894,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/b6Q3cCcWdoN8YXpaPMSBGi8xDCy.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/qszuXKhzYR24oRpsmh7eZaPbvL8.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qszuXKhzYR24oRpsmh7eZaPbvL8.jpg",
+      "addedDate": "2020-04-09T06:32:14Z"
     },
     {
       "title": "Saving Private Ryan",
@@ -17690,7 +17968,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/g0QGqHG2fjaIyWLtKWMqleGD27o.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/bdD39MpSVhKjxarTxLSfX6baoMP.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bdD39MpSVhKjxarTxLSfX6baoMP.jpg",
+      "addedDate": "2021-02-12T14:01:36Z"
     },
     {
       "title": "Shape of Water - Das Flüstern des Wassers",
@@ -17763,7 +18042,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/gBMxp2jpVgyVWAEFDvpqjNjfA4b.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/abirSHwWgKajV3hXhaIR5lcCIXe.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/abirSHwWgKajV3hXhaIR5lcCIXe.jpg",
+      "addedDate": "2018-12-27T08:11:37Z"
     },
     {
       "title": "Sherlock Holmes (2009)",
@@ -17836,7 +18116,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/e9kRhrDgboGcC5CIyXNtds4fLU0.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/85g84VtSf9tu1A9JqqruXEHspb7.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/85g84VtSf9tu1A9JqqruXEHspb7.jpg",
+      "addedDate": "2020-10-05T18:17:11Z"
     },
     {
       "title": "Sherlock Holmes: A Game of Shadows",
@@ -17909,7 +18190,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/tJCxd1ITVvX0htQ5dBDR7uokm1O.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/lWNASscWXn32Asr9vkB1wq6cKvD.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lWNASscWXn32Asr9vkB1wq6cKvD.jpg",
+      "addedDate": "2020-10-05T18:17:11Z"
     },
     {
       "title": "Shrek",
@@ -17985,7 +18267,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/r3OsqCs873HjQiXHTZ2rLZyBBxC.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/w0eKUOEog2ImtktCHAMUZws8qif.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/w0eKUOEog2ImtktCHAMUZws8qif.jpg",
+      "addedDate": "2023-04-03T20:59:57Z"
     },
     {
       "title": "Shrek 2 - Der tollkühne Held kehrt zurück",
@@ -18062,7 +18345,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/uygoHVaXQvB6BYJfca4KDkb9jmM.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/8ohobj5lAIbl5XWw11FywS3IRrS.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8ohobj5lAIbl5XWw11FywS3IRrS.jpg",
+      "addedDate": "2023-04-03T21:00:28Z"
     },
     {
       "title": "Sicario",
@@ -18135,7 +18419,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/s9v9EMtparHlLEF43u4gZMielu8.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/fKPgObonYgPgCdu88yjV7Hpn7Dp.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fKPgObonYgPgCdu88yjV7Hpn7Dp.jpg",
+      "addedDate": "2018-07-01T07:27:38Z"
     },
     {
       "title": "Sideways",
@@ -18208,7 +18493,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/zOsaxYLgvZVU7cJBpPn8CuE0MrP.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/zmuRxro8AxPDjACjXTIIDCUNwDl.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/zmuRxro8AxPDjACjXTIIDCUNwDl.jpg",
+      "addedDate": "2018-06-01T07:44:09Z"
     },
     {
       "title": "Sieben",
@@ -18281,7 +18567,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/79tFIrbMweqs52PxForIRJRFCIW.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/i5H7zusQGsysGQ8i6P361Vnr0n2.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/i5H7zusQGsysGQ8i6P361Vnr0n2.jpg",
+      "addedDate": "2020-10-01T05:38:38Z"
     },
     {
       "title": "Silver Linings",
@@ -18354,7 +18641,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/wDjypOAgMDriKcEePXQweIW8otb.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/12GpsUm9nVVKFlcjDTflKLClFVA.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/12GpsUm9nVVKFlcjDTflKLClFVA.jpg",
+      "addedDate": "2022-09-12T05:44:34Z"
     },
     {
       "title": "Sin City",
@@ -18427,7 +18715,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/bYT76Gqo58fNugswfzD2WtOfl8c.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/t9kQnqiaxQ8TLB25rTzDKLd0fdM.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/t9kQnqiaxQ8TLB25rTzDKLd0fdM.jpg",
+      "addedDate": "2019-09-18T08:27:40Z"
     },
     {
       "title": "Sleepy Hollow",
@@ -18501,7 +18790,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/5r5qM47DQP2BGatpMzt8Jyuk8Ta.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/m8t7K3LcAY7bpyQ7iQ5kGsrcjnh.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/m8t7K3LcAY7bpyQ7iQ5kGsrcjnh.jpg",
+      "addedDate": "2021-08-04T18:07:54Z"
     },
     {
       "title": "Snatch",
@@ -18573,7 +18863,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/xHoPeUUI0lveDOyCEjKhxv2BSGo.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/32V4uHVRU2fbDsQl1dsYsZm3uba.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/32V4uHVRU2fbDsQl1dsYsZm3uba.jpg",
+      "addedDate": "2019-10-19T13:34:40Z"
     },
     {
       "title": "Solo: A Star Wars Story",
@@ -18646,7 +18937,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/oswfb5aM9NKi0iGHSiSL5HwiGxF.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/y9jGaGNn1dQDhPkhMumXaLize73.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/y9jGaGNn1dQDhPkhMumXaLize73.jpg",
+      "addedDate": "2018-12-25T07:56:00Z"
     },
     {
       "title": "Spaceballs",
@@ -18718,7 +19010,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/dPACyVABVJi8d9niZMKRb9kMn5E.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/p50q3DO1DTFhKH5CqNLRGio6zCo.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/p50q3DO1DTFhKH5CqNLRGio6zCo.jpg",
+      "addedDate": "2023-01-30T08:14:17Z"
     },
     {
       "title": "Species",
@@ -18791,7 +19084,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/y4KPDZEsXxtquqBVC5UWGAFRUhH.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/tEHmWaIzM0nuFi1CKQL8mJdJZsT.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/tEHmWaIzM0nuFi1CKQL8mJdJZsT.jpg",
+      "addedDate": "2023-09-18T06:14:07Z"
     },
     {
       "title": "Speed",
@@ -18863,7 +19157,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/y1pTveMf0kpIQOPvrdj6SGWfJ0z.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/lywmuPU5Hr1Mnpb9UGeDbILmkTx.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lywmuPU5Hr1Mnpb9UGeDbILmkTx.jpg",
+      "addedDate": "2019-02-11T18:04:07Z"
     },
     {
       "title": "Spider-Man",
@@ -18935,7 +19230,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/2xSL6CAWsynawHFDGdJSGutUj9X.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/zQ8AxTPiCiS5nnwXpwTBPBHSaa5.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/zQ8AxTPiCiS5nnwXpwTBPBHSaa5.jpg",
+      "addedDate": "2019-04-10T07:02:41Z"
     },
     {
       "title": "Spider-Man 2 (Extended Cut)",
@@ -19008,7 +19304,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/r2wWhkHLpxCWzTJgPaT2pRvV3vm.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/6al048Lat3eLVQOuKtc9h6Tu94d.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/6al048Lat3eLVQOuKtc9h6Tu94d.jpg",
+      "addedDate": "2017-11-11T16:01:09Z"
     },
     {
       "title": "Spider-Man 3",
@@ -19081,7 +19378,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/idzYppC7Qztelr7451Z0cWlvFFF.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/FfAU0PUs8AJkMU2VbkVNFtRXR4.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/FfAU0PUs8AJkMU2VbkVNFtRXR4.jpg",
+      "addedDate": "2021-05-12T14:28:33Z"
     },
     {
       "title": "Spider-Man: Across the Spider-Verse",
@@ -19157,7 +19455,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/6jYQM7zldTF0q6Ky1XbIJCNsS2L.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/kVd3a9YeLGkoeR50jGEXM6EqseS.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kVd3a9YeLGkoeR50jGEXM6EqseS.jpg",
+      "addedDate": "2024-01-26T07:30:34Z"
     },
     {
       "title": "Spider-Man: Far From Home",
@@ -19230,7 +19529,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/mp2rchOm2nchJ3E3fPzTFzkuLd3.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/wqBW5ltBJu0gs26yCc8shQQV82d.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/wqBW5ltBJu0gs26yCc8shQQV82d.jpg",
+      "addedDate": "2020-08-09T07:48:26Z"
     },
     {
       "title": "Spider-Man: Homecoming",
@@ -19303,7 +19603,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/elU7H73qN3WEQmmfdn0CdH3q8H8.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/lAsr1ytUq0ATWdCbcjf59pupPFy.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lAsr1ytUq0ATWdCbcjf59pupPFy.jpg",
+      "addedDate": "2020-08-09T07:48:26Z"
     },
     {
       "title": "Spider-Man: No Way Home (Extended Version)",
@@ -19376,7 +19677,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/iNKf4D0AzOj9GLq8ZyG3WZaqibL.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg",
+      "addedDate": "2022-12-27T07:49:53Z"
     },
     {
       "title": "Star Trek",
@@ -19449,7 +19751,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/hbFaX3xicuHbfdW0XpUy6uHS3EN.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/cqXEwYFcwyKPZCKl1jAPaG3cMsl.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cqXEwYFcwyKPZCKl1jAPaG3cMsl.jpg",
+      "addedDate": "2026-07-21T05:32:30Z"
     },
     {
       "title": "Star Trek Beyond",
@@ -19522,7 +19825,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/xpo9ssBGLUByAQv07IDndHjt99s.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/nkr43pY7ZzUt9b0kDFwJLVuDP8G.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nkr43pY7ZzUt9b0kDFwJLVuDP8G.jpg",
+      "addedDate": "2026-07-21T05:34:08Z"
     },
     {
       "title": "Star Trek I: Der Film",
@@ -19595,7 +19899,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/qB28sUTcYBxRIblIbAmPcmZHXdB.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/rPaOAtK6OpnHQ9r61WPM4WWNxaH.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rPaOAtK6OpnHQ9r61WPM4WWNxaH.jpg",
+      "addedDate": "2019-03-06T19:25:03Z"
     },
     {
       "title": "Star Trek II: Der Zorn des Khan (Director's Cut)",
@@ -19668,7 +19973,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/2om9WPN7BkubGZoAu9gD992EKRp.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/meqmvZjKpQ7WRhpZvIoKIAvioSD.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/meqmvZjKpQ7WRhpZvIoKIAvioSD.jpg",
+      "addedDate": "2019-03-06T19:25:03Z"
     },
     {
       "title": "Star Trek III: Auf der Suche nach Mr. Spock",
@@ -19742,7 +20048,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/7MZhIME6So6nU2hv1ZIaH9yqMAo.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/hFXXFpqrD0tvZPhILN4uqtNZDpY.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hFXXFpqrD0tvZPhILN4uqtNZDpY.jpg",
+      "addedDate": "2019-03-06T19:25:03Z"
     },
     {
       "title": "Star Trek Into Darkness",
@@ -19815,7 +20122,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/r4Rw5B2XRktiRyeS1PqJE0rc3e2.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/npDrIM6ZbuD7nUxI7ZzNBxs4IRF.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/npDrIM6ZbuD7nUxI7ZzNBxs4IRF.jpg",
+      "addedDate": "2026-07-21T05:33:05Z"
     },
     {
       "title": "Star Trek IV: The Voyage Home",
@@ -19887,7 +20195,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/6gWBif62qWF4o35MoyGPMvFJ0su.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/2LiU13aDAWpU2mX25JdacTzBnyr.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2LiU13aDAWpU2mX25JdacTzBnyr.jpg",
+      "addedDate": "2019-03-06T19:25:03Z"
     },
     {
       "title": "Star Trek IX: Insurrection",
@@ -19961,7 +20270,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/tqQ7m9hY9ZZR6Ph9cHy58xKzA5i.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/vsjuHP9RQZJgYUvvSlO3mjJpXkq.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vsjuHP9RQZJgYUvvSlO3mjJpXkq.jpg",
+      "addedDate": "2019-03-06T19:25:03Z"
     },
     {
       "title": "Star Trek V: Am Rande des Universums",
@@ -20035,7 +20345,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/ztweuHd2KWn8lXmalTbMC5rJ88Y.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/y0klN15XPVyYtd4P7HYecgJXSsZ.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/y0klN15XPVyYtd4P7HYecgJXSsZ.jpg",
+      "addedDate": "2019-03-06T19:25:03Z"
     },
     {
       "title": "Star Trek VI: Das unentdeckte Land (Director's Cut)",
@@ -20109,7 +20420,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/zS71Rf8MKZ2FPTfTGZDXhxFv50L.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/nGJTamFPZ9V4JX5YpiOS0UDuwmx.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nGJTamFPZ9V4JX5YpiOS0UDuwmx.jpg",
+      "addedDate": "2019-03-06T19:25:03Z"
     },
     {
       "title": "Star Trek VII: Generations",
@@ -20183,7 +20495,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/30G61tYFNnlbRKX2OhLVCORqtM4.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/mNdsbVuRdsyo8eitW2IBW2BWRkU.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mNdsbVuRdsyo8eitW2IBW2BWRkU.jpg",
+      "addedDate": "2019-03-06T19:25:03Z"
     },
     {
       "title": "Star Trek VIII: Der erste Kontakt",
@@ -20257,7 +20570,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/wMF9EMNko3I0tI55j5POMSvmesi.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/wygUDDRNpeKUnkekRGeLCZM93tA.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/wygUDDRNpeKUnkekRGeLCZM93tA.jpg",
+      "addedDate": "2019-03-06T19:25:03Z"
     },
     {
       "title": "Star Trek X: Nemesis",
@@ -20331,7 +20645,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/jpvySyrGdnQfnKgw1sY9cgPTJuf.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/6z9w8eidKWDDXwZNSVNaRolAYEP.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/6z9w8eidKWDDXwZNSVNaRolAYEP.jpg",
+      "addedDate": "2019-03-06T19:25:03Z"
     },
     {
       "title": "Star Wars: Angriff der Klonkrieger",
@@ -20404,7 +20719,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/q090XcaB783cXdRBOU9TfsmGGP8.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/cxvr2IOTwHcQa3EqMoQ8RHCkqBG.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cxvr2IOTwHcQa3EqMoQ8RHCkqBG.jpg",
+      "addedDate": "2020-04-10T10:15:49Z"
     },
     {
       "title": "Star Wars: Das Erwachen der Macht",
@@ -20477,7 +20793,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/6EyJ3fxzjDr0Ly4i4u9VD8sja1N.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/8BTsTfln4jlQrLXUBquXJ0ASQy9.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8BTsTfln4jlQrLXUBquXJ0ASQy9.jpg",
+      "addedDate": "2020-04-15T05:54:50Z"
     },
     {
       "title": "Star Wars: Das Imperium schlägt zurück",
@@ -20550,7 +20867,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/mi08uIh7ZqYlJEMrc5l2986geSU.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/k9pshruhCpJAdH9RaGJO6jaWQ4X.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/k9pshruhCpJAdH9RaGJO6jaWQ4X.jpg",
+      "addedDate": "2018-12-21T09:51:08Z"
     },
     {
       "title": "Star Wars: Die dunkle Bedrohung",
@@ -20623,7 +20941,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/4e0X8XDjgLu3H2iKiCz44WEl7dA.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/3TeGmKJfkik1D1rIoqGb1aR4k9c.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3TeGmKJfkik1D1rIoqGb1aR4k9c.jpg",
+      "addedDate": "2021-04-26T07:40:40Z"
     },
     {
       "title": "Star Wars: Die letzten Jedi",
@@ -20696,7 +21015,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/6LyUrFO0i5AgpWVQlAQyA01Euhy.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/5Iw7zQTHVRBOYpA0V6z0yypOPZh.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5Iw7zQTHVRBOYpA0V6z0yypOPZh.jpg",
+      "addedDate": "2020-04-16T05:43:07Z"
     },
     {
       "title": "Star Wars: Die Rache der Sith",
@@ -20769,7 +21089,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/kW3v2VS0kRvMTS6atR4MzjrzxAP.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/5vDuLrjJXFS9PTF7Q1xzobmYKR9.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5vDuLrjJXFS9PTF7Q1xzobmYKR9.jpg",
+      "addedDate": "2020-04-11T06:22:00Z"
     },
     {
       "title": "Star Wars: Die Rückkehr der Jedi-Ritter",
@@ -20842,7 +21163,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/xwwbeCWW1jMSDPfRPJp8X4oySPr.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/ziECpBRIyclmBNaFSWlvCfsKbMD.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ziECpBRIyclmBNaFSWlvCfsKbMD.jpg",
+      "addedDate": "2018-12-21T09:51:41Z"
     },
     {
       "title": "Star Wars: Eine Neue Hoffnung",
@@ -20915,7 +21237,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/crUUE14AROxNWsMdmyyqZNcUB6L.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/zqkmTXzjkAgXmEWLRsY4UpTWCeo.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/zqkmTXzjkAgXmEWLRsY4UpTWCeo.jpg",
+      "addedDate": "2017-12-07T21:02:32Z"
     },
     {
       "title": "Star Wars: The Rise of Skywalker",
@@ -20988,7 +21311,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/dAk1ClViS20eUEjfxjeknceMBi7.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/auJKGst3vXpJozHZh4nMFs0xWIU.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/auJKGst3vXpJozHZh4nMFs0xWIU.jpg",
+      "addedDate": "2020-08-03T10:36:48Z"
     },
     {
       "title": "Starship Troopers",
@@ -21062,7 +21386,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/lI9vZTmr2Fenh8PwrvnoSLzqv5v.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/7iEfnj3rfyunky6BzvnlwqfoEF0.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7iEfnj3rfyunky6BzvnlwqfoEF0.jpg",
+      "addedDate": "2021-03-15T07:50:40Z"
     },
     {
       "title": "Stirb langsam",
@@ -21134,7 +21459,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/bEra6hps6fBk7Uq4hE6CioIhKIT.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/bvk2AAH64lP2YZs02Q3jskfHT8j.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bvk2AAH64lP2YZs02Q3jskfHT8j.jpg",
+      "addedDate": "2018-12-17T08:25:43Z"
     },
     {
       "title": "Stirb langsam 2",
@@ -21206,7 +21532,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/mdB97eGzcIbQtpxyQuWq25a38v4.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/cDtefl7KGnKrDziEUXetMnztvqr.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cDtefl7KGnKrDziEUXetMnztvqr.jpg",
+      "addedDate": "2018-12-17T08:25:43Z"
     },
     {
       "title": "Stirb langsam 4.0",
@@ -21278,7 +21605,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/3zBDg1myjzemYsHygYwo1L9ukqs.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/aRqTPOPt8BOHE0ngppM9jnuuaeS.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/aRqTPOPt8BOHE0ngppM9jnuuaeS.jpg",
+      "addedDate": "2018-06-05T20:14:28Z"
     },
     {
       "title": "Sunshine",
@@ -21350,7 +21678,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/oKGGeJ8qvm0UmClz43VJ31fzPP7.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/5AIAnucJKZ3sHpm7r1ykFVIoUHK.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5AIAnucJKZ3sHpm7r1ykFVIoUHK.jpg",
+      "addedDate": "2020-08-17T07:16:20Z"
     },
     {
       "title": "Super - Shut Up, Crime",
@@ -21423,7 +21752,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/bKBKl04Q52kDpslwgYrHQCkud8E.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/5OGrBmi0fWAE6b1R6uv5EnuWOaL.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5OGrBmi0fWAE6b1R6uv5EnuWOaL.jpg",
+      "addedDate": "2020-03-09T07:49:07Z"
     },
     {
       "title": "Superbad",
@@ -21494,7 +21824,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/cFGDxYBNvwZ6nQLN0dJxu85RRBN.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/coru98UcFBzJIU7bxZguxaePgu0.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/coru98UcFBzJIU7bxZguxaePgu0.jpg",
+      "addedDate": "2018-06-10T07:01:48Z"
     },
     {
       "title": "Suspiria",
@@ -21567,7 +21898,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/ietR9LYrnud7ibM73d6VW97aEpD.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/k4renoGJzagylgBYWbpjQLYGAfB.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/k4renoGJzagylgBYWbpjQLYGAfB.jpg",
+      "addedDate": "2019-07-19T12:05:36Z"
     },
     {
       "title": "Taking Lives",
@@ -21638,7 +21970,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/hqGqh6mwmwWTBFcKojIIp8c4fyj.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/7IciAaJltRsOohcz2JlkupIF1s9.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7IciAaJltRsOohcz2JlkupIF1s9.jpg",
+      "addedDate": "2018-08-21T15:36:01Z"
     },
     {
       "title": "Talladega Nights: The Ballad of Ricky Bobby",
@@ -21709,7 +22042,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/AooR8CRMbC6GDyg0vDtGjnzL3dt.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/qTVgXx0pgBmsGqc8wJsfbd71ppa.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qTVgXx0pgBmsGqc8wJsfbd71ppa.jpg",
+      "addedDate": "2021-07-26T05:44:19Z"
     },
     {
       "title": "Taxi Driver",
@@ -21781,7 +22115,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/8FbDLFGRPdWaEz5hWC9wyG0d2il.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/9uddYYTNcLWpzUkl5iw1RUYhLhY.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9uddYYTNcLWpzUkl5iw1RUYhLhY.jpg",
+      "addedDate": "2018-07-19T13:43:03Z"
     },
     {
       "title": "Tenet",
@@ -21854,7 +22189,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/jutsxphSGbnpxpGr23xzbf2ziQZ.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/mQOUyqDybTqxl73hO5LujCZsM1o.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mQOUyqDybTqxl73hO5LujCZsM1o.jpg",
+      "addedDate": "2021-12-24T08:05:54Z"
     },
     {
       "title": "Terminator - Dark Fate",
@@ -21928,7 +22264,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/82HDCTyZodnquPmX1dmGlfDVysL.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/a6cDxdwaQIFjSkXf7uskg78ZyTq.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/a6cDxdwaQIFjSkXf7uskg78ZyTq.jpg",
+      "addedDate": "2026-09-22T05:57:41Z"
     },
     {
       "title": "Terminator 2 - Tag der Abrechnung",
@@ -22001,7 +22338,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/4VqVoURCh0hGvnvKq3148SjePIo.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/izkMjmhauFx9DjoBQqM5sM5WAwE.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/izkMjmhauFx9DjoBQqM5sM5WAwE.jpg",
+      "addedDate": "2018-02-05T09:09:50Z"
     },
     {
       "title": "Terminator 3: Rise of the Machines",
@@ -22074,7 +22412,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/rwlbq0wPLtRbEFAnDOXSPxA3p6V.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/voVkSwgFYv9GOpRNfUAwj6qYRTL.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/voVkSwgFYv9GOpRNfUAwj6qYRTL.jpg",
+      "addedDate": "2018-07-30T08:27:37Z"
     },
     {
       "title": "Terminator Genisys",
@@ -22147,7 +22486,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/887EWUloOJyJha8rlQ2OAT5MdYm.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/wvlIoof1FnKPLv9jAYanuP31V0C.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/wvlIoof1FnKPLv9jAYanuP31V0C.jpg",
+      "addedDate": "2026-07-21T05:35:26Z"
     },
     {
       "title": "Terminator Salvation",
@@ -22220,7 +22560,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/8ja7t7A29NLaUIdlmJV8WfLZoAd.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/uifaXfJxjTMeNttw5u04nHx1G5w.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/uifaXfJxjTMeNttw5u04nHx1G5w.jpg",
+      "addedDate": "2024-04-26T20:12:03Z"
     },
     {
       "title": "The Adventures of Tintin: The Secret of the Unicorn",
@@ -22293,7 +22634,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/7Sja7LZ5v3wh8he4rWDZad5K4UR.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/6mqgl2szMLRYj4lhlXOjju5Tpeo.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/6mqgl2szMLRYj4lhlXOjju5Tpeo.jpg",
+      "addedDate": "2023-11-11T06:43:12Z"
     },
     {
       "title": "The Amazing Spider-Man",
@@ -22366,7 +22708,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/obiRQqEdHai44QkOCvuqyWwWl9o.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/sxskOU71CO8LaNX2LOtjYFUtKv7.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sxskOU71CO8LaNX2LOtjYFUtKv7.jpg",
+      "addedDate": "2018-08-02T07:06:06Z"
     },
     {
       "title": "The Amazing Spider-Man",
@@ -22439,7 +22782,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/obiRQqEdHai44QkOCvuqyWwWl9o.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/sxskOU71CO8LaNX2LOtjYFUtKv7.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sxskOU71CO8LaNX2LOtjYFUtKv7.jpg",
+      "addedDate": "2022-03-07T08:30:06Z"
     },
     {
       "title": "The Amazing Spider-Man 2",
@@ -22512,7 +22856,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/hyvMvFK5UExemO9XYbFj3Cdzfi9.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/k0hlAzTryCYX1O1LyC6P8tAa8s0.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/k0hlAzTryCYX1O1LyC6P8tAa8s0.jpg",
+      "addedDate": "2025-02-10T08:21:45Z"
     },
     {
       "title": "The Avengers",
@@ -22585,7 +22930,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/hGTqvK9WaI74szUDPMHXrrHfiH3.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/gHLs7Fy3DzLmLsD4lmfqL55KGcl.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/gHLs7Fy3DzLmLsD4lmfqL55KGcl.jpg",
+      "addedDate": "2018-08-24T06:08:22Z"
     },
     {
       "title": "The Batman",
@@ -22658,7 +23004,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/6zm78OqO4jWCpuaZ7q6Mb5j1beM.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/rvtdN5XkWAfGX6xDuPL6yYS2seK.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rvtdN5XkWAfGX6xDuPL6yYS2seK.jpg",
+      "addedDate": "2022-12-23T04:00:01Z"
     },
     {
       "title": "The Big Lebowski",
@@ -22731,7 +23078,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/A5FjOdZ8V8d1eAlBggslIz4qCkn.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/77ElMccPnTMPouRxSdbJ4nEjf69.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/77ElMccPnTMPouRxSdbJ4nEjf69.jpg",
+      "addedDate": "2017-03-13T11:40:34Z"
     },
     {
       "title": "The Big Short",
@@ -22803,7 +23151,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/sx9g3orhh240jTdFensKNt0NXj6.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/iof28QKa6bKFYCXSexuITxdKBvi.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/iof28QKa6bKFYCXSexuITxdKBvi.jpg",
+      "addedDate": "2021-09-20T11:28:32Z"
     },
     {
       "title": "The Bourne Identity",
@@ -22876,7 +23225,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/fvolOVhsJnKGK8HYUhgQ7tuIsIh.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/kJaRWmy1BGq3pHyE94LOTteiHer.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kJaRWmy1BGq3pHyE94LOTteiHer.jpg",
+      "addedDate": "2019-09-16T07:40:15Z"
     },
     {
       "title": "The Butterfly Effect (2004)",
@@ -22949,7 +23299,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/iq0ybHEcCO012b3OjDPJHvnw1eK.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/75UPGUm2Zm6M60szq1gQisDF4g.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/75UPGUm2Zm6M60szq1gQisDF4g.jpg",
+      "addedDate": "2020-10-05T18:22:01Z"
     },
     {
       "title": "The Cabin in the Woods",
@@ -23021,7 +23372,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/H00vei4r34VN5LjBONjMOwb5Kt.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/wJffMiCnrszaNclKggGixYWB7D7.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/wJffMiCnrszaNclKggGixYWB7D7.jpg",
+      "addedDate": "2020-10-26T19:17:03Z"
     },
     {
       "title": "The Cable Guy",
@@ -23094,7 +23446,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/8SrnZN8pyqLDEXPKJqB2wYK6aXv.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/nj0rIFyjZ0GUOQYnGM8YyGR3CmS.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nj0rIFyjZ0GUOQYnGM8YyGR3CmS.jpg",
+      "addedDate": "2019-10-03T16:45:11Z"
     },
     {
       "title": "The Cell",
@@ -23167,7 +23520,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/enRctKFigeAY9fGr0cpsmuGTPwl.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/iFJ7GEIjIysbEJ36TohH28x6Nyu.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/iFJ7GEIjIysbEJ36TohH28x6Nyu.jpg",
+      "addedDate": "2018-08-21T15:36:49Z"
     },
     {
       "title": "The Dark Knight",
@@ -23240,7 +23594,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/z1DfRQf2CgnROyhVZ6ch8FbWt71.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/cfT29Im5VDvjE0RpyKOSdCKZal7.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cfT29Im5VDvjE0RpyKOSdCKZal7.jpg",
+      "addedDate": "2017-10-19T16:11:52Z"
     },
     {
       "title": "The Dark Knight Rises",
@@ -23313,7 +23668,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/9NyCuhyvFKTqGRLcr4r8fWXnu9v.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/c3OHQncTAnKFhdOTX7D3LTW6son.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/c3OHQncTAnKFhdOTX7D3LTW6son.jpg",
+      "addedDate": "2017-10-19T16:11:52Z"
     },
     {
       "title": "The Exorcist (1973)",
@@ -23384,7 +23740,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/x7pwEqdrKJ7dO5qIk9bdihubC0I.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/xcjJ5khg2yzOa282mza39Lbrm7j.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xcjJ5khg2yzOa282mza39Lbrm7j.jpg",
+      "addedDate": "2020-06-04T07:08:04Z"
     },
     {
       "title": "The Favourite - Intrigen und Irrsinn",
@@ -23457,7 +23814,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/gpCnCzFS0erNqTY6o3tILQKpjGp.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/iSskYDN193CJfTbSpFfscSwZ9Sx.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/iSskYDN193CJfTbSpFfscSwZ9Sx.jpg",
+      "addedDate": "2021-12-24T08:04:34Z"
     },
     {
       "title": "The Fugitive",
@@ -23530,7 +23888,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/gHky7DmShQLiHA34FcEv6Is1DLY.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/tN7ZVNWLgh57iZzMyvuhunIuUVd.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/tN7ZVNWLgh57iZzMyvuhunIuUVd.jpg",
+      "addedDate": "2020-03-18T10:24:37Z"
     },
     {
       "title": "The Godfather",
@@ -23602,7 +23961,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/uumEbSnYqeV1oennyVx8DPVjujF.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/ejdD20cdHNFAYAN2DlqPToXKyzx.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ejdD20cdHNFAYAN2DlqPToXKyzx.jpg",
+      "addedDate": "2023-02-13T07:17:34Z"
     },
     {
       "title": "The Graduate (50th Anniversary Edition)",
@@ -23675,7 +24035,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/d5yfstpRHhnZi0v6JO5qgHHhmkB.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/lIY8ZTp6OJTAMfiorDGsPsJ5LT.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lIY8ZTp6OJTAMfiorDGsPsJ5LT.jpg",
+      "addedDate": "2018-06-21T07:30:41Z"
     },
     {
       "title": "The Green Knight",
@@ -23748,7 +24109,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/8E6URZ4vFpz7W1ZgB9IlyahUQeo.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/kIQc0kkqIYTo65x5XjlKgqdDQ6a.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kIQc0kkqIYTo65x5XjlKgqdDQ6a.jpg",
+      "addedDate": "2023-12-01T20:27:07Z"
     },
     {
       "title": "The Hangover",
@@ -23819,7 +24181,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/cwoVDVzJuGAD3OAji9OkHENrUB0.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/iuRVt8tFiXDPGgzavhuSa3QHRxD.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/iuRVt8tFiXDPGgzavhuSa3QHRxD.jpg",
+      "addedDate": "2020-03-05T12:59:13Z"
     },
     {
       "title": "The Hateful 8",
@@ -23892,7 +24255,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/kicXJhMpeB5xFbBG4EHcfIyOnyK.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/7g1zO5t0bd27Iqn5ZUDJmksOGPJ.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7g1zO5t0bd27Iqn5ZUDJmksOGPJ.jpg",
+      "addedDate": "2019-08-15T07:35:28Z"
     },
     {
       "title": "The Hobbit: An Unexpected Journey (Extended Edition)",
@@ -23965,7 +24329,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/bPYCAzOB3M3PZ91BpQzJeReKkP8.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/xyXmtuvsoM5J3yNad0nvcetpBdY.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xyXmtuvsoM5J3yNad0nvcetpBdY.jpg",
+      "addedDate": "2018-12-22T20:36:10Z"
     },
     {
       "title": "The Hobbit: The Battle of the Five Armies (Extended Edition)",
@@ -24038,7 +24403,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/mNZ4MxL0KdW9VBMXSAhiiGFDYaa.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/3UbaCMmqOd7mca4Y5DOzY2ZVTyX.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3UbaCMmqOd7mca4Y5DOzY2ZVTyX.jpg",
+      "addedDate": "2018-12-22T20:36:10Z"
     },
     {
       "title": "The Hobbit: The Desolation of Smaug (Extended Edition)",
@@ -24111,7 +24477,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/60O2sdzZcPX8vXyDOYHi7exrnil.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/5ZYxL6k4ZHrEmrFvmY4HZVzerxG.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5ZYxL6k4ZHrEmrFvmY4HZVzerxG.jpg",
+      "addedDate": "2018-12-22T20:36:10Z"
     },
     {
       "title": "The Invisible Man (2020)",
@@ -24184,7 +24551,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/q2I1yFqDFyuIT3wfmv7fPIV05DV.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/tweDJNQzBGgsWVF5MC8JhSAk07p.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/tweDJNQzBGgsWVF5MC8JhSAk07p.jpg",
+      "addedDate": "2021-05-10T05:50:50Z"
     },
     {
       "title": "The Killing of a Sacred Deer",
@@ -24257,7 +24625,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/9i6aaP00WyRaPXGsPBaOjKGPnVo.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/kJwQXgAk440l2vZOspUJee6inim.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kJwQXgAk440l2vZOspUJee6inim.jpg",
+      "addedDate": "2019-08-28T05:52:31Z"
     },
     {
       "title": "The Last Boy Scout",
@@ -24329,7 +24698,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/w8kExyJaxwnVPN9TFiqfiDth1JA.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/8AZ8Hjcr4Jr1eR93OW70g9jjUr9.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8AZ8Hjcr4Jr1eR93OW70g9jjUr9.jpg",
+      "addedDate": "2019-01-03T22:59:32Z"
     },
     {
       "title": "The Last Kiss",
@@ -24402,7 +24772,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/4o4m7JswtxzRLde1DjyI2G2nSJs.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/hLSwAHrNDSVyBY2VrlbAuTG30ep.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hLSwAHrNDSVyBY2VrlbAuTG30ep.jpg",
+      "addedDate": "2022-09-12T18:13:53Z"
     },
     {
       "title": "The Lighthouse (2019)",
@@ -24471,7 +24842,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/aAoiLALCZaiYKs8unKUYk6G29br.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/sYLzRuEcwSz0L1Z92wQNrETHU9O.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sYLzRuEcwSz0L1Z92wQNrETHU9O.jpg",
+      "addedDate": "2021-05-10T05:49:53Z"
     },
     {
       "title": "The Lobster",
@@ -24544,7 +24916,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/7S6WXFidBFwdCcraAiFDLsjkniI.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/s48CvFbWoWHhSPgz2wW9Rffw04q.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/s48CvFbWoWHhSPgz2wW9Rffw04q.jpg",
+      "addedDate": "2020-09-17T07:29:04Z"
     },
     {
       "title": "The Lord of the Rings: The Fellowship of the Ring (Extended Edition)",
@@ -24617,7 +24990,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/k6lw7hhaMDzJ170bfZfBbnipxcW.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/oiwc338EoBgS4sEI2ixAny4KQKg.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/oiwc338EoBgS4sEI2ixAny4KQKg.jpg",
+      "addedDate": "2018-12-17T22:54:41Z"
     },
     {
       "title": "The Lost World: Jurassic Park",
@@ -24690,7 +25064,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/6oKqsABy0yziUHCrU9d8za09HDC.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/A4rYaPdzgocCjQ0n9LUSYUxyvpS.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/A4rYaPdzgocCjQ0n9LUSYUxyvpS.jpg",
+      "addedDate": "2018-06-16T13:59:40Z"
     },
     {
       "title": "The Mask",
@@ -24764,7 +25139,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/4X5Ls9qKxwfIpvwqskqlYjYtFlw.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/bQlw59HncOXX9alFlOYKHAvSnm.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bQlw59HncOXX9alFlOYKHAvSnm.jpg",
+      "addedDate": "2020-07-30T05:29:38Z"
     },
     {
       "title": "The Matrix Reloaded",
@@ -24838,7 +25214,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/eq7GAThE7piM4SsUIgRJQzU4lLB.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/ihOJcrorpDQtHTzIOrobbOhpJsj.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ihOJcrorpDQtHTzIOrobbOhpJsj.jpg",
+      "addedDate": "2018-04-05T15:20:42Z"
     },
     {
       "title": "The Matrix Resurrections",
@@ -24911,7 +25288,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/hF7jgEhP4ypR2oS5BQD1pxbg7QY.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/eNI7PtK6DEYgZmHWP9gQNuff8pv.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/eNI7PtK6DEYgZmHWP9gQNuff8pv.jpg",
+      "addedDate": "2022-12-31T08:06:09Z"
     },
     {
       "title": "The Matrix Revolutions",
@@ -24985,7 +25363,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/8lVaiIfbyZ5Oe3nLJoeAVRUXKAb.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/533xAMhhVyjTy8hwMUFEt5TuDfR.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/533xAMhhVyjTy8hwMUFEt5TuDfR.jpg",
+      "addedDate": "2020-03-05T15:34:11Z"
     },
     {
       "title": "The Naked Gun: From the Files of Police Squad!",
@@ -25057,7 +25436,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/2EjR99blDO7dEkMfaGrMPYeIFpN.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/qpjuVCGZvNsbDa4UyxrbAa4Dno3.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qpjuVCGZvNsbDa4UyxrbAa4Dno3.jpg",
+      "addedDate": "2018-07-06T05:34:59Z"
     },
     {
       "title": "The Neon Demon",
@@ -25129,7 +25509,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/6q8EqDdc9oq6XJ6xLUQAh5opUd8.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/djwY73Uilfe7B8jKRmSuxjet9UF.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/djwY73Uilfe7B8jKRmSuxjet9UF.jpg",
+      "addedDate": "2019-10-14T14:12:04Z"
     },
     {
       "title": "The Nice Guys",
@@ -25202,7 +25583,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/n3CP3VtCoFuB7Wnh8Zyhx8erlnZ.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/yxYUN3fBPJdTNdXC1l8L24XFPhX.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/yxYUN3fBPJdTNdXC1l8L24XFPhX.jpg",
+      "addedDate": "2019-10-09T06:02:19Z"
     },
     {
       "title": "The Northman",
@@ -25275,7 +25657,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/kPUjG92le8QfG1BP2WzptMoT7PJ.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/fMiEp00v8gGWEceL4QeLu6H6z69.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fMiEp00v8gGWEceL4QeLu6H6z69.jpg",
+      "addedDate": "2024-05-20T06:48:26Z"
     },
     {
       "title": "The Notebook",
@@ -25347,7 +25730,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/aCcCUq9yp1O6flJsmHiEK8nPd3x.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/zdXnJqBaGFVtLoPNuMeKfEYUViZ.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/zdXnJqBaGFVtLoPNuMeKfEYUViZ.jpg",
+      "addedDate": "2020-03-09T07:50:28Z"
     },
     {
       "title": "The Ring",
@@ -25419,7 +25803,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/fePjuZ4YtSulGVQ4AhIstugGZx8.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/6tuNQ16hC4Qp7wjTweKzUnnLBkI.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/6tuNQ16hC4Qp7wjTweKzUnnLBkI.jpg",
+      "addedDate": "2020-04-21T17:28:11Z"
     },
     {
       "title": "The Rules of Attraction (2002)",
@@ -25492,7 +25877,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/doqprjSaofD9xEBhBdvRwKHHrRM.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/yTHvJqk7IFqnDCBBQ0ou60p2qvO.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/yTHvJqk7IFqnDCBBQ0ou60p2qvO.jpg",
+      "addedDate": "2023-12-20T21:43:35Z"
     },
     {
       "title": "The Shallows",
@@ -25565,7 +25951,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/bZ35CTpiexGj5NQS6mFF8NMpG3F.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/89ZSaf9Ofm7oDounnCOu4ktGI9e.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/89ZSaf9Ofm7oDounnCOu4ktGI9e.jpg",
+      "addedDate": "2020-08-21T05:51:08Z"
     },
     {
       "title": "The Shawshank Redemption",
@@ -25637,7 +26024,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/78Pb6FMLMfpm1jUOKTniwREYgAN.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/pNjh59JSxChQktamG3LMp9ZoQzp.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
+      "addedDate": "2021-07-01T05:32:33Z"
     },
     {
       "title": "The Shining",
@@ -25709,7 +26097,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/gbmXTxJWfI6Fd4C2bJqzgHiXWUU.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/AdKA2F1SzYPhSZdEbjH1Zh75UVQ.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/AdKA2F1SzYPhSZdEbjH1Zh75UVQ.jpg",
+      "addedDate": "2019-11-23T07:08:52Z"
     },
     {
       "title": "The Silence of the Lambs",
@@ -25782,7 +26171,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/yyW5OFz5r8S81R2Afj9ILiEa70w.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/mbOx1wxMLikzwWUO9TKAcFIy6op.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mbOx1wxMLikzwWUO9TKAcFIy6op.jpg",
+      "addedDate": "2021-02-08T07:27:06Z"
     },
     {
       "title": "The Social Network",
@@ -25853,7 +26243,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/zXPTguS0IkxI0ZVuqMGSXpy9XUd.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/1PXwh3nJzgRkkYnqfWInJNypeL4.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/1PXwh3nJzgRkkYnqfWInJNypeL4.jpg",
+      "addedDate": "2023-11-11T06:42:05Z"
     },
     {
       "title": "The Terminator",
@@ -25926,7 +26317,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/kdYu7YJJP0uuGEuhUX5toqvBSog.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/ffdqHMWkh1h9MABwIfbfRJhgFW6.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ffdqHMWkh1h9MABwIfbfRJhgFW6.jpg",
+      "addedDate": "2021-10-25T06:55:02Z"
     },
     {
       "title": "The Witch",
@@ -25999,7 +26391,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/s8C3CByr4dqWJSxOYx0l4mcLzR.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/zi2oYYNSSv7t44iSt5YrxHX9PYs.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/zi2oYYNSSv7t44iSt5YrxHX9PYs.jpg",
+      "addedDate": "2018-07-23T20:17:47Z"
     },
     {
       "title": "There Will Be Blood",
@@ -26070,7 +26463,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/r3VUQ6prbQ7O96BYd8PiMWzdQcm.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/9UAKA6ceZi6TgQwTAAMt7DWwYPI.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9UAKA6ceZi6TgQwTAAMt7DWwYPI.jpg",
+      "addedDate": "2021-08-04T18:06:39Z"
     },
     {
       "title": "There Will be Blood",
@@ -26141,7 +26535,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/r3VUQ6prbQ7O96BYd8PiMWzdQcm.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/9UAKA6ceZi6TgQwTAAMt7DWwYPI.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9UAKA6ceZi6TgQwTAAMt7DWwYPI.jpg",
+      "addedDate": "2019-12-04T07:58:05Z"
     },
     {
       "title": "Thor",
@@ -26214,7 +26609,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/wtHxoL3zFjIrjZBCGlRTb8ao1IW.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/cDJ61O1STtbWNBwefuqVrRe3d7l.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cDJ61O1STtbWNBwefuqVrRe3d7l.jpg",
+      "addedDate": "2018-08-24T06:11:15Z"
     },
     {
       "title": "Thor: Tag der Entscheidung",
@@ -26288,7 +26684,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/8etFULS6CRN39vvXykQH1mUD1yB.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/vLmHH8jAy8Jq8uBsLucd3592WGh.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vLmHH8jAy8Jq8uBsLucd3592WGh.jpg",
+      "addedDate": "2018-08-24T06:11:15Z"
     },
     {
       "title": "Thor: The Dark Kingdom",
@@ -26361,7 +26758,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/7a3za75dP6UPviHXNKIxzZNEwyx.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/5o88bbqcV5STn56jqOeovaaWbAE.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5o88bbqcV5STn56jqOeovaaWbAE.jpg",
+      "addedDate": "2018-08-24T06:11:15Z"
     },
     {
       "title": "Tomb Raider - Lara Croft",
@@ -26434,7 +26832,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/dCEaaECszzgA9JiQaMXDcJ32Lgl.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/bL41GVWvp4YJDJ50PDcxaN4cds9.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bL41GVWvp4YJDJ50PDcxaN4cds9.jpg",
+      "addedDate": "2023-09-05T06:37:47Z"
     },
     {
       "title": "Top Gun",
@@ -26507,7 +26906,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/3GYnkgHS06sW5CUwDcQThh4fhp4.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/dBgxEkWe17R0AJDAvAhpeVELQx2.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/dBgxEkWe17R0AJDAvAhpeVELQx2.jpg",
+      "addedDate": "2022-12-25T17:12:30Z"
     },
     {
       "title": "Top Gun: Maverick",
@@ -26579,7 +26979,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/cvLe7YpLTsgT25FpuTD1bwgEcWZ.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/AaV1YIdWKnjAIAOe8UUKBFm327v.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/AaV1YIdWKnjAIAOe8UUKBFm327v.jpg",
+      "addedDate": "2022-12-25T17:12:30Z"
     },
     {
       "title": "Triangle of Sadness",
@@ -26651,7 +27052,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/z1NuN3AgWSnFumdodvknUNPy3JN.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/vNPY4oCSUp7CxbHkKJNRx1fmCl0.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vNPY4oCSUp7CxbHkKJNRx1fmCl0.jpg",
+      "addedDate": "2024-04-30T20:57:48Z"
     },
     {
       "title": "Tropic Thunder",
@@ -26725,7 +27127,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/aGNSGI0f86Xul16UeSBVYLJpb15.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/4pLi4QMm0MZ9TSoF3l8qQmY9HNO.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4pLi4QMm0MZ9TSoF3l8qQmY9HNO.jpg",
+      "addedDate": "2024-11-25T06:49:36Z"
     },
     {
       "title": "Troy",
@@ -26797,7 +27200,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/3Mt64xsMF88cRz08ysJLLV2Qhws.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/ZPcC5hJh21QiW0jmhMQhZeSoGu.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ZPcC5hJh21QiW0jmhMQhZeSoGu.jpg",
+      "addedDate": "2019-12-01T18:42:44Z"
     },
     {
       "title": "True Lies - Wahre Lügen",
@@ -26869,7 +27273,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/4dpoMFIr45GZBMnmujZQ4CbNZE3.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/jRZ3joUcg8YDCQYl4Tog5xhY6wk.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jRZ3joUcg8YDCQYl4Tog5xhY6wk.jpg",
+      "addedDate": "2025-12-21T08:48:43Z"
     },
     {
       "title": "Under the Skin",
@@ -26942,7 +27347,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/uAjOXgAODnkREIBgW5HkGb5iHNv.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/eS5OdKN3kRZXQbWRSSCJ4Gh0z26.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/eS5OdKN3kRZXQbWRSSCJ4Gh0z26.jpg",
+      "addedDate": "2022-10-31T20:20:51Z"
     },
     {
       "title": "Unforgiven",
@@ -27013,7 +27419,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/1H4DIND9wyJoimp7Zz2RXurhaIh.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/rvRGFevvZK48onX0PYI1eQLbuJd.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rvRGFevvZK48onX0PYI1eQLbuJd.jpg",
+      "addedDate": "2020-03-05T15:36:21Z"
     },
     {
       "title": "Us (2019)",
@@ -27085,7 +27492,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/ArI8lhVctsC7fmyO68VTdLhr42V.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/sC0b8iPUHfZdD8kseLiHw3N8gkp.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sC0b8iPUHfZdD8kseLiHw3N8gkp.jpg",
+      "addedDate": "2021-10-25T06:55:28Z"
     },
     {
       "title": "V for Vendetta",
@@ -27158,7 +27566,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/hP6eVuYzqwk14YkIJay9rfHYaGt.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/sFEYsEfzTx7hhjetlNrme8B5OUo.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sFEYsEfzTx7hhjetlNrme8B5OUo.jpg",
+      "addedDate": "2020-01-30T08:53:34Z"
     },
     {
       "title": "V for Vendetta",
@@ -27231,7 +27640,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/hP6eVuYzqwk14YkIJay9rfHYaGt.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/sFEYsEfzTx7hhjetlNrme8B5OUo.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sFEYsEfzTx7hhjetlNrme8B5OUo.jpg",
+      "addedDate": "2021-06-02T07:46:18Z"
     },
     {
       "title": "Venom",
@@ -27303,7 +27713,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/e8XOhZTizIl4vTzOYqaUWIhI5iC.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+      "addedDate": "2022-12-26T07:13:10Z"
     },
     {
       "title": "Venom: Let There Be Carnage",
@@ -27376,7 +27787,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/ztoy8TiHu9qa22bW1DkhdNIzeF9.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/eENEf62tMXbhyVvdcXlnQz2wcuT.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/eENEf62tMXbhyVvdcXlnQz2wcuT.jpg",
+      "addedDate": "2023-02-13T07:26:48Z"
     },
     {
       "title": "Venom: The Last Dance",
@@ -27449,7 +27861,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/vKXYRRKHBwsCHbA1SBp0ZnWlEtd.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/3V4kLQg0kSqPLctI5ziYWabAZYF.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3V4kLQg0kSqPLctI5ziYWabAZYF.jpg",
+      "addedDate": "2025-08-22T05:29:26Z"
     },
     {
       "title": "Wall-E",
@@ -27522,7 +27935,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/TPClTvyD4a8DGz7sD8si6x7QqB.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
+      "addedDate": "2020-06-22T05:56:59Z"
     },
     {
       "title": "War of the Worlds (2005)",
@@ -27595,7 +28009,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/5YaxrCqAQ482jCixgT3PIdvf7tg.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/bInicBgSHfQiWLbnRT5jxw9Grvm.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bInicBgSHfQiWLbnRT5jxw9Grvm.jpg",
+      "addedDate": "2019-08-13T04:59:46Z"
     },
     {
       "title": "WarGames",
@@ -27668,7 +28083,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/6P1DTZy4o0qxLjU16wTd6eE9O6H.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/qtamfYGFfDLfGRcucx1zNwohRts.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qtamfYGFfDLfGRcucx1zNwohRts.jpg",
+      "addedDate": "2026-07-21T05:31:45Z"
     },
     {
       "title": "Watchmen Ultimate Cut",
@@ -27741,7 +28157,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/8ApzIqghxQElB77n8OXpdEqoGod.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/dH7ia3vtkYCa3CBvDnvVjqm9uiQ.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/dH7ia3vtkYCa3CBvDnvVjqm9uiQ.jpg",
+      "addedDate": "2020-07-27T05:36:32Z"
     },
     {
       "title": "We're the Millers",
@@ -27813,7 +28230,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/ksrF2wTqkhYaFwgBv17c7iLFRB2.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/jxDo3i2f6Ab1XeTWjdNDkkZYEju.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jxDo3i2f6Ab1XeTWjdNDkkZYEju.jpg",
+      "addedDate": "2023-11-10T18:13:07Z"
     },
     {
       "title": "Wonder Woman (2017)",
@@ -27886,7 +28304,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/c67v9Zbz6IPhoXuqJUPfFv6Q2tY.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/AaABt75ZzfMGrscUR2seabz4PEX.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/AaABt75ZzfMGrscUR2seabz4PEX.jpg",
+      "addedDate": "2019-09-24T03:45:41Z"
     },
     {
       "title": "Wonder Woman 1984",
@@ -27959,7 +28378,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/fSkiWLmSZJS5NBJBjztcMvfWNvS.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/egg7KFi18TSQc1s24RMmR9i2zO6.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/egg7KFi18TSQc1s24RMmR9i2zO6.jpg",
+      "addedDate": "2021-12-25T07:32:56Z"
     },
     {
       "title": "X-Men 2",
@@ -28032,7 +28452,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/5Dgx75EGgxF8mcrQKPYa8yBM8yw.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/s8ftvFvafWWEhApISamHx32bx6h.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/s8ftvFvafWWEhApISamHx32bx6h.jpg",
+      "addedDate": "2021-05-27T10:48:18Z"
     },
     {
       "title": "X-Men: Apocalypse",
@@ -28105,7 +28526,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/vsv91Fj4pxOEm2QJ96jq2EXS7QT.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/sTQNRqLbfCXolrb5CizAW1dj528.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sTQNRqLbfCXolrb5CizAW1dj528.jpg",
+      "addedDate": "2019-03-01T07:56:18Z"
     },
     {
       "title": "X-Men: Zukunft ist Vergangenheit",
@@ -28178,7 +28600,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/pPS6I2Fp8oSMCwMctHLmXntUvqP.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/3czpqXzFy5UcNuD1AubecRLWkwD.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3czpqXzFy5UcNuD1AubecRLWkwD.jpg",
+      "addedDate": "2019-03-15T07:30:55Z"
     },
     {
       "title": "Yakari - Der Kinofilm",
@@ -28236,7 +28659,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/gQSACOZ46u3ol5gYihTmz0lJBfA.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/tqSAfjnm3gZ66MD1BfQTdsDlrDy.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/tqSAfjnm3gZ66MD1BfQTdsDlrDy.jpg",
+      "addedDate": "2023-07-10T05:03:52Z"
     },
     {
       "title": "Zack Snyder’s Justice League",
@@ -28309,7 +28733,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/ovd9ZeFQMjqzmPA2kNwon6jr3ON.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/9WoLTsRgrupkvCgs3bhsl2EjLhs.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9WoLTsRgrupkvCgs3bhsl2EjLhs.jpg",
+      "addedDate": "2021-12-03T11:05:34Z"
     },
     {
       "title": "Zodiac: Die Spur des Killers",
@@ -28382,7 +28807,8 @@
         }
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/zlwYIkL5KfEHOXMlJrIHG1LLgCa.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/3zCPI4JFc54xvLaJ71oI2KoP3az.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3zCPI4JFc54xvLaJ71oI2KoP3az.jpg",
+      "addedDate": "2021-09-20T11:27:39Z"
     }
   ]
 }
