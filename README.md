@@ -29,7 +29,9 @@ The Apple TV app must be signed in and able to list your cloud purchases. From y
 /bin/zsh ./mac/publish.zsh
 ```
 
-The helper runs `mac/tv_movies.zsh`, checks that at least **300** movie rows were exported (`MIN_MOVIES` can override this), commits `movies.json` if changed, and calls `git push` using the remote you configured. This is an interactive command; for scheduled execution use your user `launchd` agent with an SSH key or other noninteractive Git authentication. Ensure macOS automation permission has already been granted to `/usr/bin/osascript` / Terminal for Apple TV. The helper leaves the previous JSON unchanged on failed export.
+The helper first runs `git pull --rebase` to integrate GitHub's enrichment commits and replay any unpublished local exports. It then runs `mac/tv_movies.zsh`, checks that at least **300** movie rows were exported (`MIN_MOVIES` can override this), commits only `movies.json` if changed, and calls `git push` using the remote you configured. It also pushes pending commits when the export is unchanged. If the push fails, it synchronizes and retries once, without force-pushing. Commit or stash tracked changes before running it; an existing Git operation stops publishing, and a conflicting rebase started by the helper is aborted with local commits preserved.
+
+This is an interactive command; for scheduled execution use your user `launchd` agent with an SSH key or other noninteractive Git authentication. Ensure macOS automation permission has already been granted to `/usr/bin/osascript` / Terminal for Apple TV. The helper leaves the previous JSON unchanged on failed export.
 
 To schedule the upload, customize `mac/com.example.apple-tv-movies.plist.example` with the **absolute path** to your cloned repo and copy it to `~/Library/LaunchAgents/com.example.apple-tv-movies.plist` (remove the `.example` extension). Then load it with:
 
